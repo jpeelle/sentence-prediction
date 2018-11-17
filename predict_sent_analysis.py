@@ -1,6 +1,7 @@
 #import enchant
 from collections import OrderedDict
 import sys
+import string
 
 def csv_reader(csvfiles):
     ''' Takes a list of Mechanical Turk csv files as input. For each file, it
@@ -28,8 +29,12 @@ def csv_reader(csvfiles):
                 #Half of 'indices' are sentences and half are the responses
                 num_questions = len(indices) // 2
                 for i in range(num_questions):
-                    question = line_list[indices[i]].lower()
+                    question = line_list[indices[i]]
                     answer = line_list[indices[i+num_questions]].lower()
+                    answer = answer.rstrip(string.whitespace)
+                    answer = answer.rstrip(string.punctuation)
+                    if len(answer) == 0:
+                        answer = '{}'
                     if i == (num_questions - 1):
                         #Strip the newline character off the end of last answer
                         answer = answer.strip('"\n')
@@ -59,6 +64,19 @@ def csv_reader(csvfiles):
 
     return (question_dict, answer_dict)
 
+#TODO: Needs more work
+def word_replacer(data_dict, replacement_file):
+    replacement_dict = {}
+    with open(replacement_file, 'r'):
+        for line in file:
+            line_list = line.split()
+            replacement_dict[line_list[1]] = replacement_dict[line_list[2]]
+    for k,v in data_dict.items():
+        for key,value in v.items():
+            if key in replacement_dict:
+                v[replacement_dict[key]] += v[key]
+                del v[key]
+
 def freq_sorter(data_dict):
     '''Sorts answers by the their frequency, such that higher frequency answers
     appear first.
@@ -84,7 +102,10 @@ def output_file(data_dict, filename='output.txt'):
         count = 1 #For printing Question # above each question
         for k, v in data_dict.items():
             file.write("Question {}\n".format(count))
-            file.write("{}: {}\n\n".format(k,v))
+            file.write("\t{}:\n".format(k))
+            for key, val in v.items():
+                file.write("\t\t-{}\t{}\n".format(key, val[1]))
+            file.write("\n")
             count += 1
 
 # # Relies on a Python Library (pyenchant) to determine if a word is real or not

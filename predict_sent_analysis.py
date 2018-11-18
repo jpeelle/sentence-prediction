@@ -14,6 +14,8 @@ def csv_reader(csvfiles):
     question_dict = {}
     answer_dict = {}
     header = []
+    ###TODO: No input replacement_file currently
+    replacement_dict = word_replacer('replacements.csv')
     for csvfile in csvfiles:
         indices = [] #Tracks columns in the csv that have sentences and answers
         with open(csvfile, 'r') as file:
@@ -35,6 +37,9 @@ def csv_reader(csvfiles):
                     answer = answer.rstrip(string.punctuation)
                     if len(answer) == 0:
                         answer = '{}'
+                    if answer in replacement_dict:
+                        answer = replacement_dict[answer]
+
                     if i == (num_questions - 1):
                         #Strip the newline character off the end of last answer
                         answer = answer.strip('"\n')
@@ -60,22 +65,20 @@ def csv_reader(csvfiles):
         #Add additional field with proportion of total answers to each answer
         for k, v in counter.items():
             v.append('{}/{}'.format(v[0], total))
+            v[0] = round(int(v[0]) / total, 2)
         question_dict[key] = counter
 
     return (question_dict, answer_dict)
 
-#TODO: Needs more work
-def word_replacer(data_dict, replacement_file):
+###TODO: Needs more work
+def word_replacer(replacement_file):
     replacement_dict = {}
-    with open(replacement_file, 'r'):
+    with open(replacement_file, 'r') as file:
+        header = file.readline()
         for line in file:
-            line_list = line.split()
-            replacement_dict[line_list[1]] = replacement_dict[line_list[2]]
-    for k,v in data_dict.items():
-        for key,value in v.items():
-            if key in replacement_dict:
-                v[replacement_dict[key]] += v[key]
-                del v[key]
+            line_list = line.split(',')
+            replacement_dict[line_list[1]] = line_list[2]
+    return replacement_dict
 
 def freq_sorter(data_dict):
     '''Sorts answers by the their frequency, such that higher frequency answers
@@ -104,7 +107,7 @@ def output_file(data_dict, filename='output.txt'):
             file.write("Question {}\n".format(count))
             file.write("\t{}:\n".format(k))
             for key, val in v.items():
-                file.write("\t\t-{}\t{}\n".format(key, val[1]))
+                file.write("\t\t-{}\t{} ({})\n".format(key, val[1], val[0]))
             file.write("\n")
             count += 1
 

@@ -36,7 +36,7 @@ def csv_reader(csvfiles):
                     answer = answer.rstrip(string.whitespace)
                     answer = answer.rstrip(string.punctuation)
                     if len(answer) == 0:
-                        answer = '{}'
+                        answer = 'No Response'
                     if answer in replacement_dict:
                         answer = replacement_dict[answer]
 
@@ -95,7 +95,7 @@ def freq_sorter(data_dict):
                                     key=lambda x: x[1][0], reverse=True))
     return data_dict
 
-def output_file(data_dict, filename='output.txt'):
+def output_file(data_dict, filename='output.md'):
     '''Writes input dictionary out to a file.
     Inputs: -data_dict, a dictionary
     -filename, a string (default value is 'output.txt')
@@ -104,10 +104,9 @@ def output_file(data_dict, filename='output.txt'):
     with open(filename, 'w') as file:
         count = 1 #For printing Question # above each question
         for k, v in data_dict.items():
-            file.write("Question {}\n".format(count))
-            file.write("\t{}:\n".format(k))
+            file.write("{}. {}\n\n".format(count, k))
             for key, val in v.items():
-                file.write("\t\t-{}\t{} ({})\n".format(key, val[1], val[0]))
+                file.write("\t* {} ({:.2f})\n".format(key, val[0]))
             file.write("\n")
             count += 1
 
@@ -181,7 +180,7 @@ def output_file(data_dict, filename='output.txt'):
 #
 #     return (data_dict, infreq_resp)
 
-dicts = csv_reader(["fill-in-1x35.csv", "fill-in-1x50.csv", "fill-in-61x50.csv"])
+dicts = csv_reader(["anonymized_fill-in-1x35.csv", "anonymized_fill-in-1x50.csv", "anonymized_fill-in-61x50.csv"])
 q_dict = dicts[0]
 a_dict = dicts[1]
 sorted_q_dict = freq_sorter(q_dict)

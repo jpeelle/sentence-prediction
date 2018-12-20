@@ -1,11 +1,31 @@
 # sentence-prediction
 
 ## About
+
+The goal of this project is to examine the predictability of sentence-final words using a cloze procedure. We created 3085 unique sentences; we then presented each sentence to an online participant without the last word, and asked them to provide the most likely response. For example,
+
+He hated bees and feared encountering a _______________.
+
+Common responses were "hive" and "beehive", but less common (and still appropriate) responses included "disease" or "yellowjacket". We count the frequency of each response to provide the likelihood of any given response as a proportion.
+
+There are several programs:
+
+1. `anonymizer.py` takes the original online data and anonymizes it by replacing unique user IDs with generated IDs. These IDs still correspond to individual respondents. We provide the anonymized data.
+
+2. `predict_sent_analysis.py` which does the work of counting proportion of responses.
+
+
+
+Mis-spellings or altered pluralization are a challenge. In our initial testing, automated approaches (e.g., using a dictionary) missed a large number of cases. Thus, we went through each response by hand and created a file of replacements that are completed prior to response frequencies being calculated. For example, "bee hive", "beehive", and "behive" were all counted as the same response. The replacements we made are in `replacements.csv`.
+
+If the participant left the answer blank it was counted as  *"No Response."*
+
 This program takes two inputs:
 
-1. A list of csv documents with Mechanical Turk data
-2. A csv containing responses to be replaced and what to replace them with
+1. A list of csv files with Mechanical Turk data
+2. A csv file containing responses to be replaced, and what to replace them with
 
-It keeps track of all the answers given for each question and the frequency of those answers, replacing responses as required by the input csv. Replacements are an attempt to correct typos on the part of the participant, they are similar in nature to *"behive"* being replaced with *"beehive."* If the participant left the answer blank it was counted as  *"No Response."*
 
-Once all answer are recorded a simple ratio of the number of times an answer was given over the total number of responses is calculated. The file *output.md* shows each question followed by the answers (from most common to least) and their decimal frequency.
+## Outputs
+
+Once all answer are recorded a simple ratio of the number of times an answer was given over the total number of responses is calculated. The file *output.md* shows each question followed by the answers (from most common to least) and their frequency as a proportion of all responses.

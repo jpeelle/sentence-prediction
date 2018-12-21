@@ -6,7 +6,25 @@ The goal of this project is to examine the predictability of sentence-final word
 
 He hated bees and feared encountering a _______________.
 
-Common responses were "hive" and "beehive", but less common (and still appropriate) responses included "disease" or "yellowjacket". We count the frequency of each response to provide the likelihood of any given response as a proportion.
+Common responses were "hive" and "beehive", but less common (and still appropriate) responses included "disease" or "yellowjacket". We count the frequency of each response to provide the likelihood of any given response as a proportion:
+
+<pre>
+1. He hated bees and feared encountering a __________.
+
+        * hive (0.42)
+        * swarm (0.20)
+        * bee (0.09)
+        * nest (0.08)
+        * wasp (0.06)
+        * beehive (0.05)
+        * sting (0.04)
+        * stinger (0.03)
+        * hornet (0.02)
+        * disease (0.01)
+        * yellowjacket (0.01)
+        * No Response (0.01)
+</pre>
+
 
 There are several programs:
 
@@ -28,4 +46,4 @@ This program takes two inputs:
 
 ## Outputs
 
-Once all answer are recorded a simple ratio of the number of times an answer was given over the total number of responses is calculated. The file *output.md* shows each question followed by the answers (from most common to least) and their frequency as a proportion of all responses.
+Once all answer are recorded a simple ratio of the number of times an answer was given over the total number of responses is calculated. The file `output.md` shows each question followed by the answers (from most common to least) and their frequency as a proportion of all responses.

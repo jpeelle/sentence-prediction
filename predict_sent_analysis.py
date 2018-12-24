@@ -15,7 +15,7 @@ def csv_reader(csvfiles):
     answer_dict = {}
     header = []
     ###TODO: No input replacement_file currently
-    replacement_dict = word_replacer('replacements.csv')
+    replacement_dict = word_replacer('example/replacements.csv')
     for csvfile in csvfiles:
         indices = [] #Tracks columns in the csv that have sentences and answers
         with open(csvfile, 'r') as file:
@@ -77,6 +77,7 @@ def word_replacer(replacement_file):
         header = file.readline()
         for line in file:
             line_list = line.split(',')
+#            question_number = ''.join(c for c in line_list[0] if c.isdigit())
             replacement_dict[line_list[1]] = line_list[2]
     return replacement_dict
 
@@ -180,7 +181,7 @@ def output_file(data_dict, filename='output.md'):
 #
 #     return (data_dict, infreq_resp)
 
-dicts = csv_reader(["anonymized_fill-in-1x35.csv", "anonymized_fill-in-1x50.csv", "anonymized_fill-in-61x50.csv"])
+dicts = csv_reader(["example/anonymized_fill-in-1x35.csv", "example/anonymized_fill-in-1x50.csv", "example/anonymized_fill-in-61x50.csv"])
 q_dict = dicts[0]
 a_dict = dicts[1]
 sorted_q_dict = freq_sorter(q_dict)

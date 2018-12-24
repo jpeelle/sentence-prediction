@@ -47,3 +47,7 @@ This program takes two inputs:
 ## Outputs
 
 Once all answer are recorded a simple ratio of the number of times an answer was given over the total number of responses is calculated. The file `output.md` shows each question followed by the answers (from most common to least) and their frequency as a proportion of all responses.
+
+## Usage
+
+To anonymize Mechanical Turk data, run: `$python3 anonymizer.py data_file_1 data_file_2 ...`. To count responses run: `$python predict_sent_analysis.py` with optional arguments `help` to print out a help message, `print` to print the output to the terminal, and `file` to write the output to a file named `output.md`. The current iteration will automatically use the anonymized data files and replacement file included in the example folder.

@@ -2,8 +2,9 @@
 from collections import OrderedDict
 import sys
 import string
+import argparse
 
-def csv_reader(csvfiles):
+def csv_reader(csvfiles, replacement_file=None):
     ''' Takes a list of Mechanical Turk csv files as input. For each file, it
     finds all sentences and answers and creates two dictionaries. One maps
     sentences to answers and their frequencies. The other maps answers to the
@@ -13,9 +14,13 @@ def csv_reader(csvfiles):
     '''
     question_dict = {}
     answer_dict = {}
+    question_numbers = {}
+    question_number = 1
     header = []
-    ###TODO: No input replacement_file currently
-    replacement_dict = word_replacer('example/replacements.csv')
+    if replacement_file not None:
+        replacement_dict = word_replacer(replacement_file)
+    else:
+        replacement_dict = {}
     for csvfile in csvfiles:
         indices = [] #Tracks columns in the csv that have sentences and answers
         with open(csvfile, 'r') as file:
@@ -32,13 +37,17 @@ def csv_reader(csvfiles):
                 num_questions = len(indices) // 2
                 for i in range(num_questions):
                     question = line_list[indices[i]]
+                    if question not in question_numbers:
+                        question_numbers[question] = str(question_number)
+                        question_number += 1
                     answer = line_list[indices[i+num_questions]].lower()
                     answer = answer.rstrip(string.whitespace)
                     answer = answer.rstrip(string.punctuation)
                     if len(answer) == 0:
                         answer = 'No Response'
-                    if answer in replacement_dict:
-                        answer = replacement_dict[answer]
+                    if question_numbers[question] in replacement_dict:
+                        if answer in replacement_dict[question_numbers[question]]:
+                            answer = replacement_dict[question_numbers[question]][answer]
 
                     if i == (num_questions - 1):
                         #Strip the newline character off the end of last answer
@@ -70,15 +79,16 @@ def csv_reader(csvfiles):
 
     return (question_dict, answer_dict)
 
-###TODO: Needs more work
 def word_replacer(replacement_file):
     replacement_dict = {}
     with open(replacement_file, 'r') as file:
         header = file.readline()
         for line in file:
             line_list = line.split(',')
-#            question_number = ''.join(c for c in line_list[0] if c.isdigit())
-            replacement_dict[line_list[1]] = line_list[2]
+            question_number = ''.join(c for c in line_list[0] if c.isdigit())
+            if question_number not in replacement_dict:
+                replacement_dict[question_number] = {}
+            replacement_dict[question_number][line_list[1]] = line_list[2]
     return replacement_dict
 
 def freq_sorter(data_dict):
@@ -96,20 +106,25 @@ def freq_sorter(data_dict):
                                     key=lambda x: x[1][0], reverse=True))
     return data_dict
 
-def output_file(data_dict, filename='output.md'):
+def output_markdown(data_dict, filename='output.md'):
     '''Writes input dictionary out to a file.
     Inputs: -data_dict, a dictionary
     -filename, a string (default value is 'output.txt')
     Outputs: None, creates file named filename with data from data_dict
     '''
+    filename = filename + extension
     with open(filename, 'w') as file:
-        count = 1 #For printing Question # above each question
+        count = 1 #For printing Question number above each question
         for k, v in data_dict.items():
             file.write("{}. {}\n\n".format(count, k))
             for key, val in v.items():
                 file.write("\t* {} ({:.2f})\n".format(key, val[0]))
             file.write("\n")
             count += 1
+
+def output_csv(data_dict, filename='output.csv'):
+    print("Not yet implemented")
+    return 0
 
 # # Relies on a Python Library (pyenchant) to determine if a word is real or not
 # # doesn't account for misspellings
@@ -181,26 +196,60 @@ def output_file(data_dict, filename='output.md'):
 #
 #     return (data_dict, infreq_resp)
 
-dicts = csv_reader(["example/anonymized_fill-in-1x35.csv", "example/anonymized_fill-in-1x50.csv", "example/anonymized_fill-in-61x50.csv"])
+args = sys.argv
+
+if ('--help' or '-h') in args:
+    print('Usage:')
+    print(' python3 predict_sent_analysis.py <input file 1> <input file 2> ... [options]')
+    print('Optional Arguments:')
+    print(' -h, --help\tShow help and exit.')
+    print(' -r <replacement file>\tTakes input csv with "Question #,word_to_replace,word_to_replace_with" on each line and makes replacements.')
+    print(' -p\tPrints output to stdout.')
+    print(' -m\tWrites output to a markdown file.')
+    print(' -c\tWrites output to a csv with "Question,(Answer 1, Freq),(Answer 2, Freq),..." on each line.')
+    exit()
+##Input Files
+filenames = []
+i = 1
+while(args[i][0] != '-'):
+    filenames.append(args[i])
+    i += 1
+if not filenames:
+    print('No input filenames provided. Please include input filenames or run with --help for help.')
+    exit()
+##REPLACEMENT FILE
+if '-r' in args:
+    index = args.index('-r')
+    if len(args) <= index+2:
+        print('No replacement filename provided. Please include a replacement filename or run with --help for help.')
+        exit()
+    if args[index+1][0] == '-':
+        print('No replacement filename provided. Please include a replacement filename or run with --help for help.')
+        exit()
+    replacement_file = args[index+1]
+
+#Run the program
+dicts = csv_reader(filenames, replacement_file)
 q_dict = dicts[0]
 a_dict = dicts[1]
 sorted_q_dict = freq_sorter(q_dict)
 
-args = sys.argv
-
-##HELP String
-if 'help' in args:
-    print('Run with "$python3 predict_sent_analysis.py"')
-    print('Optional argument "print" prints output to stdout')
-    print('Optional argument "file" writes output to a file')
-
 ##PRINT TO STDOUT
-if 'print' in args:
+if '-p' in args:
     for k, v in q_dict.items():
        sorted_answers = sorted(v.items(), key=lambda x: x[1][0], reverse=True)
        print(k, sorted_answers)
        print('\n')
-
-##WRITE TO FILE
-if 'file' in args:
-    output_file(sorted_q_dict)
+##WRITE TO MARKDOWN FILE
+if '-m' in args:
+    index = args.index('-m')
+    if len(args) >= index+2:
+        if args[index+1][0] != '-':
+            output_markdown(sorted_q_dict, args[index+1])
+    output_markdown(sorted_q_dict)
+##WRITE TO CSV FILE
+if '-c' in args:
+    if len(args) >= index+2:
+        if args[index+1][0] != '-':
+            output_markdown(sorted_q_dict, args[index+1])
+    output_csv(sorted_q_dict)

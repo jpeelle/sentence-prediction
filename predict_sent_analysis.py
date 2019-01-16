@@ -17,7 +17,7 @@ def csv_reader(csvfiles, replacement_file=None):
     question_numbers = {}
     question_number = 1
     header = []
-    if replacement_file not None:
+    if replacement_file is not None:
         replacement_dict = word_replacer(replacement_file)
     else:
         replacement_dict = {}
@@ -112,7 +112,6 @@ def output_markdown(data_dict, filename='output.md'):
     -filename, a string (default value is 'output.txt')
     Outputs: None, creates file named filename with data from data_dict
     '''
-    filename = filename + extension
     with open(filename, 'w') as file:
         count = 1 #For printing Question number above each question
         for k, v in data_dict.items():
@@ -197,6 +196,7 @@ def output_csv(data_dict, filename='output.csv'):
 #     return (data_dict, infreq_resp)
 
 args = sys.argv
+print(args)
 
 if ('--help' or '-h') in args:
     print('Usage:')
@@ -205,8 +205,8 @@ if ('--help' or '-h') in args:
     print(' -h, --help\tShow help and exit.')
     print(' -r <replacement file>\tTakes input csv with "Question #,word_to_replace,word_to_replace_with" on each line and makes replacements.')
     print(' -p\tPrints output to stdout.')
-    print(' -m\tWrites output to a markdown file.')
-    print(' -c\tWrites output to a csv with "Question,(Answer 1, Freq),(Answer 2, Freq),..." on each line.')
+    print(' -m [filename]\tWrites output to a markdown file, default file name is output.md.')
+    print(' -c [filename]\tWrites output to a csv with "Question,(Answer 1, Freq),(Answer 2, Freq),..." on each line, default filename is output.csv.')
     exit()
 ##Input Files
 filenames = []
@@ -246,10 +246,12 @@ if '-m' in args:
     if len(args) >= index+2:
         if args[index+1][0] != '-':
             output_markdown(sorted_q_dict, args[index+1])
-    output_markdown(sorted_q_dict)
+    else:
+        output_markdown(sorted_q_dict)
 ##WRITE TO CSV FILE
 if '-c' in args:
     if len(args) >= index+2:
         if args[index+1][0] != '-':
-            output_markdown(sorted_q_dict, args[index+1])
-    output_csv(sorted_q_dict)
+            output_csv(sorted_q_dict, args[index+1])
+    else:
+        output_csv(sorted_q_dict)

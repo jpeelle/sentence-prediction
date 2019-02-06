@@ -3,6 +3,7 @@ from collections import OrderedDict
 import sys
 import string
 import argparse
+from math import log2
 
 def csv_reader(csvfiles, replacement_file=None):
     ''' Takes a list of Mechanical Turk csv files as input. For each file, it
@@ -75,6 +76,8 @@ def csv_reader(csvfiles, replacement_file=None):
         for k, v in counter.items():
             v.append('{}/{}'.format(v[0], total))
             v[0] = round(int(v[0]) / total, 2)
+            answer_dict[k].add((key,v[0]))
+            answer_dict[k].remove(key)
         question_dict[key] = counter
 
     return (question_dict, answer_dict)
@@ -121,9 +124,33 @@ def output_markdown(data_dict, filename='output.md'):
             file.write("\n")
             count += 1
 
-def output_csv(data_dict, filename='output.csv'):
-    print("Not yet implemented")
-    return 0
+def output_csv(data_dict, filename='output.csv', separator=','):
+    with open(filename, 'w') as file:
+        header = separator.join(['Question','Number of Unique Responses', 'Response Entropy', '(Answer 1:Percent of Responses)', '(Answer 2:Percent of Responses)', '...'])
+        file.write(header + '\n')
+        for k, v in data_dict.items():
+            entropy = 0
+            question = k
+            num_answers = str(len(v))
+            answers = []
+            for key, val in v.items():
+                p = val[0]
+                entropy += p*log2(p)
+                answers.append('({}:{})'.format(key, val[0]))
+            entropy *= -1
+            entropy_str = str(round(entropy, 2))
+            answer_str = separator.join(answers)
+            line = separator.join((question, num_answers, entropy_str, answer_str))
+            file.write(line + '\n')
+
+def output_answer_dict(ans_dict, filename):
+    with open(filename, 'w') as file:
+        header = '\t'.join(['Answer', '(Question 1, Freq 1)', '(Question 2, Freq 2)', '...'])
+        file.write(header + '\n')
+        for k, v in ans_dict.items():
+            v_list = [str(n) for n in v]
+            line = '\t'.join([k]+v_list)
+            file.write(line + '\n')
 
 # # Relies on a Python Library (pyenchant) to determine if a word is real or not
 # # doesn't account for misspellings
@@ -220,7 +247,7 @@ if not filenames:
 ##REPLACEMENT FILE
 if '-r' in args:
     index = args.index('-r')
-    if len(args) <= index+2:
+    if len(args) < index+2:
         print('No replacement filename provided. Please include a replacement filename or run with --help for help.')
         exit()
     if args[index+1][0] == '-':
@@ -250,8 +277,13 @@ if '-m' in args:
         output_markdown(sorted_q_dict)
 ##WRITE TO CSV FILE
 if '-c' in args:
+    index = args.index('-c')
     if len(args) >= index+2:
         if args[index+1][0] != '-':
             output_csv(sorted_q_dict, args[index+1])
     else:
         output_csv(sorted_q_dict)
+
+##OUTPUTS FOR SEARCH FUNCTION
+output_csv(sorted_q_dict, 'questions_dict.tsv', '\t')
+output_answer_dict(a_dict, 'answers_dict.tsv')

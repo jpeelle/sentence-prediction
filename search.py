@@ -2,13 +2,6 @@ def search(a_file, q_file):
 
     search_dicts = read_files(a_file, q_file)
     answer_dict = search_dicts[0]
-    count = 0
-    for k,v in answer_dict.items():
-        print('{}: {}'.format(k,v))
-        count += 1
-        if count == 10:
-            break
-    return 0
     num_resp_dict = search_dicts[1]
     entropy_dict = search_dicts[2]
 
@@ -157,6 +150,7 @@ def search(a_file, q_file):
             user_input = user_input.lower()
             if user_input == 'y':
                 for r in results:
+                    print('\n')
                     print(r + '\n')
                 break
             elif user_input == 'n':
@@ -180,8 +174,9 @@ def read_files(a_file, q_file):
             line_list = line.split('\t')
             a_dict[line_list[0]] = {}
             for p in line_list[1:]:
-                question = p[p.find("'")+1:p.find("'", 2)]
-                value = p[p.find(",")+2:p.find(")")]
+                p_list = p.split(', 0')
+                question = p_list[0][1:]
+                value = float(p_list[1].strip()[:-1])
                 if value in a_dict[line_list[0]]:
                     a_dict[line_list[0]][value].append(question)
                 else:
@@ -253,7 +248,8 @@ def search_answer_dict(a_dict, ans, low, high):
         else:
             for i in a_dict[ans]:
                 if (i >= low) and (i <= high):
-                    results.add(a_dict[ans][i])
+                    for sent in a_dict[ans][i]:
+                        results.add(sent)
     return results
 
 search('example/answers_dict.tsv', 'example/questions_dict.tsv')

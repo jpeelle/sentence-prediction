@@ -29,7 +29,7 @@ def csv_reader(csvfiles, replacement_file=None):
             header_list = header.split('","')
 
             for i in range(len(header_list)):
-                if "sentence" in header_list[i]:
+                if 'sentence' in header_list[i]:
                     indices.append(i)
 
             for line in file:
@@ -118,10 +118,10 @@ def output_markdown(data_dict, filename='output.md'):
     with open(filename, 'w') as file:
         count = 1 #For printing Question number above each question
         for k, v in data_dict.items():
-            file.write("{}. {}\n\n".format(count, k))
+            file.write('{}. {}\n\n'.format(count, k))
             for key, val in v.items():
-                file.write("\t* {} ({:.2f})\n".format(key, val[0]))
-            file.write("\n")
+                file.write('\t* {} ({:.2f})\n'.format(key, val[0]))
+            file.write('\n')
             count += 1
 
 def output_csv(data_dict, filename='output.csv', separator=','):

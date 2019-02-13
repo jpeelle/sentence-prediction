@@ -226,29 +226,32 @@ def search_answer_dict(a_dict, ans, low, high):
         if ans not in a_dict:
             return results
         else:
-            for i in a_dict[ans]:
-                results.add(a_dict[ans][i])
+            for val in a_dict[ans]:
+                for sent in a_dict[ans][val]:
+                    results.add(sent)
     elif low == -1:
         if ans not in a_dict:
             return results
         else:
-            for i in a_dict[ans]:
-                if (i >= low):
-                    results.add(a_dict[ans][i])
+            for val in a_dict[ans]:
+                if (val <= high):
+                    for sent in a_dict[ans][val]:
+                        results.add(sent)
     elif high == -1:
         if ans not in a_dict:
             return results
         else:
-            for i in a_dict[ans]:
-                if (i <= high):
-                    results.add(a_dict[ans][i])
+            for val in a_dict[ans]:
+                if (val >= low):
+                    for sent in a_dict[ans][val]:
+                        results.add(sent)
     else:
         if ans not in a_dict:
             return results
         else:
-            for i in a_dict[ans]:
-                if (i >= low) and (i <= high):
-                    for sent in a_dict[ans][i]:
+            for val in a_dict[ans]:
+                if (val >= low) and (val <= high):
+                    for sent in a_dict[ans][val]:
                         results.add(sent)
     return results
 

@@ -145,10 +145,10 @@ def output_csv(data_dict, filename='output.csv', separator=','):
 
 def output_answer_dict(ans_dict, filename):
     with open(filename, 'w') as file:
-        header = '\t'.join(['Answer', '(Question 1, Freq 1)', '(Question 2, Freq 2)', '...'])
+        header = '\t'.join(['Answer', 'Question 1, Freq 1', 'Question 2, Freq 2', '...'])
         file.write(header + '\n')
         for k, v in ans_dict.items():
-            v_list = [str(n) for n in v]
+            v_list = [n[0]+'\t'+str(n[1]) for n in v]
             line = '\t'.join([k]+v_list)
             file.write(line + '\n')
 
@@ -238,6 +238,8 @@ if ('--help' or '-h') in args:
 ##Input Files
 filenames = []
 i = 1
+if len(args) == 0:
+    print('No input filenames provided. Please include input filenames or run with --help for help.')
 while(args[i][0] != '-'):
     filenames.append(args[i])
     i += 1

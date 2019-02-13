@@ -23,16 +23,16 @@ def search(a_file, q_file):
             print('Search parameters are "entropy", "unique responses", and "answer".')
             print('Type "exit" to quit.')
             continue
-        elif user_input == 'exit':
+        if user_input == 'exit':
             print('EXITING')
             exit()
-        elif 'entropy' in user_input:
+        if 'entropy' in user_input:
             entropy = True
-        elif 'unique responses' in user_input:
+        if 'unique responses' in user_input:
             num_resp = True
-        elif 'answer' in user_input:
+        if 'answer' in user_input:
             response = True
-        else:
+        if not (entropy or num_resp or response):
             print('ERROR: Command not recognized, please try again.')
             continue
 
@@ -173,14 +173,23 @@ def read_files(a_file, q_file):
         for line in afile:
             line_list = line.split('\t')
             a_dict[line_list[0]] = {}
-            for p in line_list[1:]:
-                p_list = p.split(', 0')
-                question = p_list[0][1:]
-                value = float(p_list[1].strip()[:-1])
+            p = 1
+            while(p < len(line_list[1:])):
+                question = line_list[p]
+                value = float(line_list[p+1])
                 if value in a_dict[line_list[0]]:
                     a_dict[line_list[0]][value].append(question)
                 else:
                     a_dict[line_list[0]][value] = [question]
+                p += 2
+            # for p in line_list[1:]:
+            #     p_list = p.split(', 0')
+            #     question = p_list[0][1:]
+            #     value = float(p_list[1].strip()[:-1])
+            #     if value in a_dict[line_list[0]]:
+            #         a_dict[line_list[0]][value].append(question)
+            #     else:
+            #         a_dict[line_list[0]][value] = [question]
 
     with open(q_file, 'r') as qfile:
         header = qfile.readline()

@@ -5,11 +5,26 @@ class Output_Window(Frame):
     def __init__(self, master=None):
         Frame.__init__(self, master)
         self.master = master
+        self.scrollbar = Scrollbar(self)
+        self.output = Text(self, wrap=WORD, yscrollcommand=self.scrollbar.set)
         self.init_window()
 
     def init_window(self):
-        self.master.title("Search Results")
+        #self.master.title("Search Results")
         self.pack(fill=BOTH, expand=1)
+
+        #scrollbar = Scrollbar(self)
+        #output = Text(self, wrap=WORD, yscrollcommand=scrollbar.set)
+
+        self.scrollbar.pack(side=RIGHT, fill=Y)
+        self.output.pack(side=LEFT, fill=BOTH)
+
+        self.scrollbar.config(command=self.output.yview)
+
+    def fill_output(self, output_text):
+        self.output.config(state=NORMAL)
+        self.output.insert(INSERT, output_text)
+        self.output.config(state=DISABLED)
 
 class GUI_Window(Frame):
 
@@ -94,6 +109,14 @@ class GUI_Window(Frame):
         answer_word = self.answer_word_string.get()
         answer_lower = self.answer_lower_string.get()
         answer_upper = self.answer_upper_string.get()
+        self.newWindow = Toplevel(self.master)
+        output_window = Output_Window(self.newWindow)
+        for t in [entropy_lower, entropy_upper, num_resp_lower, num_resp_upper, answer_word, answer_lower, answer_upper]:
+            output_window.fill_output(t)
+            output_window.fill_output('\n')
+        # output_window = Output_Window(Frame)
+        # output_window.fill_output(entropy_lower)
+        '''
         if entropy_lower:
             #self.output_text.insert(INSERT, entropy_lower)
             #self.output_text.insert(INSERT, '\n')
@@ -124,6 +147,7 @@ class GUI_Window(Frame):
             #self.output_text.insert(INSERT, answer_upper)
             #self.output_text.insert(INSERT, '\n')
             print(answer_upper)
+        '''
 
 root = Tk()
 

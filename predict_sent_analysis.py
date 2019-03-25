@@ -5,7 +5,7 @@ import string
 import argparse
 from math import log2
 
-def csv_reader(csvfiles, replacement_file=None):
+def csv_reader(csvfiles, replacement_file=None, censor_file=None):
     ''' Takes a list of Mechanical Turk csv files as input. For each file, it
     finds all sentences and answers and creates two dictionaries. One maps
     sentences to answers and their frequencies. The other maps answers to the
@@ -18,6 +18,11 @@ def csv_reader(csvfiles, replacement_file=None):
     question_numbers = {}
     question_number = 1
     header = []
+    censor_list = []
+    if censor_file is not None:
+        with open(censor_file, 'r') as file:
+            for line in file:
+                censor_list.append(line.rstrip(string.whitespace).rstrip(string.punctuation))
     if replacement_file is not None:
         replacement_dict = word_replacer(replacement_file)
     else:
@@ -44,6 +49,8 @@ def csv_reader(csvfiles, replacement_file=None):
                     answer = line_list[indices[i+num_questions]].lower()
                     answer = answer.rstrip(string.whitespace)
                     answer = answer.rstrip(string.punctuation)
+                    if answer in censor_list:
+                        answer = answer.replace(answer[1:],'*'*(len(answer)-1))
                     if len(answer) == 0:
                         answer = 'No Response'
                     if question_numbers[question] in replacement_dict:
@@ -115,6 +122,7 @@ def output_markdown(data_dict, filename='output.md'):
     -filename, a string (default value is 'output.txt')
     Outputs: None, creates file named filename with data from data_dict
     '''
+    print('Writing markdown file, {}'.format(filename))
     with open(filename, 'w') as file:
         count = 1 #For printing Question number above each question
         for k, v in data_dict.items():
@@ -124,9 +132,10 @@ def output_markdown(data_dict, filename='output.md'):
             file.write('\n')
             count += 1
 
-def output_csv(data_dict, filename='output.csv', separator=','):
+def output_csv(data_dict, filename='output.tsv', separator='\t'):
+    print('Writing tsv file, {}'.format(filename))
     with open(filename, 'w') as file:
-        header = separator.join(['Question','Number of Unique Responses', 'Response Entropy', '(Answer 1:Percent of Responses)', '(Answer 2:Percent of Responses)', '...'])
+        header = separator.join(['Question','Number of Unique Responses', 'Response Entropy', 'Answer 1','Percent of Responses 1', 'Answer 2','Percent of Responses 2', '...'])
         file.write(header + '\n')
         for k, v in data_dict.items():
             entropy = 0
@@ -136,7 +145,7 @@ def output_csv(data_dict, filename='output.csv', separator=','):
             for key, val in v.items():
                 p = val[0]
                 entropy += p*log2(p)
-                answers.append('({}:{})'.format(key, val[0]))
+                answers.append('{}\t{}'.format(key, val[0]))
             entropy *= -1
             entropy_str = str(round(entropy, 2))
             answer_str = separator.join(answers)
@@ -233,7 +242,8 @@ if ('--help' or '-h') in args:
     print(' -r <replacement file>\tTakes input csv with "Question #,word_to_replace,word_to_replace_with" on each line and makes replacements.')
     print(' -p\tPrints output to stdout.')
     print(' -m [filename]\tWrites output to a markdown file, default file name is output.md.')
-    print(' -c [filename]\tWrites output to a csv with "Question,(Answer 1, Freq),(Answer 2, Freq),..." on each line, default filename is output.csv.')
+    print(' -t [filename]\tWrites output to a tsv with "Question Answer 1 Freq 1 Answer 2 Freq 2 ..." on each line, default filename is output.tsv.')
+    print(' -c <censor file>\tTakes input file with one word to censor per line and censors those words.')
     exit()
 ##Input Files
 filenames = []
@@ -257,8 +267,19 @@ if '-r' in args:
         exit()
     replacement_file = args[index+1]
 
+##CENSOR FILE
+if '-c' in args:
+    index = args.index('-c')
+    if len(args) < index+2:
+        print('No censor filename provided. Please include a replacement filename or run with --help for help.')
+        exit()
+    if args[index+1][0] == '-':
+        print('No replacement filename provided. Please include a replacement filename or run with --help for help.')
+        exit()
+    censor_file = args[index+1]
+
 #Run the program
-dicts = csv_reader(filenames, replacement_file)
+dicts = csv_reader(filenames, replacement_file, censor_file)
 q_dict = dicts[0]
 a_dict = dicts[1]
 sorted_q_dict = freq_sorter(q_dict)
@@ -278,8 +299,8 @@ if '-m' in args:
     else:
         output_markdown(sorted_q_dict)
 ##WRITE TO CSV FILE
-if '-c' in args:
-    index = args.index('-c')
+if '-t' in args:
+    index = args.index('-t')
     if len(args) >= index+2:
         if args[index+1][0] != '-':
             output_csv(sorted_q_dict, args[index+1])

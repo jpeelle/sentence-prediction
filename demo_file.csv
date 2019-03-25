@@ -1,0 +1,63 @@
+SubjectID,Age,Consent,Country,Degree,Ethnicity,Gender,Hispanic,Language,Sex,YearsSchooling
+1,25,Yes,USA,BS,Prefer not to reply,Prefer not to reply,,No,Prefer not to reply,17
+2,31,,United States,Bachelors,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,16
+3,33,Yes,United States,Bachelors,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,16
+4,37,Yes,United States,diploma,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,12
+5,67,Yes,United States,MA,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,20
+6,39,Yes,USA,BA,Asian,Woman,Non-Hispanic or Non-Latino,No,Female,21
+7,39,Yes,USA,Masters Degree,Black or African American,Woman,Non-Hispanic or Non-Latino,Yes,Female,19
+8,29,Yes,United States,diploma,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,13
+9,38,Yes,United States,high school diploma,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,12
+10,37,Yes,United States,diploma,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,12
+11,39,Yes,United States,high school diploma,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,14
+12,24,Yes,United States,Bachelors,,,,Yes,,16
+13,28,Yes,USA,Bachelor's,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,16
+14,69,Yes,united states,high school,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,12
+15,50,Yes,USA,HS Diploma,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,12
+16,23,Yes,usa,college,White or Caucasian,Man,Hispanic or Latino,,Male,16
+17,28,Yes,USA,B.S.,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,16
+18,29,Yes,USA,high school,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,0
+19,46,Yes,United States,Associates,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,14
+20,55,,US,High School diploma,White or Caucasian,Man,,Yes,Male,13
+21,53,Yes,USA,Associates,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,14
+22,27,Yes,USA,Bachelor's,Asian,Woman,Non-Hispanic or Non-Latino,Yes,Female,18
+23,42,Yes,USA,Diploma,Native Hawaiian or Other Pacific Islander,Woman,Hispanic or Latino,Yes,Female,12
+24,33,Yes,usa,high school diploma,Prefer not to reply,Woman,Non-Hispanic or Non-Latino,,Female,12
+25,44,Yes,United States,Associates,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,14
+26,28,Yes,United States,Bachelor Degree,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,20
+27,53,Yes,United States,Bachelors,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,16
+28,59,Yes,USA,JD,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,13
+29,28,Yes,United States,Bachelor Degree,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,20
+30,34,Yes,United States,Bachelors,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,16
+31,34,Yes,United States,GED,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,12
+32,39,Yes,United States,High School Diploma,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,13
+33,60,Yes,USA,AD,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,14
+34,42,Yes,USA,Diploma,Native Hawaiian or Other Pacific Islander,Woman,Hispanic or Latino,Yes,Female,12
+35,45,Yes,United States,High School,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,14
+36,27,Yes,United States,No Degree,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,11
+37,27,Yes,United States,No Degree,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,11
+38,48,Yes,USA,B.S,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,16
+39,69,Yes,United States,High School Diploma,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,12
+40,44,Yes,United States,Associates,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,14
+41,52,Yes,US,H.S. Diploma,White or Caucasian,Woman,,Yes,Female,13
+42,28,Yes,United States,Bachelor's,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,16
+43,41,Yes,USA,AS,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,16
+44,30,Yes,united states,ba,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,16
+45,27,Yes,US,GED,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,15
+46,44,Yes,USA,Bachelor's,Prefer not to reply,Prefer not to reply,Hispanic or Latino,Yes,Prefer not to reply,16
+47,30,,USA,Associates,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,14
+48,44,Yes,USA,Bachelor's,Prefer not to reply,Prefer not to reply,Hispanic or Latino,Yes,Prefer not to reply,16
+49,36,Yes,United States,Some College,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,16
+50,42,Yes,United States,Bachelors,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,16
+51,33,Yes,usa,high school,Asian,Woman,Non-Hispanic or Non-Latino,Yes,Female,12
+52,44,Yes,United States,incomplete Bachelor's,Asian,Woman,,Yes,Female,17
+53,51,Yes,United States,BACHELORS,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,16
+54,39,Yes,United States,High School Diploma,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,13
+55,34,Yes,United States of America,high school,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,15
+56,64,Yes,United States,Bachelor,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,16
+57,47,Yes,USA,Bachelors,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,16
+58,53,Yes,usa,aas,White or Caucasian,Man,Non-Hispanic or Non-Latino,Yes,Male,15
+59,62,Yes,United States,high school diploma,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,13
+60,31,Yes,USA,Associates,,,,Yes,,16
+61,45,Yes,USA,MA History,,,,Yes,,18
+62,43,Yes,USA,MA,White or Caucasian,Woman,Non-Hispanic or Non-Latino,Yes,Female,20

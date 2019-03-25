@@ -135,7 +135,7 @@ def output_markdown(data_dict, filename='output.md'):
 def output_csv(data_dict, filename='output.tsv', separator='\t'):
     print('Writing tsv file, {}'.format(filename))
     with open(filename, 'w') as file:
-        header = separator.join(['Question','Number of Unique Responses', 'Response Entropy', 'Answer 1','Percent of Responses 1', 'Answer 2','Percent of Responses 2', '...'])
+        header = separator.join(['Question','Number_of_Unique_Responses', 'Response_Entropy', 'Answer_1','Percent_of_Responses_1', 'Answer_2','Percent_of_Responses_2', '...'])
         file.write(header + '\n')
         for k, v in data_dict.items():
             entropy = 0
@@ -154,7 +154,7 @@ def output_csv(data_dict, filename='output.tsv', separator='\t'):
 
 def output_answer_dict(ans_dict, filename):
     with open(filename, 'w') as file:
-        header = '\t'.join(['Answer', 'Question 1, Freq 1', 'Question 2, Freq 2', '...'])
+        header = '\t'.join(['Answer', 'Question_1, Freq_1', 'Question_2, Freq_2', '...'])
         file.write(header + '\n')
         for k, v in ans_dict.items():
             v_list = [n[0]+'\t'+str(n[1]) for n in v]

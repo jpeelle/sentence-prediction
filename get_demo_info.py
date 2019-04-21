@@ -12,9 +12,10 @@ def get_demo_info(csvfiles):
                 num_questions = len([i for i in header_list if 'sentence' in i]) // 2
                 for line in cfile:
                     line_list = line.split('","')
-                    subject_id = line_list[0].strip('"')
+                    subject_id = line_list[15].strip('"')
                     if subject_id in demo_info:
-                        continue
+                        for i in range(len(demo_categories)):
+                            demo_info[subject_id].append(line_list[demo_indices[i]])
                     for i in range(len(demo_categories)):
                         if subject_id not in demo_info:
                             demo_info[subject_id] = [line_list[demo_indices[i]]]

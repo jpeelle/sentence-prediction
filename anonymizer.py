@@ -13,7 +13,7 @@ def mturk_anonymizer(csvfiles):
     participant
     '''
     header = []
-    id_dict = {} #Keeps track of which number each HITId has been mapped to
+    id_dict = {} #Keeps track of which number each WorkerId has been mapped to
     id_count = 0
     for csvfile in csvfiles:
         with open('anonymized_'+csvfile, 'w') as anon_file:
@@ -21,16 +21,17 @@ def mturk_anonymizer(csvfiles):
                 header = file.readline()
                 header_list = header.split('","')
                 anon_file.write(header)
+                worker_id_index = header_list.index('WorkerId')
 
                 for line in file:
                     line_list = line.split('","')
-                    id = str(line_list[0]) #line_list[0] is the HITId
+                    id = str(line_list[15]) #line_list[15] is the WorkerId
                     if id not in id_dict:
                         id_count += 1
                         id_dict[id] = str(id_count)
-                        line_list[0] = id_dict[id]
+                        line_list[15] = id_dict[id]
                     else:
-                        line_list[0] = id_dict[id]
+                        line_list[15] = id_dict[id]
                     anon_line = '","'.join(line_list)
                     anon_file.write('"'+anon_line)
 '''

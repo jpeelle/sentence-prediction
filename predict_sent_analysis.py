@@ -135,21 +135,26 @@ def output_markdown(data_dict, filename='output.md'):
 def output_csv(data_dict, filename='output.tsv', separator='\t'):
     print('Writing tsv file, {}'.format(filename))
     with open(filename, 'w') as file:
-        header = separator.join(['Question','Number_of_Unique_Responses', 'Response_Entropy', 'Answer_1','Percent_of_Responses_1', 'Answer_2','Percent_of_Responses_2', '...'])
+        #header = separator.join(['Question','Number_of_Unique_Responses', 'Response_Entropy', 'Answer_1','Percent_of_Responses_1', 'Answer_2','Percent_of_Responses_2', '...'])
+        header = separator.join(['Question','Number_of_Unique_Responses', 'Response_Entropy', 'Answer_1', 'Answer_2', '...', 'Percent_of_Responses_1', 'Percent_of_Responses_2', '...'])
         file.write(header + '\n')
         for k, v in data_dict.items():
             entropy = 0
             question = k
             num_answers = str(len(v))
             answers = []
+            values = []
             for key, val in v.items():
                 p = val[0]
                 entropy += p*log2(p)
-                answers.append('{}\t{}'.format(key, val[0]))
+                #answers.append('{}\t{}'.format(key, val[0]))
+                answers.append(str(key))
+                values.append(str(val[0]))
             entropy *= -1
             entropy_str = str(round(entropy, 2))
             answer_str = separator.join(answers)
-            line = separator.join((question, num_answers, entropy_str, answer_str))
+            value_str = separator.join(values)
+            line = separator.join((question, num_answers, entropy_str, answer_str, value_str))
             file.write(line + '\n')
 
 def output_answer_dict(ans_dict, filename):
@@ -232,7 +237,6 @@ def output_answer_dict(ans_dict, filename):
 #     return (data_dict, infreq_resp)
 
 args = sys.argv
-print(args)
 
 if ('--help' or '-h') in args:
     print('Usage:')
@@ -242,7 +246,7 @@ if ('--help' or '-h') in args:
     print(' -r <replacement file>\tTakes input csv with "Question #,word_to_replace,word_to_replace_with" on each line and makes replacements.')
     print(' -p\tPrints output to stdout.')
     print(' -m [filename]\tWrites output to a markdown file, default file name is output.md.')
-    print(' -t [filename]\tWrites output to a tsv with "Question Answer 1 Freq 1 Answer 2 Freq 2 ..." on each line, default filename is output.tsv.')
+    print(' -t [filename]\tWrites output to a tsv with "Question Answer 1 Answer 2 ... Freq 1 Freq 2 ..." on each line, default filename is output.tsv.')
     print(' -c <censor file>\tTakes input file with one word to censor per line and censors those words.')
     exit()
 ##Input Files

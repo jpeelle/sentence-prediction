@@ -1,7 +1,7 @@
 import sys
 
 def get_demo_info(csvfiles):
-    with open('demo_file.csv', 'w') as dfile:
+    with open('example/demographics.csv', 'w') as dfile:
         demo_info = {}
         for csvfile in csvfiles:
             with open(csvfile, 'r') as cfile:
@@ -16,11 +16,12 @@ def get_demo_info(csvfiles):
                     if subject_id in demo_info:
                         for i in range(len(demo_categories)):
                             demo_info[subject_id].append(line_list[demo_indices[i]])
-                    for i in range(len(demo_categories)):
-                        if subject_id not in demo_info:
-                            demo_info[subject_id] = [line_list[demo_indices[i]]]
-                        else:
-                            demo_info[subject_id].append(line_list[demo_indices[i]])
+                    else:
+                        for i in range(len(demo_categories)):
+                            if subject_id not in demo_info:
+                                demo_info[subject_id] = [line_list[demo_indices[i]]]
+                            else:
+                                demo_info[subject_id].append(line_list[demo_indices[i]])
                 if csvfile == csvfiles[0]:
                     dfile.write('SubjectID')
                     for i in demo_categories:

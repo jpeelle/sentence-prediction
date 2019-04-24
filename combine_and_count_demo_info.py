@@ -1,0 +1,49 @@
+# # Count
+# with open('example/sub_id_hits.csv', 'w') as wf:
+#     with open('example/demographics.csv', 'r') as rf:
+#         header = rf.readline()
+#         wf.write('{},{}\n'.format(header.split(',')[0],'NumberOfHits'))
+#         demo_questions = header.split(',')
+#         demo_questions[-1] = demo_questions[-1].strip()
+#         for line in rf:
+#             line_list = line.split(',')
+#             num_hits = len(line_list) // 10
+#             wf.write('{},{}\n'.format(line_list[0],num_hits))
+
+# Combine
+with open('example/consolidated_demographics.csv', 'w') as wf:
+    with open('example/demographics.csv', 'r') as rf:
+        header = rf.readline()
+        wf.write(header)
+        header_list = header.split(',')
+
+        for line in rf:
+            line_list = line.split(',')
+            subject_id = line_list[0]
+            line_list = line_list[1:]
+            mismatched_answer = False
+
+            num_questions = 10
+            for i in range(0, len(line_list), num_questions):
+                question_set = line_list[i:i+num_questions]
+                count = 0
+                for j in range(len(question_set)):
+                    if (line_list[j] == '' or line_list[j] == '{}') and question_set[j] != '' and question_set[j] != '{}':
+                        line_list[j] = question_set[j]
+                        count = 0
+                    else:
+                        if question_set[j] != '' and question_set[j] != '{}':
+                            if line_list[j] == question_set[j]:
+                                if i != 0:
+                                    count += 1
+                            else:
+                                mismatched_answer = True
+                                count += 0
+
+                if count == len(question_set):
+                    for k in range(i,i+num_questions):
+                        line_list[k] = None
+            if mismatched_answer:
+                line_list = ['answer mismatch'] + line_list
+
+            wf.write(subject_id + ',' + ','.join([x for x in line_list if x is not None ]))

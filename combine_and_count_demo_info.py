@@ -23,6 +23,7 @@ with open('consolidated_demographics.csv', 'w') as wf:
             line_list = line.split(',')
             subject_id = line_list[0]
             line_list = line_list[1:]
+            line_list[-1] = line_list[-1].strip()
             mismatched_answer = 'N/A'
 
             num_questions = 10
@@ -35,7 +36,7 @@ with open('consolidated_demographics.csv', 'w') as wf:
                         count = 0
                     else:
                         if question_set[j] != '' and question_set[j] != '{}':
-                            if line_list[j] == question_set[j]:
+                            if line_list[j].strip() == question_set[j].strip():
                                 if i != 0:
                                     count += 1
                             else:
@@ -53,6 +54,5 @@ with open('consolidated_demographics.csv', 'w') as wf:
                 line_list = [';'.join(mismatched_answer)] + line_list
             else:
                 line_list = [mismatched_answer] + line_list
-            #if mismatched_answer:
-            #    line_list = ['answer mismatch'] + line_list
-            wf.write(subject_id + ',' + ','.join([x for x in line_list if x is not None ]))
+
+            wf.write(subject_id + ',' + ','.join([x for x in line_list if x is not None ]) + '\n')

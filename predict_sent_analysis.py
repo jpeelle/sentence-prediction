@@ -5,7 +5,7 @@ import string
 import argparse
 from math import log2
 
-def csv_reader(csvfiles, replacement_file=None, censor_file=None):
+def csv_reader(csvfiles, replacement_file=None, censor_file=None, exclusion_file=None):
     ''' Takes a list of Mechanical Turk csv files as input. For each file, it
     finds all sentences and answers and creates two dictionaries. One maps
     sentences to answers and their frequencies. The other maps answers to the
@@ -19,19 +19,30 @@ def csv_reader(csvfiles, replacement_file=None, censor_file=None):
     question_number = 1
     header = []
     censor_list = []
+    exclusion_list = []
+
+    if exclusion_file is not None:
+        with open(exclusion_file, 'r') as file:
+            for line in file:
+                exclusion_list.append(line.rstrip(string.whitespace).rstrip(string.punctuation))
+
     if censor_file is not None:
         with open(censor_file, 'r') as file:
             for line in file:
                 censor_list.append(line.rstrip(string.whitespace).rstrip(string.punctuation))
+
     if replacement_file is not None:
         replacement_dict = word_replacer(replacement_file)
     else:
         replacement_dict = {}
+
     for csvfile in csvfiles:
         indices = [] #Tracks columns in the csv that have sentences and answers
         with open(csvfile, 'r') as file:
             header = file.readline()
             header_list = header.split('","')
+
+            sub_id_index = header_list.index('WorkerId')
 
             for i in range(len(header_list)):
                 if 'sentence' in header_list[i]:
@@ -39,6 +50,8 @@ def csv_reader(csvfiles, replacement_file=None, censor_file=None):
 
             for line in file:
                 line_list = line.split('","')
+                if line_list[sub_id_index] in exclusion_list:
+                    continue
                 #Half of 'indices' are sentences and half are the responses
                 num_questions = len(indices) // 2
                 for i in range(num_questions):
@@ -248,7 +261,14 @@ if ('--help' or '-h') in args:
     print(' -m [filename]\tWrites output to a markdown file, default file name is output.md.')
     print(' -t [filename]\tWrites output to a tsv with "Question Answer 1 Answer 2 ... Freq 1 Freq 2 ..." on each line, default filename is output.tsv.')
     print(' -c <censor file>\tTakes input file with one word to censor per line and censors those words.')
+    print(' -e <exclusion file>\tTakes input file with one Worker ID number to exclude per line and removes responses from those workers.')
     exit()
+
+#Optional Files
+replacement_file = None
+censor_file = None
+exclusion_file = None
+
 ##Input Files
 filenames = []
 i = 1
@@ -275,15 +295,26 @@ if '-r' in args:
 if '-c' in args:
     index = args.index('-c')
     if len(args) < index+2:
-        print('No censor filename provided. Please include a replacement filename or run with --help for help.')
+        print('No censor filename provided. Please include a censor filename or run with --help for help.')
         exit()
     if args[index+1][0] == '-':
-        print('No replacement filename provided. Please include a replacement filename or run with --help for help.')
+        print('No censor filename provided. Please include a censor filename or run with --help for help.')
         exit()
     censor_file = args[index+1]
 
+##EXCLUSION FILE
+if '-e' in args:
+    index = args.index('-e')
+    if len(args) < index+2:
+        print('No exclusion filename provided. Please include an exclusion filename or run with --help for help.')
+        exit()
+    if args[index+1][0] == '-':
+        print('No exclusion filename provided. Please include an exclusion filename or run with --help for help.')
+        exit()
+    exclusion_file = args[index+1]
+
 #Run the program
-dicts = csv_reader(filenames, replacement_file, censor_file)
+dicts = csv_reader(filenames, replacement_file, censor_file, exclusion_file)
 q_dict = dicts[0]
 a_dict = dicts[1]
 sorted_q_dict = freq_sorter(q_dict)

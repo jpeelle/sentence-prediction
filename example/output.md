@@ -1,11 +1,11 @@
 1. He hated bees and feared encountering a __________.
 
-	* hive (0.42)
-	* swarm (0.20)
+	* hive (0.43)
+	* swarm (0.19)
 	* bee (0.09)
 	* nest (0.08)
 	* wasp (0.06)
-	* beehive (0.05)
+	* beehive (0.04)
 	* sting (0.04)
 	* stinger (0.03)
 	* hornet (0.02)
@@ -15,10 +15,10 @@
 
 2. Grace laughed when he referred to her as a __________.
 
-	* girl (0.10)
-	* lady (0.05)
-	* clown (0.04)
+	* girl (0.11)
+	* lady (0.04)
 	* diva (0.03)
+	* clown (0.03)
 	* prude (0.03)
 	* doll (0.03)
 	* princess (0.03)
@@ -95,10 +95,10 @@
 
 4. The beach is the place we will usually __________.
 
-	* swim (0.16)
+	* swim (0.17)
+	* go (0.16)
 	* vacation (0.15)
-	* go (0.15)
-	* visit (0.12)
+	* visit (0.13)
 	* relax (0.10)
 	* meet (0.07)
 	* stay (0.03)
@@ -108,7 +108,6 @@
 	* tan (0.02)
 	* avoid (0.02)
 	* celebrate (0.01)
-	* sit (0.01)
 	* like (0.01)
 	* bodysurf (0.01)
 	* walk (0.01)
@@ -122,7 +121,7 @@
 5. After waiting three hours, Cal whined and started to __________.
 
 	* cry (0.50)
-	* complain (0.10)
+	* complain (0.11)
 	* leave (0.08)
 	* squirm (0.05)
 	* pout (0.05)
@@ -131,7 +130,6 @@
 	* pace (0.03)
 	* argue (0.02)
 	* No Response (0.02)
-	* squint (0.01)
 	* weep (0.01)
 	* paw (0.01)
 	* pant (0.01)
@@ -143,7 +141,7 @@
 
 6. While watching the funny movie, Kim was overcome with __________.
 
-	* laughter (0.69)
+	* laughter (0.68)
 	* joy (0.18)
 	* emotion (0.08)
 	* No Response (0.02)
@@ -154,9 +152,9 @@
 
 7. Hearing noises from above, the confused man inspected the __________.
 
-	* attic (0.33)
+	* attic (0.32)
 	* ceiling (0.24)
-	* roof (0.15)
+	* roof (0.16)
 	* sky (0.09)
 	* door (0.02)
 	* No Response (0.02)
@@ -179,19 +177,19 @@
 
 8. The restaurants on the west end were very __________.
 
-	* expensive (0.43)
+	* expensive (0.44)
 	* posh (0.07)
-	* crowded (0.07)
+	* crowded (0.06)
 	* fancy (0.06)
 	* busy (0.04)
 	* good (0.04)
-	* clean (0.03)
 	* pricey (0.03)
 	* nice (0.02)
 	* noisy (0.02)
 	* swanky (0.02)
 	* dirty (0.02)
 	* No Response (0.02)
+	* clean (0.02)
 	* chic (0.01)
 	* best (0.01)
 	* trendy (0.01)
@@ -211,7 +209,7 @@
 
 9. Tim was very tired, so he was difficult to __________.
 
-	* understand (0.13)
+	* understand (0.14)
 	* wake (0.10)
 	* control (0.05)
 	* hear (0.05)
@@ -234,11 +232,9 @@
 	* No Response (0.02)
 	* drive (0.02)
 	* deal with (0.02)
-	* awaken (0.01)
 	* help (0.01)
 	* read (0.01)
 	* calm (0.01)
-	* stay awake (0.01)
 	* carry (0.01)
 	* talk to (0.01)
 	* enjoy (0.01)
@@ -266,7 +262,6 @@
 	* pictures (0.01)
 	* action (0.01)
 	* money (0.01)
-	* picture (0.01)
 	* glow (0.01)
 	* off (0.01)
 	* measurements (0.01)
@@ -276,24 +271,22 @@
 
 11. Pressed for time, Beth made a quick grocery __________.
 
-	* run (0.32)
+	* run (0.33)
 	* trip (0.27)
-	* stop (0.18)
 	* list (0.18)
+	* stop (0.17)
 	* visit (0.02)
 	* No Response (0.02)
-	* shopping (0.01)
 
 12. A village was discovered between the mountains, in a __________.
 
-	* valley (0.74)
-	* cave (0.07)
+	* valley (0.76)
+	* cave (0.06)
 	* ravine (0.03)
 	* No Response (0.02)
 	* private place (0.01)
 	* circle (0.01)
 	* river (0.01)
-	* vallley (0.01)
 	* cavern (0.01)
 	* field (0.01)
 	* nadir (0.01)
@@ -308,13 +301,12 @@
 
 13. David lost tug-of-war because he was too tired to __________.
 
-	* pull (0.81)
+	* pull (0.82)
 	* play (0.06)
 	* care (0.03)
 	* fight (0.02)
 	* compete (0.02)
 	* No Response (0.02)
-	* battle (0.01)
 	* stand (0.01)
 	* give it his best (0.01)
 	* grip (0.01)
@@ -322,8 +314,8 @@
 
 14. The patient was angry for receiving the wrong __________.
 
-	* medicine (0.31)
-	* medication (0.30)
+	* medicine (0.32)
+	* medication (0.29)
 	* diagnosis (0.10)
 	* treatment (0.06)
 	* dose (0.03)
@@ -345,13 +337,13 @@
 
 15. Paige thought the color of the wall was rather __________.
 
-	* dull (0.33)
+	* dull (0.34)
 	* bland (0.17)
 	* drab (0.08)
 	* boring (0.07)
 	* bright (0.06)
-	* plain (0.05)
 	* ugly (0.05)
+	* plain (0.04)
 	* pretty (0.02)
 	* odd (0.02)
 	* dark (0.02)
@@ -360,7 +352,6 @@
 	* inspiring (0.01)
 	* unique (0.01)
 	* cool (0.01)
-	* beige (0.01)
 	* dreary (0.01)
 	* vibrant (0.01)
 	* soothing (0.01)
@@ -372,18 +363,18 @@
 16. The stockholders meeting started after a short __________.
 
 	* break (0.28)
-	* delay (0.11)
+	* delay (0.12)
 	* recess (0.10)
 	* introduction (0.07)
 	* speech (0.05)
 	* presentation (0.04)
 	* lunch (0.04)
-	* breakfast (0.03)
 	* video (0.03)
 	* prayer (0.03)
-	* time (0.03)
+	* time (0.02)
 	* chat (0.02)
 	* pause (0.02)
+	* breakfast (0.02)
 	* No Response (0.02)
 	* wait (0.02)
 	* interruption (0.01)
@@ -403,12 +394,12 @@
 
 17. A gardener, Harry likes to fertilize plants with __________.
 
-	* manure (0.33)
+	* manure (0.34)
 	* fertilizer (0.10)
 	* compost (0.10)
 	* poop (0.07)
-	* dung (0.05)
 	* soil (0.05)
+	* dung (0.04)
 	* mulch (0.04)
 	* dirt (0.03)
 	* eggs (0.02)
@@ -418,7 +409,6 @@
 	* tomatoes (0.01)
 	* salt (0.01)
 	* chemicals (0.01)
-	* blood (0.01)
 	* nitrogen (0.01)
 	* grounds (0.01)
 	* pee (0.01)
@@ -436,8 +426,8 @@
 
 18. Josie drank a large glass of milk every __________.
 
-	* day (0.53)
-	* morning (0.38)
+	* day (0.52)
+	* morning (0.39)
 	* night (0.04)
 	* evening (0.02)
 	* No Response (0.02)
@@ -445,9 +435,9 @@
 
 19. Running low on cookies, the bakery needed a new __________.
 
-	* batch (0.55)
-	* oven (0.12)
-	* baker (0.12)
+	* batch (0.54)
+	* oven (0.13)
+	* baker (0.13)
 	* chef (0.03)
 	* employees (0.03)
 	* dessert (0.02)
@@ -477,7 +467,6 @@
 	* No Response (0.02)
 	* pile (0.01)
 	* room (0.01)
-	* kitchen (0.01)
 	* wheel (0.01)
 	* storage (0.01)
 	* cabinet (0.01)
@@ -496,7 +485,7 @@
 	* corner (0.42)
 	* bend (0.18)
 	* curve (0.14)
-	* turn (0.12)
+	* turn (0.13)
 	* block (0.05)
 	* circle (0.03)
 	* No Response (0.02)
@@ -520,7 +509,7 @@
 
 23. Tom was told that this particular plant was a __________.
 
-	* fern (0.13)
+	* fern (0.14)
 	* rose (0.09)
 	* weed (0.08)
 	* poisonous (0.08)
@@ -536,10 +525,8 @@
 	* flower (0.02)
 	* geranium (0.02)
 	* No Response (0.02)
-	* gymnosperm (0.01)
 	* peony (0.01)
 	* mandrake (0.01)
-	* rotten (0.01)
 	* green (0.01)
 	* prize (0.01)
 	* nice one (0.01)
@@ -585,7 +572,6 @@
 	* leg (0.01)
 	* running (0.01)
 	* race (0.01)
-	* ride (0.01)
 	* cart (0.01)
 	* attack (0.01)
 	* huff (0.01)
@@ -597,7 +583,7 @@
 
 25. As Aiden aged, he began to lose his __________.
 
-	* hair (0.49)
+	* hair (0.48)
 	* eyesight (0.09)
 	* mind (0.08)
 	* memory (0.06)
@@ -623,13 +609,12 @@
 26. The horse broke the fence by kicking out his __________.
 
 	* legs (0.34)
-	* feet (0.15)
-	* stall (0.12)
+	* feet (0.16)
+	* stall (0.13)
 	* hooves (0.10)
 	* gate (0.08)
 	* hoof (0.06)
 	* No Response (0.02)
-	* lease (0.01)
 	* door (0.01)
 	* shoe (0.01)
 	* reigns (0.01)
@@ -646,10 +631,10 @@
 
 27. After a long workday, Jack was excited to __________.
 
-	* relax (0.30)
-	* leave (0.18)
+	* relax (0.29)
+	* leave (0.17)
 	* sleep (0.17)
-	* rest (0.11)
+	* rest (0.12)
 	* chill (0.03)
 	* go home (0.02)
 	* exercise (0.02)
@@ -681,7 +666,6 @@
 	* laugh (0.02)
 	* admire (0.02)
 	* worry (0.02)
-	* hug her (0.02)
 	* beam (0.02)
 	* No Response (0.02)
 	* feel (0.01)
@@ -698,6 +682,7 @@
 	* wanting more (0.01)
 	* tell (0.01)
 	* moan (0.01)
+	* hug her (0.01)
 	* gaze (0.01)
 	* dream (0.01)
 
@@ -708,12 +693,11 @@
 	* hatch (0.19)
 	* lock (0.06)
 	* hinge (0.03)
-	* bolt (0.02)
 	* knocker (0.02)
 	* No Response (0.02)
+	* bolt (0.01)
 	* stopper (0.01)
 	* off (0.01)
-	* bell (0.01)
 	* window (0.01)
 	* side (0.01)
 	* curtain (0.01)
@@ -731,9 +715,9 @@
 30. Allison did not like her husband calling her __________.
 
 	* names (0.24)
-	* fat (0.15)
+	* fat (0.16)
 	* stupid (0.07)
-	* honey (0.06)
+	* honey (0.05)
 	* babe (0.04)
 	* sweetie (0.04)
 	* b**** (0.03)
@@ -743,7 +727,6 @@
 	* No Response (0.02)
 	* whore (0.02)
 	* sweetheart (0.02)
-	* ali (0.01)
 	* suspicious (0.01)
 	* sweetums (0.01)
 	* gigi (0.01)
@@ -783,9 +766,9 @@
 
 	* latch (0.47)
 	* lock (0.24)
-	* hinge (0.12)
+	* hinge (0.13)
 	* clasp (0.09)
-	* lid (0.03)
+	* lid (0.02)
 	* handle (0.02)
 	* No Response (0.02)
 	* glass (0.01)
@@ -793,15 +776,14 @@
 
 33. Looking for local beer, people walked to the __________.
 
-	* bar (0.36)
-	* pub (0.28)
-	* brewery (0.16)
+	* bar (0.37)
+	* pub (0.27)
+	* brewery (0.17)
 	* store (0.10)
 	* shore (0.02)
 	* No Response (0.02)
 	* tavern (0.02)
 	* distributor (0.01)
-	* restaurant (0.01)
 	* festival (0.01)
 	* boardwalk (0.01)
 	* market (0.01)
@@ -819,13 +801,13 @@
 
 35. After the marathon, Kelly dined at a buffet to __________.
 
-	* eat (0.31)
-	* celebrate (0.12)
-	* refuel (0.11)
+	* eat (0.32)
+	* celebrate (0.13)
+	* refuel (0.12)
 	* relax (0.10)
 	* replenish (0.09)
-	* recover (0.04)
-	* rest (0.04)
+	* rest (0.03)
+	* recover (0.03)
 	* nourish (0.03)
 	* recoup (0.03)
 	* recharge (0.02)
@@ -4249,9 +4231,9 @@
 	* muscular (0.06)
 	* fit (0.05)
 	* slim (0.05)
-	* skinny (0.05)
 	* lean (0.04)
 	* big (0.04)
+	* skinny (0.04)
 	* smart (0.03)
 	* buff (0.03)
 	* strong (0.03)
@@ -4272,8 +4254,8 @@
 
 187. When using credit cards, cashiers may ask you to __________.
 
-	* sign (0.70)
-	* swipe (0.11)
+	* sign (0.69)
+	* swipe (0.12)
 	* show id (0.06)
 	* verify (0.04)
 	* wait (0.03)
@@ -4286,7 +4268,7 @@
 
 188. While training for the marathon, Kelly became __________.
 
-	* fit (0.22)
+	* fit (0.21)
 	* tired (0.10)
 	* sick (0.09)
 	* ill (0.07)
@@ -4340,7 +4322,7 @@
 
 190. Justine scrubbed the coffee stain on her shirt with __________.
 
-	* bleach (0.19)
+	* bleach (0.18)
 	* soap (0.17)
 	* water (0.15)
 	* vinegar (0.04)
@@ -4380,8 +4362,8 @@
 
 191. An expert in hiding, the thief was hard to __________.
 
-	* find (0.59)
-	* catch (0.21)
+	* find (0.60)
+	* catch (0.20)
 	* spot (0.09)
 	* locate (0.03)
 	* track (0.02)
@@ -4393,7 +4375,7 @@
 
 192. The stench of the dumpster made the passerby __________.
 
-	* gag (0.34)
+	* gag (0.35)
 	* sick (0.21)
 	* nauseous (0.06)
 	* puke (0.05)
@@ -4409,7 +4391,6 @@
 	* faint (0.01)
 	* cough (0.01)
 	* grimace (0.01)
-	* flinch (0.01)
 	* squeamish (0.01)
 	* stop (0.01)
 	* hurl (0.01)
@@ -4420,8 +4401,8 @@
 
 193. The circus tiger roared as he received another __________.
 
-	* lash (0.24)
 	* treat (0.24)
+	* lash (0.23)
 	* whip (0.07)
 	* whipping (0.07)
 	* steak (0.05)
@@ -4447,8 +4428,8 @@
 
 194. Due to the dust, the construction workers began to __________.
 
-	* cough (0.77)
-	* sneeze (0.18)
+	* cough (0.78)
+	* sneeze (0.17)
 	* scatter (0.01)
 	* hack (0.01)
 	* choke (0.01)
@@ -4457,11 +4438,11 @@
 
 195. In the mornings it was hard for Jim to __________.
 
-	* wake (0.36)
+	* wake (0.37)
 	* awaken (0.16)
 	* move (0.06)
-	* concentrate (0.06)
 	* rise (0.06)
+	* concentrate (0.05)
 	* think (0.04)
 	* see (0.03)
 	* focus (0.03)
@@ -4493,8 +4474,8 @@
 	* hamster (0.05)
 	* gerbil (0.04)
 	* bird (0.04)
-	* rabbit (0.03)
 	* snake (0.03)
+	* rabbit (0.02)
 	* turtle (0.02)
 	* rat (0.02)
 	* kitten (0.02)
@@ -4513,9 +4494,9 @@
 
 197. The scary story had a goblin and a __________.
 
-	* witch (0.30)
+	* witch (0.31)
 	* ghost (0.22)
-	* troll (0.11)
+	* troll (0.12)
 	* ghoul (0.08)
 	* monster (0.07)
 	* dragon (0.04)
@@ -4524,7 +4505,6 @@
 	* orc (0.02)
 	* fairy (0.02)
 	* gremlin (0.01)
-	* bear (0.01)
 	* knight (0.01)
 	* gnome (0.01)
 	* devil (0.01)
@@ -4540,9 +4520,9 @@
 
 199. Beauty is unrelated to whether or not you are __________.
 
-	* pretty (0.26)
+	* pretty (0.25)
 	* smart (0.12)
-	* young (0.11)
+	* young (0.12)
 	* beautiful (0.06)
 	* nice (0.06)
 	* kind (0.06)
@@ -4594,7 +4574,6 @@
 	* son (0.01)
 	* head (0.01)
 	* back (0.01)
-	* friend (0.01)
 	* penis (0.01)
 	* companion (0.01)
 	* shirt (0.01)
@@ -4608,7 +4587,7 @@
 202. The babysitter screamed when she saw the __________.
 
 	* spider (0.19)
-	* mouse (0.10)
+	* mouse (0.11)
 	* mess (0.09)
 	* intruder (0.06)
 	* burglar (0.05)
@@ -4629,7 +4608,6 @@
 	* killer (0.01)
 	* cat (0.01)
 	* criminal (0.01)
-	* doll (0.01)
 	* face (0.01)
 	* stranger (0.01)
 	* kid (0.01)
@@ -4645,13 +4623,12 @@
 
 203. They couldn't talk because it was too hard to __________.
 
-	* hear (0.74)
-	* speak (0.10)
+	* hear (0.75)
+	* speak (0.11)
 	* breathe (0.06)
 	* understand (0.03)
 	* swallow (0.01)
 	* communicate (0.01)
-	* connect (0.01)
 	* breath (0.01)
 	* whisper (0.01)
 	* see (0.01)
@@ -4659,14 +4636,13 @@
 
 204. On Saturday night, Mark hung out with his __________.
 
-	* friends (0.75)
+	* friends (0.76)
 	* girlfriend (0.06)
 	* brother (0.04)
 	* buddies (0.04)
 	* pals (0.03)
 	* parents (0.02)
 	* girl (0.01)
-	* grandma (0.01)
 	* sister (0.01)
 	* mom (0.01)
 	* wife (0.01)
@@ -4675,8 +4651,8 @@
 
 205. Spaghetti is the girl's favorite type of __________.
 
-	* food (0.50)
-	* pasta (0.36)
+	* food (0.49)
+	* pasta (0.37)
 	* dinner (0.05)
 	* meal (0.05)
 	* dress (0.01)
@@ -4701,7 +4677,6 @@
 	* song (0.01)
 	* strains (0.01)
 	* melodies (0.01)
-	* lull (0.01)
 	* lyrics (0.01)
 	* tunes (0.01)
 	* instruments (0.01)
@@ -4715,8 +4690,8 @@
 	* punish (0.06)
 	* talk (0.05)
 	* pay (0.04)
-	* come (0.04)
 	* intervene (0.04)
+	* come (0.03)
 	* meet (0.03)
 	* attend (0.02)
 	* act (0.02)
@@ -4768,7 +4743,6 @@
 	* honey (0.01)
 	* friendly (0.01)
 	* mench (0.01)
-	* wuss (0.01)
 	* groom (0.01)
 	* grump (0.01)
 	* beau (0.01)
@@ -4782,7 +4756,7 @@
 
 209. He slept so soundly that he was impossible to __________.
 
-	* wake (0.70)
+	* wake (0.71)
 	* awaken (0.10)
 	* rouse (0.05)
 	* disturb (0.04)
@@ -4791,7 +4765,6 @@
 	* interrupt (0.01)
 	* startle (0.01)
 	* mess (0.01)
-	* sleep (0.01)
 	* move (0.01)
 	* notice (0.01)
 	* bother (0.01)
@@ -4804,8 +4777,8 @@
 	* curse (0.05)
 	* complain (0.04)
 	* shout (0.04)
-	* fume (0.03)
 	* rant (0.03)
+	* fume (0.02)
 	* cry (0.02)
 	* argue (0.02)
 	* scoul (0.02)
@@ -4901,7 +4874,7 @@
 213. Sometimes wedding dresses will be adorned with __________.
 
 	* lace (0.25)
-	* flowers (0.17)
+	* flowers (0.16)
 	* jewels (0.16)
 	* pearls (0.15)
 	* beads (0.14)
@@ -4925,12 +4898,12 @@
 
 215. The information the nurse gave the child had been __________.
 
-	* wrong (0.30)
+	* wrong (0.31)
 	* incorrect (0.12)
 	* helpful (0.05)
-	* false (0.05)
 	* correct (0.05)
 	* lost (0.05)
+	* false (0.04)
 	* informative (0.02)
 	* scary (0.02)
 	* right (0.02)
@@ -4968,7 +4941,7 @@
 
 216. When cleaning it is important to use __________.
 
-	* soap (0.29)
+	* soap (0.28)
 	* bleach (0.23)
 	* gloves (0.08)
 	* cleaner (0.07)
@@ -5022,7 +4995,6 @@
 	* eat slowly (0.01)
 	* order (0.01)
 	* put down (0.01)
-	* miss (0.01)
 	* believe (0.01)
 	* eating (0.01)
 	* save (0.01)
@@ -5058,10 +5030,10 @@
 	* anger (0.06)
 	* beauty (0.06)
 	* hate (0.05)
-	* fear (0.04)
 	* lust (0.04)
 	* greed (0.03)
 	* faith (0.03)
+	* fear (0.03)
 	* feelings (0.03)
 	* jealousy (0.03)
 	* thoughts (0.02)
@@ -5102,7 +5074,7 @@
 	* laughed (0.23)
 	* cried (0.20)
 	* cheered (0.06)
-	* ran (0.05)
+	* ran (0.04)
 	* clapped (0.03)
 	* giggled (0.03)
 	* smiled (0.03)
@@ -5126,7 +5098,7 @@
 
 224. The cranky neighbor yelled at the kids to __________.
 
-	* stop (0.41)
+	* stop (0.40)
 	* leave (0.28)
 	* quiet (0.07)
 	* quit (0.05)
@@ -5153,11 +5125,11 @@
 
 226. Tired of beige walls, Ingrid painted them a bold __________.
 
-	* red (0.37)
+	* red (0.38)
 	* blue (0.13)
 	* green (0.12)
 	* color (0.10)
-	* yellow (0.10)
+	* yellow (0.09)
 	* pink (0.08)
 	* purple (0.06)
 	* orange (0.04)
@@ -5165,9 +5137,8 @@
 
 227. The girl who lost cried that the competition wasn't __________.
 
-	* fair (0.94)
+	* fair (0.95)
 	* good (0.01)
-	* finished (0.01)
 	* fixed (0.01)
 	* happy (0.01)
 	* easy (0.01)
@@ -5176,7 +5147,7 @@
 228. Domingo stored his valuables in a durable __________.
 
 	* safe (0.57)
-	* box (0.10)
+	* box (0.11)
 	* case (0.07)
 	* container (0.07)
 	* bag (0.06)
@@ -5207,7 +5178,6 @@
 	* macarena (0.01)
 	* stars (0.01)
 	* sidewalk (0.01)
-	* floor (0.01)
 	* rhythm (0.01)
 	* tunes (0.01)
 	* sound (0.01)
@@ -5246,8 +5216,8 @@
 	* shirt (0.05)
 	* dress (0.05)
 	* blouse (0.04)
-	* coat (0.03)
 	* jacket (0.02)
+	* coat (0.02)
 	* table (0.02)
 	* sofa (0.01)
 	* skirt (0.01)
@@ -5270,8 +5240,8 @@
 
 234. During the poker match, the player won with a __________.
 
-	* flush (0.50)
-	* straight (0.11)
+	* flush (0.51)
+	* straight (0.12)
 	* hand (0.06)
 	* pair (0.05)
 	* bluff (0.04)
@@ -5284,7 +5254,6 @@
 	* ace (0.01)
 	* heart (0.01)
 	* laugh (0.01)
-	* card (0.01)
 	* sum (0.01)
 	* queen (0.01)
 	* royal flush (0.01)
@@ -6434,7 +6403,7 @@
 
 286. When he went to parties, Tim was a real __________.
 
-	* clown (0.10)
+	* clown (0.11)
 	* hoot (0.10)
 	* joker (0.09)
 	* jerk (0.07)
@@ -6469,7 +6438,6 @@
 	* extrovert (0.01)
 	* killjoy (0.01)
 	* drag (0.01)
-	* nice (0.01)
 	* gentleman (0.01)
 	* dud (0.01)
 	* showman (0.01)
@@ -6481,7 +6449,7 @@
 
 287. Most of the young sharks took shelter in the __________.
 
-	* cove (0.35)
+	* cove (0.36)
 	* reef (0.17)
 	* cave (0.17)
 	* bay (0.09)
@@ -6490,7 +6458,6 @@
 	* water (0.02)
 	* rocks (0.02)
 	* cavern (0.02)
-	* shade (0.02)
 	* depths of the sea (0.01)
 	* reeds (0.01)
 	* shed (0.01)
@@ -6498,6 +6465,7 @@
 	* pool (0.01)
 	* lagoon (0.01)
 	* harbor (0.01)
+	* shade (0.01)
 	* sand (0.01)
 	* dark (0.01)
 
@@ -6519,7 +6487,6 @@
 	* snow (0.01)
 	* heat (0.01)
 	* ladder (0.01)
-	* time (0.01)
 	* wind (0.01)
 	* help (0.01)
 	* injury (0.01)
@@ -6527,10 +6494,10 @@
 
 289. It was hard to see because the light was __________.
 
-	* dim (0.74)
+	* dim (0.75)
 	* bright (0.13)
-	* off (0.04)
 	* blinding (0.03)
+	* off (0.03)
 	* out (0.03)
 	* dull (0.01)
 	* distant (0.01)
@@ -6538,8 +6505,8 @@
 
 290. The criminal was nervous to appear before the __________.
 
-	* judge (0.76)
-	* court (0.22)
+	* judge (0.77)
+	* court (0.21)
 	* jury (0.01)
 	* magistrate (0.01)
 
@@ -6548,7 +6515,6 @@
 	* duke (0.88)
 	* prince (0.09)
 	* lord (0.01)
-	* king (0.01)
 	* dutch (0.01)
 	* earl (0.01)
 
@@ -6556,7 +6522,7 @@
 
 	* shop (0.29)
 	* live (0.19)
-	* party (0.17)
+	* party (0.16)
 	* explore (0.07)
 	* visit (0.06)
 	* eat (0.06)
@@ -6574,7 +6540,7 @@
 
 293. They waited for a windy day to use their __________.
 
-	* kite (0.85)
+	* kite (0.86)
 	* jackets (0.06)
 	* boat (0.03)
 	* sailboat (0.02)
@@ -6582,7 +6548,6 @@
 	* sails (0.01)
 	* parka (0.01)
 	* umbrellas (0.01)
-	* coupon (0.01)
 
 294. Ann knew slurping soup loudly was his greatest pet __________.
 
@@ -6590,7 +6555,7 @@
 
 295. He had plenty of power at the school as __________.
 
-	* principal (0.69)
+	* principal (0.68)
 	* president (0.08)
 	* principle (0.05)
 	* pricipal (0.02)
@@ -6611,7 +6576,7 @@
 
 296. The monk was easily recognized due to wearing a __________.
 
-	* robe (0.69)
+	* robe (0.68)
 	* habit (0.05)
 	* hood (0.05)
 	* cloak (0.05)
@@ -6630,7 +6595,7 @@
 297. The important investors' dinner was at half-past __________.
 
 	* six (0.28)
-	* eight (0.22)
+	* eight (0.21)
 	* seven (0.20)
 	* nine (0.10)
 	* noon (0.10)
@@ -6641,13 +6606,12 @@
 
 298. Chris couldn't find the store because there was no __________.
 
-	* sign (0.70)
+	* sign (0.71)
 	* map (0.14)
 	* directions (0.09)
 	* light (0.03)
 	* address (0.02)
 	* street (0.01)
-	* board (0.01)
 
 299. His girlfriend said she had done it for his __________.
 
@@ -6664,7 +6628,6 @@
 	* money (0.03)
 	* approval (0.02)
 	* parents (0.02)
-	* friend (0.02)
 	* attention (0.02)
 	* safety (0.02)
 	* brother (0.02)
@@ -6674,6 +6637,7 @@
 	* pleasure (0.01)
 	* family (0.01)
 	* enjoyment (0.01)
+	* friend (0.01)
 	* child (0.01)
 	* charm (0.01)
 	* welfare (0.01)
@@ -6702,15 +6666,15 @@
 
 301. The chef thought the chicken breast needed more __________.
 
-	* seasoning (0.30)
+	* seasoning (0.31)
 	* salt (0.29)
 	* spice (0.07)
 	* sauce (0.06)
 	* pepper (0.04)
 	* spices (0.04)
-	* time (0.04)
 	* flavor (0.04)
 	* rosemary (0.03)
+	* time (0.03)
 	* marinade (0.03)
 	* garlic (0.02)
 	* cooking (0.02)
@@ -6721,8 +6685,8 @@
 
 302. The new crystal chandelier was very expensive and __________.
 
-	* fragile (0.21)
-	* beautiful (0.10)
+	* fragile (0.20)
+	* beautiful (0.11)
 	* delicate (0.08)
 	* ornate (0.08)
 	* heavy (0.06)
@@ -6754,7 +6718,7 @@
 303. Staring blankly out the window, Nick let his eyes __________.
 
 	* wander (0.64)
-	* close (0.09)
+	* close (0.08)
 	* glaze (0.03)
 	* rest (0.03)
 	* roam (0.03)
@@ -6813,7 +6777,6 @@
 	* douchey (0.01)
 	* burley (0.01)
 	* nervous (0.01)
-	* pretty (0.01)
 	* conceited (0.01)
 	* cute (0.01)
 	* smart (0.01)
@@ -6823,7 +6786,7 @@
 
 	* gun (0.50)
 	* duel (0.25)
-	* gunfight (0.11)
+	* gunfight (0.12)
 	* fight (0.09)
 	* shoot out (0.02)
 	* handshake (0.01)
@@ -6832,14 +6795,14 @@
 
 306. The kind grandmother told stories while she __________.
 
-	* knitted (0.36)
+	* knitted (0.37)
 	* cooked (0.23)
 	* baked (0.10)
 	* rocked (0.06)
 	* sewed (0.04)
 	* sat (0.03)
-	* ate (0.03)
 	* slept (0.02)
+	* ate (0.02)
 	* waited (0.02)
 	* listened (0.02)
 	* drank (0.02)
@@ -6857,8 +6820,8 @@
 
 	* sail (0.42)
 	* mast (0.15)
-	* hole (0.08)
 	* cabin (0.08)
+	* hole (0.07)
 	* deck (0.07)
 	* expense (0.04)
 	* yacht (0.03)
@@ -6880,8 +6843,8 @@
 
 	* mouse (0.28)
 	* yarn (0.26)
-	* string (0.11)
-	* ball (0.10)
+	* string (0.12)
+	* ball (0.11)
 	* dog (0.06)
 	* catnip (0.03)
 	* toy (0.02)
@@ -6895,14 +6858,13 @@
 	* dustbunnies (0.01)
 	* ribbon (0.01)
 	* lizards (0.01)
-	* kids (0.01)
 	* plant (0.01)
 	* pen (0.01)
 	* carpet (0.01)
 
 309. That dark red vegetable over there is a __________.
 
-	* beet (0.50)
+	* beet (0.49)
 	* tomato (0.20)
 	* pepper (0.12)
 	* radish (0.08)
@@ -6918,7 +6880,7 @@
 
 	* toe (0.29)
 	* leg (0.20)
-	* ankle (0.10)
+	* ankle (0.09)
 	* hip (0.08)
 	* arm (0.08)
 	* tooth (0.05)
@@ -6940,8 +6902,8 @@
 311. Once outside, the playful toddler started throwing __________.
 
 	* rocks (0.37)
-	* balls (0.10)
-	* dirt (0.10)
+	* balls (0.11)
+	* dirt (0.11)
 	* sand (0.07)
 	* stones (0.05)
 	* fits (0.04)
@@ -6961,7 +6923,7 @@
 
 312. The mechanic lifts cars using a car __________.
 
-	* jack (0.58)
+	* jack (0.59)
 	* lift (0.23)
 	* hoist (0.05)
 	* winch (0.03)
@@ -6973,14 +6935,13 @@
 	* towtruck (0.01)
 	* rack (0.01)
 	* tow (0.01)
-	* crane (0.01)
 	* tool (0.01)
 	* hydraulic system (0.01)
 	* device (0.01)
 
 313. Rick always felt truly better after doing a good __________.
 
-	* deed (0.37)
+	* deed (0.38)
 	* job (0.32)
 	* workout (0.18)
 	* run (0.06)
@@ -6999,10 +6960,10 @@
 	* like (0.09)
 	* hear (0.06)
 	* impress (0.03)
-	* reach (0.03)
 	* tolerate (0.02)
 	* read (0.02)
 	* handle (0.02)
+	* reach (0.02)
 	* bribe (0.01)
 	* prank (0.01)
 	* subdue (0.01)
@@ -7027,9 +6988,9 @@
 
 316. The store clerk ended up being an unknowing __________.
 
-	* accomplice (0.36)
+	* accomplice (0.37)
 	* victim (0.12)
-	* witness (0.11)
+	* witness (0.12)
 	* idiot (0.06)
 	* participant (0.04)
 	* employee (0.03)
@@ -7051,7 +7012,6 @@
 	* target (0.01)
 	* cohort (0.01)
 	* person (0.01)
-	* ally (0.01)
 	* mark (0.01)
 	* warrant (0.01)
 	* accomplce (0.01)
@@ -7089,15 +7049,14 @@
 	* clothes (0.01)
 	* sweater (0.01)
 	* watch (0.01)
-	* shoe (0.01)
 	* vest (0.01)
 
 319. While on land, the crab was eaten by a __________.
 
-	* bird (0.27)
+	* bird (0.26)
+	* dog (0.12)
 	* seagull (0.12)
-	* dog (0.11)
-	* gull (0.10)
+	* gull (0.11)
 	* person (0.05)
 	* seal (0.04)
 	* pelican (0.04)
@@ -7123,11 +7082,11 @@
 
 320. Everyone ran from the man like he was a __________.
 
-	* monster (0.30)
+	* monster (0.31)
 	* murderer (0.12)
 	* leper (0.10)
 	* criminal (0.09)
-	* killer (0.06)
+	* killer (0.05)
 	* maniac (0.04)
 	* lunatic (0.03)
 	* threat (0.02)
@@ -7159,7 +7118,7 @@
 	* glob (0.23)
 	* blob (0.12)
 	* lump (0.06)
-	* chunk (0.05)
+	* chunk (0.04)
 	* mouthful (0.04)
 	* fell (0.04)
 	* clump (0.03)
@@ -7201,10 +7160,10 @@
 
 322. Don didn't tell Carmen secrets because she liked to __________.
 
-	* gossip (0.50)
+	* gossip (0.49)
 	* blab (0.13)
-	* tell (0.10)
-	* talk (0.10)
+	* tell (0.11)
+	* talk (0.11)
 	* lie (0.06)
 	* share (0.02)
 	* tattle (0.02)
@@ -7217,7 +7176,7 @@
 
 323. No one could leave until the show was finally __________.
 
-	* over (0.89)
+	* over (0.88)
 	* finished (0.05)
 	* done (0.04)
 	* melted (0.01)
@@ -7237,13 +7196,13 @@
 325. The markings on the barn wall were from a __________.
 
 	* horse (0.12)
+	* vandal (0.11)
 	* fire (0.10)
-	* vandal (0.10)
 	* owl (0.04)
-	* painter (0.04)
 	* storm (0.03)
 	* farmer (0.03)
 	* child (0.03)
+	* painter (0.03)
 	* brush (0.02)
 	* gang (0.02)
 	* bull (0.02)
@@ -7294,8 +7253,8 @@
 
 326. The apples on the tree were too high to __________.
 
-	* reach (0.66)
-	* pick (0.33)
+	* reach (0.65)
+	* pick (0.34)
 	* grab (0.01)
 
 327. When it came to house chores Austin was a __________.
@@ -7303,9 +7262,9 @@
 	* slob (0.10)
 	* pro (0.09)
 	* slacker (0.08)
-	* champ (0.05)
 	* professional (0.05)
 	* procrastinator (0.04)
+	* champ (0.04)
 	* bum (0.04)
 	* doer (0.03)
 	* whiz (0.03)
@@ -7360,7 +7319,7 @@
 328. The detectives found their suspect after pursuing a __________.
 
 	* lead (0.61)
-	* car (0.10)
+	* car (0.11)
 	* tip (0.07)
 	* clue (0.05)
 	* chase (0.03)
@@ -7378,8 +7337,8 @@
 
 329. After its injury, the small bird could no longer __________.
 
-	* fly (0.96)
-	* walk (0.03)
+	* fly (0.97)
+	* walk (0.02)
 	* No Response (0.01)
 
 330. Sam does not like desserts that are too __________.
@@ -7398,11 +7357,11 @@
 
 331. The frightened children ran from the growling __________.
 
-	* dog (0.75)
+	* dog (0.76)
 	* bear (0.13)
-	* tiger (0.03)
 	* monster (0.02)
 	* animal (0.02)
+	* tiger (0.02)
 	* lion (0.01)
 	* cat (0.01)
 	* wolf (0.01)
@@ -7417,10 +7376,10 @@
 	* beach (0.07)
 	* sand (0.05)
 	* rocks (0.02)
-	* ground (0.02)
 	* pier (0.02)
 	* path (0.02)
 	* clearing (0.01)
+	* ground (0.01)
 	* treeline (0.01)
 	* end (0.01)
 	* fence (0.01)
@@ -7450,7 +7409,7 @@
 
 334. All the queen's loyal servants responded to her every __________.
 
-	* whim (0.41)
+	* whim (0.40)
 	* wish (0.16)
 	* need (0.13)
 	* command (0.12)
@@ -7466,7 +7425,7 @@
 
 335. The chef was known for his fragrant and flavorful __________.
 
-	* dishes (0.39)
+	* dishes (0.38)
 	* food (0.10)
 	* meals (0.07)
 	* desserts (0.07)
@@ -8507,9 +8466,9 @@
 
 386. The couple realized they needed new crystal __________.
 
-	* glasses (0.35)
+	* glasses (0.36)
 	* vase (0.13)
-	* goblets (0.10)
+	* goblets (0.11)
 	* ball (0.08)
 	* stemware (0.06)
 	* dishes (0.04)
@@ -8521,7 +8480,6 @@
 	* bulb (0.01)
 	* decoration (0.01)
 	* pitcher (0.01)
-	* No Response (0.01)
 	* bowl (0.01)
 	* plates (0.01)
 	* glass (0.01)
@@ -8543,13 +8501,12 @@
 	* smack (0.02)
 	* lunge (0.01)
 	* pop (0.01)
-	* No Response (0.01)
 	* hook (0.01)
 	* strike (0.01)
 
 388. Severe joint pain is often a symptom of __________.
 
-	* arthritis (0.82)
+	* arthritis (0.83)
 	* myalgia (0.02)
 	* lupus (0.02)
 	* disease (0.02)
@@ -8557,7 +8514,6 @@
 	* weight (0.01)
 	* aging (0.01)
 	* stress (0.01)
-	* No Response (0.01)
 	* week muscle (0.01)
 	* rheumatism (0.01)
 	* old age (0.01)
@@ -8585,7 +8541,6 @@
 	* beat (0.01)
 	* sacked (0.01)
 	* jumped (0.01)
-	* No Response (0.01)
 	* cramps (0.01)
 	* bumped (0.01)
 	* tossed (0.01)
@@ -8602,10 +8557,10 @@
 	* baby (0.16)
 	* kitten (0.12)
 	* stillborn (0.03)
-	* No Response (0.02)
 	* child (0.02)
 	* cat (0.02)
 	* pup (0.02)
+	* No Response (0.01)
 	* monster (0.01)
 	* dog (0.01)
 	* fish (0.01)
@@ -8627,18 +8582,18 @@
 
 391. All the gym trainers were in great shape and __________.
 
-	* fit (0.35)
+	* fit (0.36)
 	* healthy (0.20)
 	* form (0.07)
 	* toned (0.05)
 	* fitness (0.03)
 	* strong (0.03)
-	* No Response (0.02)
 	* spirit (0.02)
 	* handsome (0.02)
 	* buff (0.02)
 	* friendly (0.02)
 	* skilled (0.01)
+	* No Response (0.01)
 	* flexed (0.01)
 	* tanned (0.01)
 	* young (0.01)
@@ -8660,7 +8615,7 @@
 
 392. After the campfire, the wood had a dark __________.
 
-	* color (0.32)
+	* color (0.33)
 	* look (0.09)
 	* hue (0.09)
 	* glow (0.07)
@@ -8668,12 +8623,12 @@
 	* tint (0.05)
 	* burn (0.04)
 	* feel (0.03)
-	* No Response (0.02)
 	* stain (0.02)
 	* texture (0.02)
 	* haze (0.02)
 	* bark (0.02)
 	* tinge (0.02)
+	* No Response (0.01)
 	* shadow (0.01)
 	* singe (0.01)
 	* vibe (0.01)
@@ -8694,21 +8649,21 @@
 
 393. The cookies were so good that Carol made another __________.
 
-	* batch (0.98)
-	* No Response (0.02)
+	* batch (0.99)
+	* No Response (0.01)
 
 394. During her science class, Heather learned about the Earth's __________.
 
 	* rotation (0.30)
 	* core (0.24)
 	* atmosphere (0.17)
-	* crust (0.11)
+	* crust (0.12)
 	* orbit (0.03)
 	* gravity (0.03)
-	* No Response (0.02)
 	* circumference (0.02)
 	* surface (0.02)
 	* climate (0.02)
+	* No Response (0.01)
 	* weather (0.01)
 	* history (0.01)
 	* resources (0.01)
@@ -8717,10 +8672,10 @@
 
 395. The committed scientist spent hours working in the __________.
 
-	* lab (0.87)
+	* lab (0.88)
 	* laboratory (0.06)
 	* experiment (0.03)
-	* No Response (0.02)
+	* No Response (0.01)
 	* desert (0.01)
 	* field (0.01)
 	* formula (0.01)
@@ -8728,7 +8683,7 @@
 396. Gabe went to the automobile shop to replace a __________.
 
 	* tire (0.42)
-	* muffler (0.11)
+	* muffler (0.12)
 	* motor (0.07)
 	* part (0.05)
 	* headlight (0.04)
@@ -8737,9 +8692,9 @@
 	* filter (0.03)
 	* valve (0.03)
 	* gasket (0.03)
-	* No Response (0.02)
 	* brake (0.02)
 	* alternator (0.02)
+	* No Response (0.01)
 	* rotor (0.01)
 	* starter (0.01)
 	* carburater (0.01)
@@ -8757,8 +8712,8 @@
 	* hat (0.21)
 	* cap (0.13)
 	* shirt (0.12)
-	* No Response (0.02)
 	* t-shirt (0.02)
+	* No Response (0.01)
 	* red (0.01)
 	* sign (0.01)
 	* jacket (0.01)
@@ -8774,8 +8729,8 @@
 	* hate (0.04)
 	* doubt (0.04)
 	* fear (0.03)
-	* No Response (0.02)
 	* dread (0.02)
+	* No Response (0.01)
 	* hope (0.01)
 	* indignity (0.01)
 	* anxiety (0.01)
@@ -8794,7 +8749,7 @@
 	* stare (0.44)
 	* look (0.40)
 	* gawk (0.07)
-	* No Response (0.02)
+	* No Response (0.01)
 	* watch (0.01)
 	* gape (0.01)
 	* read (0.01)
@@ -8807,11 +8762,10 @@
 400. The cautious hiking enthusiast always carried some __________.
 
 	* water (0.39)
-	* mace (0.11)
+	* mace (0.12)
 	* food (0.10)
 	* supplies (0.04)
 	* flares (0.04)
-	* No Response (0.02)
 	* bandages (0.02)
 	* snacks (0.02)
 	* matches (0.02)
@@ -8819,6 +8773,7 @@
 	* weapons (0.02)
 	* bear spray (0.02)
 	* protection (0.02)
+	* No Response (0.01)
 	* sunscreen (0.01)
 	* medicine (0.01)
 	* boots (0.01)
@@ -8841,12 +8796,12 @@
 401. James asked for a refund for what he had __________.
 
 	* bought (0.39)
-	* purchased (0.32)
+	* purchased (0.33)
 	* returned (0.07)
 	* spent (0.05)
 	* lost (0.04)
 	* paid (0.04)
-	* No Response (0.02)
+	* No Response (0.01)
 	* ordered (0.01)
 	* experienced (0.01)
 	* seen (0.01)
@@ -8868,7 +8823,6 @@
 	* fraud (0.03)
 	* challenge (0.03)
 	* rout (0.03)
-	* No Response (0.02)
 	* blowout (0.02)
 	* nightmare (0.02)
 	* girl (0.02)
@@ -8878,6 +8832,7 @@
 	* waste (0.02)
 	* flop (0.02)
 	* bore (0.02)
+	* No Response (0.01)
 	* man (0.01)
 	* hoax (0.01)
 	* loser (0.01)
@@ -8916,11 +8871,11 @@
 	* foundation (0.04)
 	* blush (0.03)
 	* lipstick (0.03)
-	* No Response (0.02)
 	* hair (0.02)
 	* coat (0.02)
 	* scarf (0.02)
 	* makeup (0.02)
+	* No Response (0.01)
 	* source (0.01)
 	* hat (0.01)
 	* bulb (0.01)
@@ -8943,14 +8898,14 @@
 
 	* knife (0.28)
 	* gun (0.26)
-	* snake (0.11)
+	* snake (0.12)
 	* mouse (0.05)
-	* No Response (0.02)
 	* wound (0.02)
 	* bat (0.02)
 	* tick (0.02)
 	* pimple (0.02)
 	* spider (0.02)
+	* No Response (0.01)
 	* hook (0.01)
 	* goiter (0.01)
 	* miscarriage (0.01)
@@ -8974,11 +8929,11 @@
 
 405. The dog ran inside just before it started to __________.
 
-	* rain (0.81)
+	* rain (0.82)
 	* bark (0.06)
 	* pee (0.03)
-	* No Response (0.02)
 	* thunder (0.02)
+	* No Response (0.01)
 	* cry (0.01)
 	* poop (0.01)
 	* whine (0.01)
@@ -8989,7 +8944,7 @@
 
 406. The crowd became rowdy after drinking too much sweet __________.
 
-	* wine (0.31)
+	* wine (0.32)
 	* tea (0.30)
 	* ale (0.06)
 	* beer (0.05)
@@ -8998,10 +8953,10 @@
 	* alcohol (0.03)
 	* soda (0.03)
 	* liquor (0.03)
-	* No Response (0.02)
 	* booze (0.02)
 	* vermouth (0.02)
 	* bourbon (0.01)
+	* No Response (0.01)
 	* juice (0.01)
 	* punch (0.01)
 	* beverages (0.01)
@@ -9018,7 +8973,6 @@
 	* bear (0.03)
 	* bob (0.03)
 	* truck (0.03)
-	* No Response (0.02)
 	* lego (0.02)
 	* gadget (0.02)
 	* robot (0.02)
@@ -9026,6 +8980,7 @@
 	* baba (0.02)
 	* game (0.02)
 	* soldier (0.01)
+	* No Response (0.01)
 	* roller (0.01)
 	* ship (0.01)
 	* train (0.01)
@@ -9053,9 +9008,9 @@
 	* food (0.08)
 	* cap (0.05)
 	* cover (0.04)
-	* No Response (0.02)
 	* jelly (0.02)
 	* feed (0.02)
+	* No Response (0.01)
 	* filter (0.01)
 	* container (0.01)
 	* bread (0.01)
@@ -9077,26 +9032,26 @@
 409. To enter the castle she rode across a __________.
 
 	* bridge (0.40)
-	* moat (0.35)
+	* moat (0.36)
 	* drawbridge (0.16)
 	* horse (0.03)
-	* No Response (0.02)
 	* field (0.02)
+	* No Response (0.01)
 	* hall (0.01)
 	* pond (0.01)
 
 410. The marathon runner worked very hard to improve his __________.
 
-	* time (0.51)
+	* time (0.52)
 	* speed (0.12)
 	* stamina (0.08)
 	* endurance (0.06)
 	* form (0.05)
 	* pace (0.03)
 	* stride (0.03)
-	* No Response (0.02)
 	* performance (0.02)
 	* conditioning (0.02)
+	* No Response (0.01)
 	* health (0.01)
 	* routine (0.01)
 	* tone (0.01)
@@ -9114,7 +9069,7 @@
 	* stretch (0.04)
 	* hydrate (0.04)
 	* sleep (0.03)
-	* No Response (0.03)
+	* No Response (0.02)
 	* unwind (0.01)
 	* recover (0.01)
 	* drink (0.01)
@@ -9125,9 +9080,9 @@
 
 412. The customer service at this store is hit or __________.
 
-	* miss (0.96)
-	* No Response (0.02)
+	* miss (0.97)
 	* run (0.02)
+	* No Response (0.01)
 
 413. Ben asked his neighbors if he could borrow a __________.
 
@@ -9144,9 +9099,9 @@
 	* cup (0.03)
 	* screwdriver (0.03)
 	* axe (0.03)
-	* No Response (0.02)
 	* car (0.02)
 	* broom (0.02)
+	* No Response (0.01)
 	* dollar (0.01)
 	* bowl of sugar (0.01)
 	* drill (0.01)
@@ -9162,35 +9117,35 @@
 
 414. Robert could fix the bike if he had the right __________.
 
-	* tools (0.90)
-	* No Response (0.02)
+	* tools (0.91)
 	* parts (0.02)
 	* equipment (0.02)
 	* screwdriver (0.01)
+	* No Response (0.01)
 	* patch (0.01)
 	* wrench (0.01)
 	* break (0.01)
 
 415. At halftime, the team received a speech from the __________.
 
-	* coach (0.84)
+	* coach (0.85)
 	* president (0.07)
 	* mayor (0.03)
 	* owner (0.02)
-	* No Response (0.02)
+	* No Response (0.01)
 	* principal (0.01)
 	* manager (0.01)
 	* captain (0.01)
 
 416. Satisfied with his dinner, Harold let out a huge __________.
 
-	* burp (0.35)
+	* burp (0.36)
 	* sigh (0.27)
 	* belch (0.24)
 	* yawn (0.05)
-	* No Response (0.02)
 	* tip (0.02)
 	* fart (0.02)
+	* No Response (0.01)
 	* moan (0.01)
 	* cheer (0.01)
 	* roar (0.01)
@@ -9200,8 +9155,8 @@
 
 	* fight (0.89)
 	* argument (0.05)
-	* No Response (0.02)
 	* disagreement (0.02)
+	* No Response (0.01)
 	* brawl (0.01)
 	* spats (0.01)
 	* dispute (0.01)
@@ -9214,9 +9169,9 @@
 	* show (0.04)
 	* time (0.03)
 	* ad (0.03)
-	* No Response (0.02)
 	* song (0.02)
 	* commercial (0.02)
+	* No Response (0.01)
 	* line (0.01)
 	* phrase (0.01)
 	* hour (0.01)
@@ -9228,14 +9183,14 @@
 
 419. The tourist said the coastal town smelled like __________.
 
-	* fish (0.59)
+	* fish (0.60)
 	* salt (0.16)
 	* sea (0.03)
 	* saltwater (0.03)
-	* No Response (0.02)
 	* ocean (0.02)
 	* sewer (0.02)
 	* cows (0.01)
+	* No Response (0.01)
 	* dung (0.01)
 	* seaweed (0.01)
 	* salty (0.01)
@@ -9252,15 +9207,15 @@
 
 420. The children said the guard dog made them feel __________.
 
-	* safe (0.53)
+	* safe (0.54)
 	* scared (0.24)
 	* secure (0.05)
 	* nervous (0.03)
 	* uneasy (0.03)
 	* afraid (0.03)
-	* No Response (0.02)
 	* frightened (0.02)
 	* threatened (0.02)
+	* No Response (0.01)
 	* protected (0.01)
 	* worried (0.01)
 	* awkward (0.01)
@@ -9270,18 +9225,18 @@
 
 	* crook (0.24)
 	* thief (0.19)
-	* con (0.11)
+	* con (0.12)
 	* scammer (0.09)
 	* swindler (0.05)
 	* conman (0.04)
 	* cheat (0.04)
 	* criminal (0.04)
 	* fraud (0.03)
-	* No Response (0.02)
 	* con artist (0.02)
 	* cad (0.02)
 	* hustler (0.02)
 	* pest (0.01)
+	* No Response (0.01)
 	* grifter (0.01)
 	* pickpocket (0.01)
 	* dick (0.01)
@@ -9295,15 +9250,15 @@
 
 422. An eloquent speaker, Ryder was often asked to __________.
 
-	* speak (0.50)
+	* speak (0.51)
+	* talk (0.11)
 	* orate (0.10)
-	* talk (0.10)
 	* lecture (0.05)
 	* toast (0.04)
 	* perform (0.03)
-	* No Response (0.02)
 	* advise (0.02)
 	* lead (0.02)
+	* No Response (0.01)
 	* attend (0.01)
 	* preach (0.01)
 	* motivate (0.01)
@@ -9328,13 +9283,13 @@
 	* shutup (0.03)
 	* relax (0.03)
 	* pacify (0.03)
-	* No Response (0.02)
 	* suck (0.02)
 	* soothe (0.02)
 	* appease (0.02)
 	* leave (0.02)
 	* stay (0.02)
 	* quiet him (0.02)
+	* No Response (0.01)
 	* soothe him (0.01)
 	* quell (0.01)
 	* enjoy (0.01)
@@ -9361,13 +9316,13 @@
 	* heaven (0.23)
 	* angels (0.15)
 	* light (0.14)
-	* god (0.11)
+	* god (0.12)
 	* hell (0.05)
 	* death (0.04)
 	* reincarnation (0.03)
 	* ghosts (0.03)
-	* No Response (0.02)
 	* purgatory (0.02)
+	* No Response (0.01)
 	* ascending (0.01)
 	* stories (0.01)
 	* visions (0.01)
@@ -9390,9 +9345,9 @@
 
 425. The baseball player always used his lucky catcher's __________.
 
-	* mitt (0.90)
+	* mitt (0.91)
 	* glove (0.06)
-	* No Response (0.02)
+	* No Response (0.01)
 	* mask (0.01)
 	* number (0.01)
 
@@ -9402,9 +9357,9 @@
 	* makeup (0.22)
 	* lipstick (0.05)
 	* blush (0.04)
-	* No Response (0.02)
 	* eyeliner (0.02)
 	* dip (0.02)
+	* No Response (0.01)
 	* marijuana (0.01)
 	* lipgloss (0.01)
 	* powder (0.01)
@@ -9424,19 +9379,19 @@
 
 427. Her friend said the story was nothing but __________.
 
-	* lies (0.50)
+	* lies (0.51)
 	* bull (0.07)
 	* false (0.04)
 	* fiction (0.04)
 	* trash (0.03)
 	* fake (0.02)
-	* No Response (0.02)
 	* bullshit (0.02)
 	* fantasy (0.02)
 	* rumors (0.02)
 	* bunk (0.02)
 	* rubbish (0.02)
 	* hogwash (0.02)
+	* No Response (0.01)
 	* crazy (0.01)
 	* fluff (0.01)
 	* miraculous (0.01)
@@ -9458,9 +9413,9 @@
 
 428. The broken, swinging crane had the potential to __________.
 
-	* fall (0.34)
+	* fall (0.35)
+	* harm (0.11)
 	* kill (0.10)
-	* harm (0.10)
 	* break (0.10)
 	* crash (0.05)
 	* collapse (0.05)
@@ -9468,9 +9423,9 @@
 	* destroy (0.04)
 	* hurt (0.03)
 	* topple (0.02)
-	* No Response (0.02)
 	* injure (0.02)
 	* tip (0.02)
+	* No Response (0.01)
 	* brake (0.01)
 	* crush (0.01)
 	* maim (0.01)
@@ -9491,9 +9446,9 @@
 	* doctor (0.03)
 	* man (0.03)
 	* machine (0.03)
-	* No Response (0.02)
 	* coder (0.02)
 	* lab (0.02)
+	* No Response (0.01)
 	* book (0.01)
 	* store (0.01)
 	* author (0.01)
@@ -9524,17 +9479,17 @@
 430. Adam went to the mall to buy a new __________.
 
 	* shirt (0.24)
+	* hat (0.12)
 	* coat (0.12)
-	* hat (0.11)
-	* suit (0.11)
+	* suit (0.12)
 	* jacket (0.08)
 	* sweater (0.04)
 	* shoes (0.03)
 	* bike (0.03)
-	* No Response (0.02)
 	* outfit (0.02)
 	* laptop (0.02)
 	* watch (0.02)
+	* No Response (0.01)
 	* pillow (0.01)
 	* dress (0.01)
 	* computer (0.01)
@@ -9557,8 +9512,8 @@
 
 	* due (0.90)
 	* done (0.05)
-	* No Response (0.02)
 	* finished (0.02)
+	* No Response (0.01)
 	* ready (0.01)
 	* completed (0.01)
 
@@ -9575,8 +9530,8 @@
 	* beads (0.03)
 	* time (0.03)
 	* yarn (0.03)
-	* No Response (0.02)
 	* jewels (0.02)
+	* No Response (0.01)
 	* buttons (0.01)
 	* ribbon (0.01)
 	* satin (0.01)
@@ -9589,7 +9544,7 @@
 
 433. Instead of buying a small container, Thomas bought a __________.
 
-	* large (0.11)
+	* large (0.12)
 	* box (0.09)
 	* tub (0.08)
 	* jug (0.07)
@@ -9605,10 +9560,10 @@
 	* big one (0.03)
 	* case (0.03)
 	* lot (0.02)
-	* No Response (0.02)
 	* can (0.02)
 	* thermos (0.02)
 	* tupperware (0.02)
+	* No Response (0.01)
 	* ton (0.01)
 	* bin (0.01)
 	* pot (0.01)
@@ -9626,13 +9581,13 @@
 
 434. The color most associated with anger is __________.
 
-	* red (0.96)
-	* No Response (0.02)
+	* red (0.97)
 	* black (0.02)
+	* No Response (0.01)
 
 435. In her town having hair so short was __________.
 
-	* unusual (0.11)
+	* unusual (0.12)
 	* scandalous (0.10)
 	* strange (0.06)
 	* weird (0.05)
@@ -9644,7 +9599,6 @@
 	* ugly (0.03)
 	* bad (0.03)
 	* rude (0.03)
-	* No Response (0.02)
 	* unpopular (0.02)
 	* boyish (0.02)
 	* wrong (0.02)
@@ -9653,6 +9607,7 @@
 	* popular (0.02)
 	* stupid (0.02)
 	* fashionable (0.02)
+	* No Response (0.01)
 	* manly (0.01)
 	* funny (0.01)
 	* noticeable  (0.01)
@@ -9692,10 +9647,10 @@
 437. At recess the younger children usually play __________.
 
 	* tag (0.42)
+	* hopscotch (0.11)
 	* together (0.10)
-	* hopscotch (0.10)
 	* ball (0.09)
-	* catch (0.06)
+	* catch (0.05)
 	* kickball (0.05)
 	* outside (0.03)
 	* jacks (0.02)
@@ -9729,8 +9684,8 @@
 
 439. The ship was doomed because they had damaged the __________.
 
-	* hull (0.65)
-	* sail (0.10)
+	* hull (0.64)
+	* sail (0.11)
 	* rudder (0.05)
 	* engine (0.04)
 	* bow (0.03)
@@ -9751,7 +9706,7 @@
 
 	* discard (0.18)
 	* trash (0.18)
-	* toss (0.15)
+	* toss (0.14)
 	* keep (0.10)
 	* sell (0.10)
 	* donate (0.05)
@@ -9775,13 +9730,12 @@
 
 441. George felt superior to Kathy, even though she's his __________.
 
-	* boss (0.50)
+	* boss (0.51)
 	* wife (0.10)
 	* sister (0.10)
 	* elder (0.06)
 	* equal (0.05)
 	* superior (0.02)
-	* junior (0.02)
 	* mother (0.02)
 	* senior (0.02)
 	* supervisor (0.01)
@@ -9796,11 +9750,12 @@
 	* mentor (0.01)
 	* age (0.01)
 	* girlfriend (0.01)
+	* junior (0.01)
 	* friend (0.01)
 
 442. The smoothie was green because the chef added __________.
 
-	* kale (0.47)
+	* kale (0.46)
 	* spinach (0.29)
 	* avocado (0.05)
 	* celery (0.02)
@@ -9855,7 +9810,6 @@
 	* venison (0.03)
 	* beef (0.03)
 	* meat (0.02)
-	* eggs (0.02)
 	* stew (0.02)
 	* salmon (0.02)
 	* corn (0.01)
@@ -9878,12 +9832,13 @@
 	* veggies (0.01)
 	* lobster (0.01)
 	* rice (0.01)
+	* eggs (0.01)
 
 446. Mary was upset she spilled coffee on her favorite __________.
 
-	* blouse (0.34)
+	* blouse (0.35)
 	* dress (0.26)
-	* shirt (0.15)
+	* shirt (0.14)
 	* skirt (0.06)
 	* sweater (0.04)
 	* rug (0.04)
@@ -9902,7 +9857,7 @@
 
 	* sake (0.39)
 	* benefit (0.13)
-	* wedding (0.11)
+	* wedding (0.12)
 	* graduation (0.08)
 	* teacher (0.03)
 	* behavior (0.03)
@@ -9915,7 +9870,6 @@
 	* meeting (0.01)
 	* success (0.01)
 	* well-being (0.01)
-	* awards (0.01)
 	* wife (0.01)
 	* job (0.01)
 	* account (0.01)
@@ -9928,11 +9882,11 @@
 
 448. Her baby was not ready to leave the __________.
 
-	* crib (0.31)
+	* crib (0.32)
 	* hospital (0.19)
 	* womb (0.18)
 	* nest (0.13)
-	* house (0.07)
+	* house (0.06)
 	* room (0.02)
 	* playground (0.02)
 	* nursery (0.02)
@@ -9999,7 +9953,7 @@
 
 451. The man went to the butcher to buy some __________.
 
-	* meat (0.65)
+	* meat (0.64)
 	* beef (0.15)
 	* steak (0.10)
 	* pork (0.03)
@@ -10013,7 +9967,7 @@
 
 452. There was no calming Sue once she began to __________.
 
-	* cry (0.53)
+	* cry (0.54)
 	* panic (0.08)
 	* yell (0.08)
 	* worry (0.06)
@@ -10027,7 +9981,6 @@
 	* shout (0.01)
 	* rage (0.01)
 	* sob (0.01)
-	* shake (0.01)
 	* fret (0.01)
 	* tremble (0.01)
 	* complain (0.01)
@@ -10053,7 +10006,7 @@
 
 454. While in Europe, the tourists wanted to meet the __________.
 
-	* pope (0.36)
+	* pope (0.37)
 	* queen (0.35)
 	* locals (0.08)
 	* king (0.07)
@@ -10074,8 +10027,8 @@
 455. After the rain, the garden looked very __________.
 
 	* wet (0.27)
-	* green (0.24)
-	* lush (0.11)
+	* green (0.23)
+	* lush (0.12)
 	* fresh (0.04)
 	* pretty (0.04)
 	* damp (0.04)
@@ -10101,11 +10054,11 @@
 
 456. The rowdy gang broke into the closed store to __________.
 
-	* steal (0.50)
+	* steal (0.51)
 	* loot (0.26)
 	* vandalize (0.08)
-	* rob (0.04)
 	* pillage (0.04)
+	* rob (0.03)
 	* them (0.01)
 	* damage (0.01)
 	* steal things (0.01)
@@ -10134,7 +10087,6 @@
 	* wit (0.05)
 	* car (0.05)
 	* speech (0.04)
-	* decisions (0.03)
 	* responses (0.03)
 	* work (0.03)
 	* style (0.03)
@@ -10142,6 +10094,7 @@
 	* judgement (0.03)
 	* swing (0.03)
 	* movements (0.02)
+	* decisions (0.02)
 	* handwriting (0.02)
 	* manner (0.02)
 	* actions (0.02)
@@ -10209,7 +10162,7 @@
 460. She's able to visit him because she is his __________.
 
 	* mother (0.23)
-	* wife (0.22)
+	* wife (0.21)
 	* sister (0.21)
 	* aunt (0.07)
 	* mom (0.05)
@@ -10250,7 +10203,6 @@
 	* bike (0.01)
 	* porsche (0.01)
 	* guitar (0.01)
-	* kangeroo (0.01)
 	* condo (0.01)
 	* tiger (0.01)
 	* jeep (0.01)
@@ -10273,7 +10225,7 @@
 
 462. The soldier was outstanding until he went __________.
 
-	* awol (0.49)
+	* awol (0.48)
 	* home (0.10)
 	* crazy (0.08)
 	* rogue (0.07)
@@ -10310,10 +10262,10 @@
 
 464. When he lived in Panama he took up drinking __________.
 
-	* rum (0.32)
+	* rum (0.33)
 	* beer (0.12)
+	* wine (0.11)
 	* tequila (0.10)
-	* wine (0.10)
 	* tea (0.04)
 	* coffee (0.03)
 	* gin (0.03)
@@ -10324,7 +10276,6 @@
 	* vodka (0.02)
 	* cocktails (0.01)
 	* cocoa (0.01)
-	* mate (0.01)
 	* more (0.01)
 	* booze (0.01)
 	* coconut water (0.01)
@@ -10341,13 +10292,13 @@
 
 465. When Jay got home his mother said they needed to __________.
 
-	* talk (0.77)
+	* talk (0.78)
 	* clean (0.08)
 	* leave (0.06)
 	* eat (0.03)
-	* move (0.02)
 	* shower (0.02)
 	* work (0.01)
+	* move (0.01)
 	* sleep (0.01)
 	* pack (0.01)
 
@@ -10383,8 +10334,8 @@
 
 467. Marc claimed that the self-assembly desk instructions were too __________.
 
-	* complicated (0.37)
-	* hard (0.24)
+	* complicated (0.38)
+	* hard (0.23)
 	* difficult (0.17)
 	* vague (0.07)
 	* complex (0.05)
@@ -10410,7 +10361,6 @@
 	* baseball (0.01)
 	* warning (0.01)
 	* book (0.01)
-	* speech (0.01)
 	* toy (0.01)
 	* twenty (0.01)
 	* pep talk (0.01)
@@ -10430,10 +10380,10 @@
 
 470. Reaching for a drink, he got food on his __________.
 
-	* shirt (0.33)
-	* sleeve (0.32)
-	* tie (0.11)
-	* pants (0.09)
+	* shirt (0.34)
+	* sleeve (0.33)
+	* tie (0.12)
+	* pants (0.08)
 	* cuff (0.03)
 	* hand (0.02)
 	* collar (0.01)
@@ -10449,11 +10399,11 @@
 
 471. While hunting in the mountains, Sean spotted a huge __________.
 
-	* bear (0.34)
+	* bear (0.35)
 	* deer (0.09)
 	* lion (0.08)
-	* elk (0.08)
 	* cougar (0.08)
+	* elk (0.07)
 	* leopard (0.06)
 	* cat (0.04)
 	* bobcat (0.04)
@@ -10480,11 +10430,11 @@
 	* yard (0.06)
 	* pole (0.05)
 	* light (0.04)
-	* door (0.04)
 	* corner (0.04)
 	* post (0.03)
 	* lamppost (0.03)
 	* tree (0.03)
+	* door (0.03)
 	* home (0.03)
 	* mailbox (0.02)
 	* block (0.02)
@@ -10506,9 +10456,9 @@
 
 473. In card decks, the lowest face card is the __________.
 
-	* jack (0.58)
-	* ace (0.17)
-	* two (0.11)
+	* jack (0.59)
+	* ace (0.16)
+	* two (0.12)
 	* winner (0.02)
 	* joker (0.02)
 	* deuce (0.01)
@@ -10538,7 +10488,7 @@
 
 475. After collecting the pollen, the bee returned to his __________.
 
-	* hive (0.89)
+	* hive (0.88)
 	* nest (0.08)
 	* home (0.03)
 	* comb (0.01)
@@ -10548,7 +10498,7 @@
 	* gusto (0.27)
 	* enthusiasm (0.18)
 	* joy (0.08)
-	* passion (0.07)
+	* passion (0.06)
 	* emotion (0.06)
 	* pride (0.06)
 	* vigor (0.04)
@@ -10620,7 +10570,7 @@
 
 480. After learning the truth, Daniela was filled with __________.
 
-	* rage (0.18)
+	* rage (0.17)
 	* sadness (0.09)
 	* anger (0.09)
 	* dread (0.09)
@@ -10649,14 +10599,14 @@
 
 481. Tim drove past numerous warning signs without __________.
 
-	* stopping (0.37)
+	* stopping (0.38)
 	* noticing (0.14)
 	* care (0.14)
 	* heed (0.08)
 	* looking (0.07)
 	* slowing (0.04)
-	* caution (0.03)
 	* notice (0.03)
+	* caution (0.02)
 	* reading (0.02)
 	* pausing (0.01)
 	* seeing (0.01)
@@ -10672,8 +10622,8 @@
 
 	* gong (0.27)
 	* bell (0.23)
-	* match (0.13)
 	* chord (0.13)
+	* match (0.12)
 	* drum (0.04)
 	* glass (0.03)
 	* cymbal (0.02)
@@ -10712,7 +10662,7 @@
 484. After a long day, Ken just wanted to go __________.
 
 	* home (0.74)
-	* sleep (0.10)
+	* sleep (0.11)
 	* drink (0.03)
 	* bed (0.02)
 	* rest (0.02)
@@ -10727,7 +10677,7 @@
 
 485. After winning the lottery, Cole was excited to be __________.
 
-	* rich (0.90)
+	* rich (0.89)
 	* free (0.02)
 	* wealthy (0.02)
 	* here (0.01)
@@ -13848,8 +13798,8 @@
 
 636. He's not often serious, he loves to __________.
 
-	* joke (0.78)
-	* laugh (0.09)
+	* joke (0.79)
+	* laugh (0.08)
 	* play (0.06)
 	* jest (0.02)
 	* boast (0.01)
@@ -13861,7 +13811,7 @@
 
 637. The toddler hated when his mother made him __________.
 
-	* nap (0.26)
+	* nap (0.25)
 	* bathe (0.17)
 	* eat (0.17)
 	* sit (0.07)
@@ -13889,9 +13839,9 @@
 
 638. The teacher told the kids who lost not to __________.
 
-	* cry (0.41)
+	* cry (0.40)
 	* worry (0.24)
-	* complain (0.10)
+	* complain (0.11)
 	* pout (0.10)
 	* whine (0.06)
 	* despair (0.04)
@@ -13906,7 +13856,7 @@
 
 	* lodge (0.46)
 	* hotel (0.23)
-	* resort (0.21)
+	* resort (0.20)
 	* chalet (0.04)
 	* cabin (0.02)
 	* motel (0.02)
@@ -13916,8 +13866,8 @@
 
 640. After the pasta was done, the chef added the __________.
 
-	* sauce (0.66)
-	* cheese (0.10)
+	* sauce (0.65)
+	* cheese (0.11)
 	* salt (0.08)
 	* spices (0.03)
 	* butter (0.02)
@@ -13936,7 +13886,7 @@
 641. James was unable to stand up after he __________.
 
 	* fell (0.70)
-	* drank (0.07)
+	* drank (0.06)
 	* exercised (0.05)
 	* fainted (0.04)
 	* collapsed (0.02)
@@ -13978,8 +13928,8 @@
 643. The food was unappealing as it looked like __________.
 
 	* garbage (0.12)
-	* mush (0.11)
-	* crap (0.10)
+	* mush (0.12)
+	* crap (0.11)
 	* vomit (0.10)
 	* slop (0.07)
 	* poop (0.06)
@@ -14013,9 +13963,9 @@
 644. In preschool kids learn it isn't nice to __________.
 
 	* hit (0.24)
-	* tease (0.10)
+	* tease (0.11)
 	* steal (0.09)
-	* bully (0.09)
+	* bully (0.08)
 	* lie (0.07)
 	* tattle (0.07)
 	* fight (0.05)
@@ -14049,7 +13999,7 @@
 646. The milk was bad so Garrett bought a new __________.
 
 	* carton (0.32)
-	* gallon (0.31)
+	* gallon (0.32)
 	* jug (0.16)
 	* one (0.08)
 	* bottle (0.05)
@@ -14068,9 +14018,9 @@
 	* point (0.07)
 	* last (0.06)
 	* first (0.04)
-	* nib (0.04)
 	* cap (0.03)
 	* previous (0.03)
+	* nib (0.03)
 	* pen (0.02)
 	* clicker (0.02)
 	* handle (0.02)
@@ -14083,8 +14033,8 @@
 
 648. Sandra was cast in the school production as the __________.
 
-	* lead (0.50)
-	* witch (0.11)
+	* lead (0.49)
+	* witch (0.12)
 	* princess (0.08)
 	* queen (0.05)
 	* star (0.04)
@@ -14107,8 +14057,8 @@
 649. The group of friends would often __________.
 
 	* laugh (0.12)
-	* play (0.11)
-	* meet (0.10)
+	* play (0.12)
+	* meet (0.11)
 	* fight (0.09)
 	* party (0.09)
 	* chat (0.08)
@@ -14131,7 +14081,6 @@
 	* text (0.01)
 	* loud (0.01)
 	* hug (0.01)
-	* congregate (0.01)
 	* come (0.01)
 	* hang out (0.01)
 	* drive (0.01)
@@ -14140,9 +14089,9 @@
 
 650. The good weather made the amusement park even more __________.
 
-	* fun (0.51)
-	* enjoyable (0.16)
-	* crowded (0.10)
+	* fun (0.52)
+	* enjoyable (0.15)
+	* crowded (0.11)
 	* appealing (0.06)
 	* popular (0.04)
 	* enticing (0.02)
@@ -14159,7 +14108,7 @@
 
 651. The naive princess was deceived by an evil __________.
 
-	* witch (0.39)
+	* witch (0.38)
 	* wizard (0.12)
 	* queen (0.09)
 	* prince (0.09)
@@ -14184,7 +14133,7 @@
 652. When at the fair her kids always have great __________.
 
 	* times (0.45)
-	* fun (0.37)
+	* fun (0.38)
 	* manners (0.04)
 	* food (0.04)
 	* luck (0.02)
@@ -14195,7 +14144,6 @@
 	* attitudes (0.01)
 	* rides (0.01)
 	* memories (0.01)
-	* snacks (0.01)
 
 653. Marie experienced catharsis after an emotional __________.
 
@@ -14213,7 +14161,6 @@
 	* No Response (0.02)
 	* battle (0.02)
 	* meltdown (0.02)
-	* trauma (0.02)
 	* rollercoaster (0.02)
 	* release (0.01)
 	* argument (0.01)
@@ -14227,6 +14174,7 @@
 	* week (0.01)
 	* turmoil (0.01)
 	* delimma (0.01)
+	* trauma (0.01)
 	* incident (0.01)
 	* reunion (0.01)
 	* unheaval (0.01)
@@ -14237,7 +14185,7 @@
 
 	* rails (0.38)
 	* sidewalk (0.14)
-	* railings (0.09)
+	* railings (0.08)
 	* curb (0.08)
 	* path (0.07)
 	* street (0.06)
@@ -14254,9 +14202,9 @@
 
 655. As a reward, Tom gave his dog an affectionate __________.
 
-	* hug (0.51)
-	* pat (0.28)
-	* kiss (0.11)
+	* hug (0.52)
+	* pat (0.27)
+	* kiss (0.12)
 	* pet (0.03)
 	* No Response (0.02)
 	* rub (0.02)
@@ -14266,10 +14214,10 @@
 
 656. The puppy stopped running outside when it had to __________.
 
-	* pee (0.60)
+	* pee (0.61)
 	* eat (0.10)
 	* poop (0.06)
-	* urinate (0.06)
+	* urinate (0.05)
 	* rest (0.04)
 	* sleep (0.03)
 	* No Response (0.02)
@@ -14284,7 +14232,7 @@
 657. Keith preferred greeting with a handshake instead of a __________.
 
 	* hug (0.79)
-	* kiss (0.10)
+	* kiss (0.11)
 	* wave (0.03)
 	* No Response (0.02)
 	* nod (0.02)
@@ -14295,9 +14243,9 @@
 658. The other climbers told Todd he had the wrong __________.
 
 	* gear (0.16)
-	* rope (0.15)
+	* rope (0.14)
 	* shoes (0.12)
-	* equipment (0.10)
+	* equipment (0.11)
 	* ideas (0.09)
 	* mountain (0.04)
 	* boots (0.04)
@@ -14352,7 +14300,6 @@
 	* card (0.01)
 	* sketch (0.01)
 	* riot (0.01)
-	* crackup (0.01)
 	* cutup (0.01)
 	* funny (0.01)
 	* work of art (0.01)
@@ -14378,8 +14325,8 @@
 
 661. Visitors at the medieval festival drank honey __________.
 
-	* mead (0.34)
-	* wine (0.20)
+	* mead (0.35)
+	* wine (0.19)
 	* tea (0.15)
 	* beer (0.12)
 	* ale (0.05)
@@ -14397,11 +14344,11 @@
 
 662. At the party, Harry was enchanted by the charming __________.
 
-	* woman (0.30)
-	* hostess (0.15)
-	* ladies (0.11)
+	* woman (0.31)
+	* hostess (0.14)
+	* ladies (0.12)
+	* princess (0.11)
 	* girl (0.10)
-	* princess (0.10)
 	* host (0.04)
 	* No Response (0.02)
 	* songs (0.02)
@@ -14428,10 +14375,10 @@
 	* side (0.10)
 	* ventricle (0.10)
 	* part (0.03)
-	* nodule (0.03)
 	* section (0.02)
 	* No Response (0.02)
 	* sac (0.02)
+	* nodule (0.02)
 	* vent (0.01)
 	* vessel (0.01)
 	* node (0.01)
@@ -14455,10 +14402,10 @@
 
 665. Larry slowed the car as he came to the __________.
 
-	* stop (0.17)
+	* stop (0.16)
 	* intersection (0.14)
 	* sign (0.12)
-	* light (0.10)
+	* light (0.11)
 	* house (0.06)
 	* driveway (0.04)
 	* signal (0.04)
@@ -14502,7 +14449,6 @@
 	* No Response (0.02)
 	* haughty (0.02)
 	* ugly (0.02)
-	* annoying (0.02)
 	* obnoxious (0.02)
 	* snobbish (0.02)
 	* fake (0.01)
@@ -14519,6 +14465,7 @@
 	* smug (0.01)
 	* snob (0.01)
 	* uncouth (0.01)
+	* annoying (0.01)
 	* married (0.01)
 	* uptight (0.01)
 	* stuckup (0.01)
@@ -14542,12 +14489,12 @@
 
 668. Always stoic and serious, Peter was not one to __________.
 
-	* joke (0.58)
+	* joke (0.59)
 	* laugh (0.10)
 	* kid (0.05)
-	* brag (0.04)
 	* cry (0.04)
 	* lie (0.03)
+	* brag (0.03)
 	* complain (0.02)
 	* talk (0.02)
 	* No Response (0.02)
@@ -14573,7 +14520,7 @@
 670. There are some religions that follow the same __________.
 
 	* rules (0.19)
-	* god (0.13)
+	* god (0.12)
 	* beliefs (0.07)
 	* teachings (0.07)
 	* principles (0.06)
@@ -14610,17 +14557,17 @@
 671. Around bogs, decomposed vegetable matter can form __________.
 
 	* peat (0.15)
-	* gas (0.11)
-	* mold (0.10)
+	* gas (0.12)
+	* mold (0.11)
 	* sludge (0.07)
 	* moss (0.06)
 	* fertilizer (0.04)
 	* soil (0.03)
-	* compost (0.03)
 	* algae (0.03)
 	* fungus (0.02)
 	* lumps (0.02)
 	* No Response (0.02)
+	* compost (0.02)
 	* dirt (0.02)
 	* mud (0.02)
 	* quickly (0.02)
@@ -14655,8 +14602,8 @@
 
 672. The little girl loved making art with colored __________.
 
-	* pencils (0.70)
-	* crayons (0.10)
+	* pencils (0.69)
+	* crayons (0.11)
 	* pens (0.04)
 	* markers (0.04)
 	* clay (0.03)
@@ -14680,7 +14627,7 @@
 
 	* music (0.67)
 	* noise (0.09)
-	* help (0.06)
+	* help (0.05)
 	* distractions (0.03)
 	* coffee (0.03)
 	* No Response (0.02)
@@ -14710,7 +14657,7 @@
 676. Meredith laughed loudly when she heard the funny __________.
 
 	* joke (0.68)
-	* story (0.22)
+	* story (0.21)
 	* No Response (0.02)
 	* sound (0.02)
 	* comic (0.01)
@@ -14724,7 +14671,7 @@
 677. For Father's Day, the children got their father a __________.
 
 	* tie (0.44)
-	* card (0.20)
+	* card (0.19)
 	* gift (0.16)
 	* present (0.04)
 	* mug (0.03)
@@ -14757,7 +14704,7 @@
 
 679. The car suddenly appeared and Liz wasn't able to __________.
 
-	* stop (0.34)
+	* stop (0.35)
 	* move (0.25)
 	* swerve (0.07)
 	* drive (0.04)
@@ -14774,7 +14721,6 @@
 	* brake (0.01)
 	* stop in time (0.01)
 	* resist (0.01)
-	* escape (0.01)
 	* turn (0.01)
 	* walk (0.01)
 	* pass (0.01)
@@ -14782,7 +14728,7 @@
 
 680. The tornado left extensive damage in its __________.
 
-	* wake (0.64)
+	* wake (0.63)
 	* path (0.27)
 	* town (0.03)
 	* No Response (0.02)
@@ -14808,7 +14754,6 @@
 	* hazard (0.02)
 	* No Response (0.02)
 	* killer (0.02)
-	* fake (0.02)
 	* mess (0.02)
 	* poisonous one (0.02)
 	* bill (0.01)
@@ -14819,6 +14764,7 @@
 	* fiend (0.01)
 	* drain (0.01)
 	* pain to control (0.01)
+	* fake (0.01)
 	* smelly (0.01)
 	* dud (0.01)
 	* beast (0.01)
@@ -14842,7 +14788,7 @@
 
 683. Tired of overgrown branches, Jackie used her saw to __________.
 
-	* cut (0.33)
+	* cut (0.34)
 	* trim (0.32)
 	* prune (0.13)
 	* saw (0.03)
@@ -14863,8 +14809,8 @@
 
 684. Maggie visited the tea shop to learn how to __________.
 
-	* brew (0.50)
-	* steep (0.10)
+	* brew (0.51)
+	* steep (0.09)
 	* cook (0.09)
 	* bake (0.07)
 	* drink (0.04)
@@ -16926,7 +16872,7 @@
 786. Michael and Greg walked to school filled with __________.
 
 	* dread (0.25)
-	* joy (0.10)
+	* joy (0.11)
 	* excitement (0.08)
 	* glee (0.07)
 	* hope (0.05)
@@ -16945,7 +16891,6 @@
 	* waffles (0.01)
 	* apprehension (0.01)
 	* cake (0.01)
-	* regrets (0.01)
 	* bees (0.01)
 	* love (0.01)
 	* rage (0.01)
@@ -16990,7 +16935,6 @@
 	* chew (0.04)
 	* shred (0.04)
 	* maul (0.01)
-	* eat (0.01)
 	* decimate (0.01)
 	* injure (0.01)
 	* puncture (0.01)
@@ -17008,7 +16952,7 @@
 	* sheep (0.04)
 	* deer (0.04)
 	* lamb (0.03)
-	* dog (0.03)
+	* dog (0.02)
 	* steer (0.02)
 	* squirrel (0.02)
 	* bird (0.02)
@@ -17024,8 +16968,8 @@
 790. She returned and said the stench had been __________.
 
 	* awful (0.14)
+	* unbearable (0.12)
 	* overwhelming (0.12)
-	* unbearable (0.11)
 	* horrible (0.10)
 	* removed (0.08)
 	* terrible (0.05)
@@ -17039,7 +16983,6 @@
 	* disgusting (0.02)
 	* killed (0.01)
 	* powerful (0.01)
-	* opened (0.01)
 	* worsening (0.01)
 	* cleaned (0.01)
 	* acrid (0.01)
@@ -17056,13 +16999,12 @@
 791. During the sailing regatta, Lilly found holes in the __________.
 
 	* sail (0.50)
-	* boat (0.37)
+	* boat (0.38)
 	* mast (0.02)
 	* keel (0.02)
 	* hull (0.02)
 	* deck (0.02)
 	* wood (0.01)
-	* bag (0.01)
 	* bow (0.01)
 	* wall (0.01)
 	* rudder (0.01)
@@ -17070,7 +17012,7 @@
 
 792. The mountaineer spotted a small town in the open __________.
 
-	* valley (0.32)
+	* valley (0.33)
 	* field (0.26)
 	* plain (0.07)
 	* range (0.06)
@@ -17085,7 +17027,6 @@
 	* territory (0.01)
 	* air (0.01)
 	* view (0.01)
-	* sea (0.01)
 	* ocean (0.01)
 	* desert (0.01)
 	* road (0.01)
@@ -17111,7 +17052,6 @@
 	* plays (0.01)
 	* restaurants (0.01)
 	* together (0.01)
-	* date (0.01)
 	* clubbing (0.01)
 	* hike (0.01)
 	* dancing (0.01)
@@ -17122,7 +17062,7 @@
 794. Fran finished the outfit with a scarf she herself __________.
 
 	* made (0.53)
-	* knitted (0.32)
+	* knitted (0.33)
 	* designed (0.04)
 	* sewed (0.03)
 	* crocheted (0.02)
@@ -17153,12 +17093,12 @@
 
 796. No one expected the game to end with a __________.
 
-	* tie (0.57)
-	* bang (0.10)
+	* tie (0.58)
+	* bang (0.11)
 	* loss (0.06)
-	* fight (0.05)
 	* home run (0.04)
 	* draw (0.04)
+	* fight (0.04)
 	* blow-out (0.02)
 	* fumble (0.02)
 	* gunshot (0.01)
@@ -17177,8 +17117,8 @@
 
 	* cat (0.18)
 	* mother (0.13)
-	* dog (0.11)
-	* house (0.09)
+	* dog (0.12)
+	* house (0.08)
 	* children (0.06)
 	* mom (0.05)
 	* home (0.05)
@@ -17210,11 +17150,11 @@
 
 798. The boys ran to the car carrying their __________.
 
-	* bags (0.33)
+	* bags (0.34)
 	* backpacks (0.13)
 	* books (0.12)
 	* toys (0.09)
-	* luggage (0.07)
+	* luggage (0.06)
 	* gear (0.03)
 	* umbrella (0.02)
 	* bats (0.02)
@@ -17238,14 +17178,13 @@
 
 799. Greg was suddenly hit with the lemonade's sharp __________.
 
-	* tang (0.35)
-	* taste (0.33)
-	* flavor (0.10)
+	* tang (0.36)
+	* taste (0.34)
+	* flavor (0.11)
 	* bitterness (0.05)
 	* bite (0.03)
 	* tanginess (0.02)
 	* sourness (0.02)
-	* edge (0.02)
 	* sting (0.01)
 	* pucker (0.01)
 	* sprite (0.01)
@@ -17253,12 +17192,13 @@
 	* juice (0.01)
 	* twang (0.01)
 	* tartness (0.01)
+	* edge (0.01)
 	* zip (0.01)
 
 800. On the back porch, Karen hung a clanging __________.
 
 	* bell (0.35)
-	* chime (0.31)
+	* chime (0.32)
 	* windchime (0.17)
 	* pan (0.03)
 	* wind chime (0.02)
@@ -17302,7 +17242,6 @@
 	* body (0.01)
 	* ants (0.01)
 	* fish (0.01)
-	* crocodile (0.01)
 	* swimmers (0.01)
 	* kayak (0.01)
 	* mess (0.01)
@@ -17356,7 +17295,6 @@
 	* letter (0.01)
 	* government (0.01)
 	* lawyer (0.01)
-	* papers (0.01)
 	* taxes (0.01)
 	* bank (0.01)
 	* mayor (0.01)
@@ -17373,10 +17311,10 @@
 
 803. Mia wrote in her diary all through the __________.
 
-	* night (0.35)
+	* night (0.36)
 	* day (0.21)
-	* year (0.14)
-	* summer (0.10)
+	* year (0.13)
+	* summer (0.11)
 	* week (0.04)
 	* trip (0.03)
 	* vacation (0.02)
@@ -17395,9 +17333,9 @@
 
 	* keys (0.15)
 	* lines (0.14)
-	* wallet (0.10)
-	* pants (0.10)
+	* wallet (0.11)
 	* name (0.10)
+	* pants (0.09)
 	* speech (0.08)
 	* phone (0.07)
 	* lunch (0.06)
@@ -17433,7 +17371,6 @@
 	* cat (0.02)
 	* body (0.02)
 	* ghost (0.02)
-	* cockroach (0.02)
 	* bear (0.01)
 	* snail (0.01)
 	* shadow (0.01)
@@ -17441,19 +17378,19 @@
 	* intruder (0.01)
 	* flooding (0.01)
 	* monster (0.01)
+	* cockroach (0.01)
 	* trunk (0.01)
 	* man (0.01)
 	* dead animal (0.01)
 
 806. If Phil decides to cook dinner, then cook he __________.
 
-	* will (0.60)
+	* will (0.61)
 	* shall (0.14)
 	* does (0.08)
 	* did (0.07)
 	* must (0.06)
 	* should (0.01)
-	* goes (0.01)
 	* filled (0.01)
 	* pizza (0.01)
 	* dessert (0.01)
@@ -17468,7 +17405,6 @@
 	* snake (0.06)
 	* bear (0.06)
 	* monster (0.03)
-	* killer (0.02)
 	* wolf (0.02)
 	* burglar (0.02)
 	* man (0.01)
@@ -17477,6 +17413,7 @@
 	* phantom (0.01)
 	* stranger (0.01)
 	* cockroach (0.01)
+	* killer (0.01)
 	* prowler (0.01)
 	* possum (0.01)
 	* hamster (0.01)
@@ -17489,7 +17426,7 @@
 808. Tyler thoroughly practiced, but on stage he began to __________.
 
 	* stutter (0.16)
-	* falter (0.11)
+	* falter (0.12)
 	* shake (0.10)
 	* forget (0.10)
 	* panic (0.10)
@@ -17507,7 +17444,6 @@
 	* suck (0.01)
 	* stumble (0.01)
 	* slack (0.01)
-	* twitch (0.01)
 	* play (0.01)
 	* mumble (0.01)
 	* stop (0.01)
@@ -17522,8 +17458,8 @@
 
 809. To stay warm in cold weather, wear a winter __________.
 
-	* coat (0.81)
-	* jacket (0.14)
+	* coat (0.82)
+	* jacket (0.13)
 	* hat (0.04)
 	* sweater (0.01)
 
@@ -17535,21 +17471,20 @@
 	* five (0.05)
 	* hundred (0.04)
 	* tip (0.01)
-	* bill (0.01)
 	* soda (0.01)
 	* fifty (0.01)
 	* phone (0.01)
 
 811. Michael cautiously watched the zookeeper feed the __________.
 
-	* lion (0.37)
+	* lion (0.38)
 	* tiger (0.23)
 	* bears (0.12)
 	* animals (0.07)
 	* monkey (0.04)
 	* elephants (0.04)
-	* zebra (0.03)
 	* alligator (0.02)
+	* zebra (0.02)
 	* eels (0.01)
 	* gorilla (0.01)
 	* horse (0.01)
@@ -17563,7 +17498,7 @@
 812. The man was professionally trained in how to __________.
 
 	* fight (0.13)
-	* dance (0.11)
+	* dance (0.12)
 	* sing (0.09)
 	* kill (0.06)
 	* cook (0.05)
@@ -17585,7 +17520,6 @@
 	* surf (0.01)
 	* survive (0.01)
 	* skate (0.01)
-	* save lives (0.01)
 	* speak (0.01)
 	* basejump (0.01)
 	* weld (0.01)
@@ -17616,7 +17550,7 @@
 
 	* steroids (0.45)
 	* drugs (0.41)
-	* hiv (0.04)
+	* hiv (0.03)
 	* doping (0.03)
 	* aids (0.03)
 	* herpes (0.01)
@@ -17627,9 +17561,9 @@
 
 814. The lady told her daughter the country club was __________.
 
-	* closed (0.23)
+	* closed (0.22)
 	* expensive (0.13)
-	* exclusive (0.10)
+	* exclusive (0.11)
 	* full (0.05)
 	* racist (0.05)
 	* snobby (0.04)
@@ -17668,7 +17602,7 @@
 
 815. Tina loved dressing up in her mom's old __________.
 
-	* clothes (0.53)
+	* clothes (0.54)
 	* dresses (0.30)
 	* hats (0.03)
 	* shoes (0.03)
@@ -17676,7 +17610,6 @@
 	* wigs (0.02)
 	* mannequin (0.01)
 	* bra (0.01)
-	* skirt (0.01)
 	* jewelry (0.01)
 	* coat (0.01)
 	* No Response (0.01)
@@ -17715,8 +17648,8 @@
 
 817. On the lawn, Patrick tripped where the dog had __________.
 
-	* dug (0.30)
-	* pooped (0.29)
+	* dug (0.31)
+	* pooped (0.28)
 	* laid (0.12)
 	* lain (0.05)
 	* peed (0.04)
@@ -17737,7 +17670,6 @@
 	* sun (0.07)
 	* ocean (0.04)
 	* pool (0.03)
-	* boy (0.02)
 	* water (0.02)
 	* cabin (0.02)
 	* flowers (0.02)
@@ -17751,6 +17683,7 @@
 	* sunflowers (0.01)
 	* sea (0.01)
 	* fireflies (0.01)
+	* boy (0.01)
 	* boats (0.01)
 	* bikinis (0.01)
 	* grass (0.01)
@@ -17763,14 +17696,14 @@
 
 819. Steven went to market and purchased ground __________.
 
-	* beef (0.70)
-	* coffee (0.10)
+	* beef (0.71)
+	* coffee (0.11)
 	* pepper (0.03)
 	* meat (0.03)
-	* pork (0.02)
 	* turkey (0.02)
 	* cumin (0.02)
 	* cinnamon (0.02)
+	* pork (0.01)
 	* cover (0.01)
 	* round (0.01)
 	* chuck (0.01)
@@ -17780,11 +17713,11 @@
 
 820. Joe liked the foreign city but didn't want to __________.
 
-	* stay (0.33)
+	* stay (0.34)
 	* travel (0.15)
 	* move (0.15)
-	* go (0.10)
-	* leave (0.08)
+	* go (0.11)
+	* leave (0.07)
 	* visit (0.03)
 	* explore (0.03)
 	* fly (0.03)
@@ -17807,8 +17740,8 @@
 	* dresser (0.05)
 	* couch (0.05)
 	* desk (0.05)
-	* dad (0.05)
 	* mom (0.04)
+	* dad (0.04)
 	* garage (0.03)
 	* car (0.03)
 	* shed (0.02)
@@ -17834,10 +17767,10 @@
 
 822. Nick quit violin class because practicing felt like a __________.
 
-	* chore (0.79)
-	* pain (0.03)
+	* chore (0.80)
 	* bore (0.03)
 	* burden (0.02)
+	* pain (0.02)
 	* job (0.02)
 	* punishment (0.02)
 	* loser (0.01)
@@ -17869,7 +17802,6 @@
 	* rested (0.01)
 	* checked (0.01)
 	* farted (0.01)
-	* jump (0.01)
 	* prepared (0.01)
 	* inhaled (0.01)
 	* second (0.01)
@@ -17892,8 +17824,8 @@
 
 824. Gavin was frustrated when he got wine on his __________.
 
-	* shirt (0.65)
-	* tie (0.10)
+	* shirt (0.64)
+	* tie (0.11)
 	* pants (0.06)
 	* carpet (0.05)
 	* tablecloth (0.02)
@@ -17912,7 +17844,7 @@
 
 	* vegetables (0.14)
 	* food (0.13)
-	* broccoli (0.11)
+	* broccoli (0.12)
 	* peas (0.08)
 	* soup (0.05)
 	* veggies (0.04)
@@ -17933,7 +17865,6 @@
 	* pork (0.01)
 	* cheese (0.01)
 	* milk (0.01)
-	* bread (0.01)
 	* mushrooms (0.01)
 	* stew (0.01)
 	* banana (0.01)
@@ -17950,8 +17881,8 @@
 826. Clara got lost because she misread the __________.
 
 	* directions (0.42)
-	* map (0.40)
-	* sign (0.11)
+	* map (0.39)
+	* sign (0.12)
 	* instructions (0.04)
 	* writing (0.01)
 	* address (0.01)
@@ -17964,17 +17895,16 @@
 	* dying (0.09)
 	* yellow (0.03)
 	* dead (0.02)
-	* dried up (0.01)
 	* withered (0.01)
 	* new (0.01)
 
 828. After eating, it is normal for babies to sometimes __________.
 
-	* burp (0.54)
+	* burp (0.55)
 	* vomit (0.15)
 	* puke (0.10)
 	* sleep (0.10)
-	* spit up (0.06)
+	* spit up (0.05)
 	* spit (0.02)
 	* regurgitate (0.01)
 	* gag (0.01)
@@ -17984,7 +17914,7 @@
 829. He tried to read but couldn't do it without __________.
 
 	* glasses (0.66)
-	* light (0.14)
+	* light (0.13)
 	* help (0.05)
 	* squinting (0.03)
 	* laughing (0.02)
@@ -18012,12 +17942,11 @@
 	* have (0.01)
 	* manuever (0.01)
 	* roll (0.01)
-	* lift it up (0.01)
 	* steer (0.01)
 
 831. At the trip's end Madelyn wanted to be __________.
 
-	* home (0.51)
+	* home (0.52)
 	* alone (0.19)
 	* asleep (0.02)
 	* rested (0.02)
@@ -18029,7 +17958,6 @@
 	* collapse (0.01)
 	* finished (0.01)
 	* stretch (0.01)
-	* the driver (0.01)
 	* governor (0.01)
 	* tanned (0.01)
 	* back (0.01)
@@ -18047,7 +17975,7 @@
 
 832. Elizabeth went to the mall to buy a new __________.
 
-	* dress (0.31)
+	* dress (0.32)
 	* purse (0.10)
 	* shirt (0.10)
 	* coat (0.06)
@@ -18055,7 +17983,7 @@
 	* outfit (0.05)
 	* jacket (0.04)
 	* skirt (0.04)
-	* shoes (0.04)
+	* shoes (0.03)
 	* scarf (0.02)
 	* game (0.02)
 	* bra (0.02)
@@ -18081,11 +18009,10 @@
 	* tired (0.27)
 	* relaxed (0.17)
 	* tan (0.13)
-	* happy (0.11)
+	* happy (0.12)
 	* sad (0.05)
 	* rested (0.04)
 	* exhausted (0.03)
-	* upset (0.02)
 	* refreshed (0.02)
 	* pleased (0.02)
 	* homesick (0.01)
@@ -18097,6 +18024,7 @@
 	* sunburned (0.01)
 	* anxious (0.01)
 	* beat (0.01)
+	* upset (0.01)
 	* hired (0.01)
 	* quiet (0.01)
 	* pumped (0.01)
@@ -18106,7 +18034,7 @@
 
 834. The poor dog lost its hair except for one __________.
 
-	* patch (0.33)
+	* patch (0.34)
 	* spot (0.24)
 	* strand (0.14)
 	* area (0.05)
@@ -18118,19 +18046,17 @@
 	* part (0.02)
 	* paw (0.02)
 	* eyelash (0.02)
-	* piece (0.01)
 	* clump (0.01)
 	* strip (0.01)
 	* hair (0.01)
 
 835. Someone that is far too cold might begin to __________.
 
-	* shiver (0.78)
+	* shiver (0.79)
 	* freeze (0.10)
 	* shake (0.05)
 	* die (0.03)
 	* chill (0.01)
-	* cry (0.01)
 	* lag (0.01)
 	* decompose (0.01)
 	* be mean (0.01)
@@ -29884,9 +29810,9 @@
 
 1386. The fraying rope lay on the ground in a __________.
 
-	* pile (0.32)
+	* pile (0.33)
 	* heap (0.31)
-	* coil (0.10)
+	* coil (0.11)
 	* knot (0.07)
 	* mess (0.04)
 	* circle (0.03)
@@ -29918,7 +29844,7 @@
 
 1388. An independent woman, Rae wanted to make her own __________.
 
-	* way (0.37)
+	* way (0.38)
 	* money (0.18)
 	* decisions (0.09)
 	* choices (0.06)
@@ -29927,7 +29853,6 @@
 	* name (0.02)
 	* path (0.02)
 	* soap (0.02)
-	* plans (0.02)
 	* success (0.02)
 	* clothes (0.02)
 	* furniture (0.01)
@@ -29938,6 +29863,7 @@
 	* choice (0.01)
 	* jam (0.01)
 	* baby (0.01)
+	* plans (0.01)
 	* home (0.01)
 	* clothing (0.01)
 	* movie (0.01)
@@ -29976,10 +29902,10 @@
 1391. The pregnant woman moved in a waddling __________.
 
 	* fashion (0.21)
-	* walk (0.19)
+	* walk (0.18)
 	* gait (0.12)
-	* motion (0.11)
-	* manner (0.10)
+	* motion (0.12)
+	* manner (0.11)
 	* way (0.10)
 	* position (0.04)
 	* stance (0.03)
@@ -30004,11 +29930,11 @@
 
 1393. He had trouble getting the bike onto the __________.
 
-	* rack (0.33)
-	* car (0.07)
+	* rack (0.34)
 	* garage (0.07)
 	* ramp (0.07)
 	* path (0.07)
+	* car (0.06)
 	* sidewalk (0.06)
 	* road (0.05)
 	* street (0.05)
@@ -30059,7 +29985,6 @@
 	* shirt (0.01)
 	* antenna (0.01)
 	* fender (0.01)
-	* clothing (0.01)
 	* garden (0.01)
 	* tent (0.01)
 	* shed (0.01)
@@ -30071,7 +29996,7 @@
 
 1395. The boy's mother cried as her son left for __________.
 
-	* college (0.45)
+	* college (0.44)
 	* school (0.27)
 	* camp (0.13)
 	* war (0.12)
@@ -30081,7 +30006,7 @@
 
 1396. The lonely stallion needed the company of a __________.
 
-	* mare (0.69)
+	* mare (0.68)
 	* mate (0.07)
 	* friend (0.07)
 	* horse (0.04)
@@ -30100,14 +30025,14 @@
 
 	* pride (0.15)
 	* speed (0.12)
+	* confidence (0.11)
 	* stride (0.10)
 	* purpose (0.10)
-	* confidence (0.10)
 	* care (0.05)
 	* vigor (0.03)
-	* haste (0.03)
 	* poise (0.02)
 	* ease (0.02)
+	* haste (0.02)
 	* enthusiasm (0.02)
 	* determination (0.02)
 	* pace (0.02)
@@ -30146,7 +30071,7 @@
 
 1399. During winter, the snow completely covered the street __________.
 
-	* signs (0.33)
+	* signs (0.34)
 	* lights (0.13)
 	* surface (0.08)
 	* corner (0.06)
@@ -30169,7 +30094,6 @@
 	* overnight (0.01)
 	* always (0.01)
 	* markers (0.01)
-	* gutters (0.01)
 	* totally (0.01)
 	* whole (0.01)
 	* deeply (0.01)
@@ -30187,8 +30111,8 @@
 	* lute (0.10)
 	* speakers (0.06)
 	* harp (0.05)
-	* stage (0.05)
 	* time (0.04)
+	* stage (0.04)
 	* tents (0.03)
 	* lyre (0.03)
 	* renaissance (0.02)
@@ -30223,13 +30147,13 @@
 
 1401. Clarence's marriage ceremony was at a beautiful __________.
 
-	* church (0.35)
+	* church (0.36)
 	* beach (0.09)
 	* resort (0.08)
 	* lake (0.06)
 	* chapel (0.05)
-	* park (0.05)
 	* event (0.04)
+	* park (0.04)
 	* place (0.03)
 	* venue (0.03)
 	* occasion (0.03)
@@ -30254,7 +30178,7 @@
 1402. She wasn't certain she'd find him but she would __________.
 
 	* try (0.81)
-	* look (0.10)
+	* look (0.11)
 	* eventually (0.02)
 	* do it (0.01)
 	* keep looking (0.01)
@@ -30266,7 +30190,7 @@
 
 1403. The kids' choreographed dance was a cute little __________.
 
-	* number (0.58)
+	* number (0.59)
 	* jig (0.06)
 	* routine (0.05)
 	* ditty (0.03)
@@ -30284,7 +30208,6 @@
 	* tango (0.01)
 	* attempt (0.01)
 	* ceremony (0.01)
-	* one (0.01)
 	* musical (0.01)
 	* bit (0.01)
 	* jib (0.01)
@@ -30308,9 +30231,9 @@
 
 1405. The hikers waited out the rain inside a cozy __________.
 
-	* cabin (0.24)
+	* cabin (0.23)
 	* cave (0.21)
-	* hut (0.11)
+	* hut (0.12)
 	* tent (0.10)
 	* shack (0.08)
 	* cottage (0.03)
@@ -30333,7 +30256,7 @@
 1406. The boy cried when he hurt his knee after the __________.
 
 	* fall (0.71)
-	* game (0.11)
+	* game (0.12)
 	* race (0.06)
 	* accident (0.06)
 	* run (0.01)
@@ -30363,7 +30286,7 @@
 
 	* top (0.49)
 	* peak (0.15)
-	* summit (0.10)
+	* summit (0.11)
 	* base (0.03)
 	* resort (0.03)
 	* cliff (0.02)
@@ -30376,7 +30299,6 @@
 	* dawn (0.01)
 	* lake (0.01)
 	* rockies (0.01)
-	* chattel (0.01)
 	* waterfall (0.01)
 	* lodge (0.01)
 	* river (0.01)
@@ -30399,8 +30321,8 @@
 	* knot (0.28)
 	* bundle (0.24)
 	* bale (0.12)
-	* sheaf (0.06)
 	* bow (0.06)
+	* sheaf (0.05)
 	* bushel (0.04)
 	* bag (0.04)
 	* pile (0.03)
@@ -30465,7 +30387,7 @@
 1416. Delia needed her keys and rummaged around in her __________.
 
 	* purse (0.80)
-	* bag (0.10)
+	* bag (0.11)
 	* pocket (0.02)
 	* pocketbook (0.02)
 	* room (0.02)
@@ -30476,7 +30398,7 @@
 
 1417. The little girl thought that the brussel sprouts were __________.
 
-	* gross (0.35)
+	* gross (0.36)
 	* nasty (0.14)
 	* awful (0.10)
 	* disgusting (0.06)
@@ -30518,8 +30440,8 @@
 
 1419. Some animals carry their offspring in their __________.
 
-	* pouch (0.63)
-	* mouth (0.32)
+	* pouch (0.62)
+	* mouth (0.33)
 	* stomach (0.02)
 	* arms (0.01)
 	* back (0.01)
@@ -30540,9 +30462,9 @@
 1421. The black bug turned out to be a harmless __________.
 
 	* beetle (0.43)
+	* insect (0.11)
 	* ant (0.11)
 	* spider (0.10)
-	* insect (0.10)
 	* bug (0.07)
 	* fly (0.04)
 	* critter (0.04)
@@ -30557,9 +30479,9 @@
 
 1422. The boy unwrapped the lollipop and started to __________.
 
-	* lick (0.64)
+	* lick (0.63)
 	* suck (0.17)
-	* eat (0.10)
+	* eat (0.11)
 	* eat it (0.02)
 	* grin (0.01)
 	* lick it (0.01)
@@ -30571,7 +30493,7 @@
 
 1423. After lifting weights, Lucas' muscles were extremely __________.
 
-	* sore (0.48)
+	* sore (0.47)
 	* tired (0.18)
 	* big (0.06)
 	* large (0.06)
@@ -30591,8 +30513,8 @@
 
 1424. Jerry didn't like the candy because it was too __________.
 
-	* sweet (0.44)
-	* sour (0.33)
+	* sweet (0.43)
+	* sour (0.34)
 	* tart (0.08)
 	* hard (0.07)
 	* sugary (0.02)
@@ -30650,8 +30572,8 @@
 1426. Barb pulled her sleeve back to reveal a big __________.
 
 	* bruise (0.39)
-	* tattoo (0.32)
-	* scar (0.13)
+	* tattoo (0.33)
+	* scar (0.12)
 	* welt (0.03)
 	* gash (0.02)
 	* mole (0.02)
@@ -30666,8 +30588,8 @@
 
 1427. Molly hoped that the kids wouldn't make a __________.
 
-	* mess (0.45)
-	* fuss (0.33)
+	* mess (0.44)
+	* fuss (0.34)
 	* scene (0.14)
 	* mistake (0.03)
 	* sound (0.02)
@@ -30677,15 +30599,15 @@
 
 1428. Melissa's new shoes gave her a painful __________.
 
-	* blister (0.58)
+	* blister (0.59)
 	* sore (0.10)
 	* ache (0.05)
 	* pinch (0.05)
 	* bunion (0.04)
 	* heel (0.02)
-	* cramp (0.02)
 	* corn (0.02)
 	* callous (0.02)
+	* cramp (0.01)
 	* bruise (0.01)
 	* welt (0.01)
 	* toe (0.01)
@@ -30701,10 +30623,10 @@
 
 1429. Instead of choosing one dog Mark adopted __________.
 
-	* two (0.58)
+	* two (0.59)
 	* three (0.20)
 	* another (0.08)
-	* both (0.04)
+	* both (0.03)
 	* four (0.03)
 	* five (0.02)
 	* several (0.02)
@@ -30721,8 +30643,8 @@
 	* paint (0.07)
 	* paintings (0.05)
 	* couch (0.05)
-	* kitchen (0.05)
 	* art (0.04)
+	* kitchen (0.04)
 	* pictures (0.04)
 	* fireplace (0.03)
 	* wreath (0.03)
@@ -30763,7 +30685,7 @@
 
 1431. They needed to add more honey to the __________.
 
-	* tea (0.33)
+	* tea (0.34)
 	* pot (0.13)
 	* mix (0.09)
 	* recipe (0.08)
@@ -30784,7 +30706,6 @@
 	* snack (0.01)
 	* dish (0.01)
 	* mead (0.01)
-	* baklava (0.01)
 	* bank (0.01)
 	* meal (0.01)
 	* pancakes (0.01)
@@ -30795,7 +30716,7 @@
 
 	* names (0.23)
 	* babies (0.14)
-	* stupid (0.11)
+	* stupid (0.12)
 	* brats (0.09)
 	* nerds (0.05)
 	* dumb (0.04)
@@ -30816,7 +30737,6 @@
 	* dweebs (0.01)
 	* idiots (0.01)
 	* snitches (0.01)
-	* weird (0.01)
 	* losers (0.01)
 	* wussies (0.01)
 	* pests (0.01)
@@ -30830,7 +30750,7 @@
 1433. He slept quite deeply and was almost impossible to __________.
 
 	* wake (0.79)
-	* awaken (0.10)
+	* awaken (0.11)
 	* rouse (0.08)
 	* please (0.01)
 	* disturb (0.01)
@@ -30840,7 +30760,7 @@
 
 	* bribe (0.57)
 	* reward (0.15)
-	* bonus (0.10)
+	* bonus (0.11)
 	* gift (0.07)
 	* donation (0.03)
 	* advancement (0.01)
@@ -32006,11 +31926,11 @@
 
 1486. Many restaurant tables can seat parties of at least __________.
 
-	* four (0.33)
+	* four (0.34)
 	* eight (0.19)
 	* six (0.19)
-	* two (0.09)
 	* ten (0.09)
+	* two (0.08)
 	* five (0.05)
 	* seven (0.02)
 	* twenty (0.02)
@@ -32048,7 +31968,6 @@
 	* jeans (0.01)
 	* soft (0.01)
 	* clean (0.01)
-	* faded (0.01)
 	* bright (0.01)
 	* perfect (0.01)
 	* on sale (0.01)
@@ -32067,12 +31986,12 @@
 1488. The passenger kept yelling at the driver to turn __________.
 
 	* left (0.49)
-	* right (0.29)
+	* right (0.28)
 	* around (0.23)
 
 1489. At the petting zoo, the boy cried after being __________.
 
-	* bitten (0.67)
+	* bitten (0.66)
 	* scared (0.06)
 	* licked (0.05)
 	* lost (0.03)
@@ -32097,9 +32016,9 @@
 
 1490. The math student finished the big project that was __________.
 
-	* due (0.70)
-	* hard (0.07)
+	* due (0.71)
 	* difficult (0.07)
+	* hard (0.06)
 	* overdue (0.04)
 	* assigned (0.03)
 	* important (0.02)
@@ -32113,10 +32032,10 @@
 
 1491. The car door hit Steven's face right in the __________.
 
-	* nose (0.61)
-	* middle (0.07)
+	* nose (0.62)
 	* jaw (0.06)
 	* cheek (0.06)
+	* middle (0.06)
 	* eye (0.05)
 	* temple (0.03)
 	* forehead (0.03)
@@ -32131,14 +32050,14 @@
 
 	* mop (0.27)
 	* bleach (0.21)
-	* broom (0.10)
+	* broom (0.11)
 	* rag (0.09)
 	* detergent (0.06)
 	* bottle (0.06)
 	* sponge (0.06)
-	* brush (0.03)
 	* spray (0.03)
 	* windex (0.02)
+	* brush (0.02)
 	* polish (0.01)
 	* sprayer (0.01)
 	* sink (0.01)
@@ -32151,7 +32070,7 @@
 
 1493. The aggressive mob's loud chants were filled with __________.
 
-	* anger (0.37)
+	* anger (0.38)
 	* hate (0.18)
 	* rage (0.16)
 	* hatred (0.06)
@@ -32163,7 +32082,6 @@
 	* vitriol (0.01)
 	* ire (0.01)
 	* aggression (0.01)
-	* air (0.01)
 	* swears (0.01)
 	* hoots (0.01)
 	* venom (0.01)
@@ -32188,7 +32106,7 @@
 
 1495. Heartbroken, Toby claimed no one could fill the __________.
 
-	* void (0.70)
+	* void (0.71)
 	* spot (0.05)
 	* hole (0.04)
 	* position (0.03)
@@ -32201,7 +32119,6 @@
 	* part (0.01)
 	* job (0.01)
 	* bill (0.01)
-	* loneliness (0.01)
 	* prescription (0.01)
 	* loss (0.01)
 	* memories (0.01)
@@ -32211,10 +32128,10 @@
 
 1496. The poor boy stored his earnings in a metal __________.
 
-	* can (0.35)
+	* can (0.36)
 	* box (0.23)
-	* tin (0.10)
-	* case (0.07)
+	* tin (0.11)
+	* case (0.06)
 	* bank (0.06)
 	* safe (0.05)
 	* jar (0.05)
@@ -32227,8 +32144,8 @@
 1497. She said the cause of the disease was a __________.
 
 	* virus (0.38)
-	* mystery (0.11)
-	* bite (0.10)
+	* mystery (0.12)
+	* bite (0.11)
 	* bug (0.06)
 	* tumor (0.05)
 	* bacteria (0.03)
@@ -32241,7 +32158,6 @@
 	* fungus (0.01)
 	* hereditary (0.01)
 	* clot (0.01)
-	* dirt (0.01)
 	* mistake (0.01)
 	* fluke (0.01)
 	* problem (0.01)
@@ -32259,7 +32175,7 @@
 1498. Sheldon returned from the mall with clothes that he __________.
 
 	* bought (0.65)
-	* purchased (0.10)
+	* purchased (0.11)
 	* loved (0.07)
 	* liked (0.06)
 	* stole (0.05)
@@ -32267,16 +32183,14 @@
 	* wanted (0.01)
 	* wear (0.01)
 	* picked (0.01)
-	* borrowed (0.01)
 	* ordered (0.01)
 	* returned (0.01)
 
 1499. The hiker was unaware that he had walked so __________.
 
-	* far (0.90)
+	* far (0.91)
 	* slowly (0.04)
 	* slow (0.01)
-	* long (0.01)
 	* quickly (0.01)
 	* fast (0.01)
 	* close (0.01)
@@ -32284,8 +32198,8 @@
 
 1500. He knew about the prank they were trying to __________.
 
-	* pull (0.79)
-	* do (0.08)
+	* pull (0.80)
+	* do (0.07)
 	* play (0.04)
 	* commit (0.02)
 	* perform (0.02)
@@ -32298,8 +32212,8 @@
 
 1501. Grandmother baked a pie and set it on the __________.
 
-	* counter (0.33)
-	* table (0.26)
+	* counter (0.34)
+	* table (0.25)
 	* sill (0.12)
 	* windowsill (0.09)
 	* ledge (0.07)
@@ -32312,7 +32226,7 @@
 
 1502. For a small horse she has a very long __________.
 
-	* tail (0.48)
+	* tail (0.47)
 	* mane (0.19)
 	* nose (0.07)
 	* neck (0.07)
@@ -32327,9 +32241,9 @@
 
 1503. Many spectators loudly jeered, but one began to __________.
 
-	* cheer (0.50)
+	* cheer (0.51)
 	* clap (0.13)
-	* cry (0.08)
+	* cry (0.07)
 	* boo (0.06)
 	* scream (0.04)
 	* applaud (0.04)
@@ -32346,7 +32260,7 @@
 1504. To promote sinus health, Pam used a saline nasal __________.
 
 	* spray (0.66)
-	* solution (0.14)
+	* solution (0.13)
 	* rinse (0.06)
 	* drip (0.03)
 	* pot (0.03)
@@ -32362,7 +32276,7 @@
 
 1505. The young woman had a very recognizable __________.
 
-	* face (0.45)
+	* face (0.44)
 	* voice (0.25)
 	* laugh (0.09)
 	* nose (0.07)
@@ -32402,7 +32316,6 @@
 	* meek (0.01)
 	* shit (0.01)
 	* despondent (0.01)
-	* nothing (0.01)
 	* weird (0.01)
 	* pained (0.01)
 	* horrified (0.01)
@@ -32440,7 +32353,6 @@
 	* a purpose (0.01)
 	* joy (0.01)
 	* employment (0.01)
-	* his mate (0.01)
 	* cross (0.01)
 	* forgiveness (0.01)
 	* happiness (0.01)
@@ -32451,7 +32363,7 @@
 
 1508. At odds with the referee, Kyle was easy to __________.
 
-	* anger (0.32)
+	* anger (0.33)
 	* spot (0.10)
 	* fight (0.04)
 	* eject (0.04)
@@ -32475,7 +32387,6 @@
 	* persuade (0.01)
 	* annoy (0.01)
 	* expel (0.01)
-	* call (0.01)
 	* penalize (0.01)
 	* dislike (0.01)
 	* beat (0.01)
@@ -32492,7 +32403,7 @@
 1509. Long hair can easily get tangled in an earring __________.
 
 	* hoop (0.23)
-	* loop (0.16)
+	* loop (0.15)
 	* back (0.14)
 	* post (0.12)
 	* clasp (0.08)
@@ -32512,7 +32423,7 @@
 
 1510. After years of feeling lost she finally found her __________.
 
-	* way (0.31)
+	* way (0.32)
 	* calling (0.13)
 	* purpose (0.08)
 	* self (0.06)
@@ -32535,7 +32446,6 @@
 	* dog (0.01)
 	* soul (0.01)
 	* lover (0.01)
-	* wallet (0.01)
 	* bearings (0.01)
 	* reason (0.01)
 	* match (0.01)
@@ -32545,7 +32455,7 @@
 
 1511. The critic rejected the steak because it was too __________.
 
-	* rare (0.36)
+	* rare (0.37)
 	* tough (0.16)
 	* raw (0.09)
 	* done (0.09)
@@ -32560,7 +32470,6 @@
 	* well done (0.01)
 	* red (0.01)
 	* hot (0.01)
-	* hard (0.01)
 	* soft (0.01)
 	* chewy (0.01)
 	* overdone (0.01)
@@ -32577,7 +32486,6 @@
 	* present (0.02)
 	* toss (0.01)
 	* carnival (0.01)
-	* award (0.01)
 	* meal (0.01)
 	* communion (0.01)
 	* meet (0.01)
@@ -32586,7 +32494,7 @@
 
 	* line (0.30)
 	* paragraph (0.24)
-	* chapter (0.10)
+	* chapter (0.11)
 	* page (0.10)
 	* sentence (0.08)
 	* passage (0.04)
@@ -32594,7 +32502,6 @@
 	* statement (0.03)
 	* story (0.02)
 	* part (0.01)
-	* remarks (0.01)
 	* idea (0.01)
 	* dialogue (0.01)
 	* title (0.01)
@@ -32603,7 +32510,7 @@
 
 1514. One cause of diabetes may be drinking too much __________.
 
-	* soda (0.68)
+	* soda (0.67)
 	* alcohol (0.10)
 	* pop (0.06)
 	* juice (0.05)
@@ -32620,7 +32527,7 @@
 1515. One may experience trauma after returning from __________.
 
 	* war (0.89)
-	* camp (0.03)
+	* camp (0.02)
 	* service (0.01)
 	* vacation (0.01)
 	* a near death experience (0.01)
@@ -32633,7 +32540,7 @@
 
 1516. The youngest daughter would get the house and the __________.
 
-	* car (0.72)
+	* car (0.73)
 	* land (0.06)
 	* boat (0.04)
 	* money (0.03)
@@ -32645,7 +32552,6 @@
 	* jewels (0.01)
 	* inheritance (0.01)
 	* yard (0.01)
-	* ranch (0.01)
 	* firm (0.01)
 	* horses (0.01)
 
@@ -32669,9 +32575,9 @@
 1519. At the crowded restaurant, Matt had to __________.
 
 	* wait (0.46)
-	* stand (0.10)
-	* shout (0.09)
+	* stand (0.11)
 	* yell (0.09)
+	* shout (0.08)
 	* sneeze (0.04)
 	* sit (0.03)
 	* leave (0.02)
@@ -32695,7 +32601,7 @@
 
 1520. The convenience store was robbed by a small __________.
 
-	* man (0.36)
+	* man (0.37)
 	* gang (0.21)
 	* group (0.06)
 	* child (0.06)
@@ -32706,9 +32612,9 @@
 	* criminal (0.03)
 	* crew (0.02)
 	* woman (0.02)
-	* boy (0.02)
 	* babboon (0.01)
 	* robber (0.01)
+	* boy (0.01)
 	* burglar (0.01)
 	* mob (0.01)
 	* assailant (0.01)
@@ -32746,7 +32652,6 @@
 	* nice (0.01)
 	* sunday (0.01)
 	* large (0.01)
-	* her birthday (0.01)
 	* personal (0.01)
 	* gross (0.01)
 	* early (0.01)
@@ -32772,10 +32677,10 @@
 
 1522. His worst fear was that the spectators would __________.
 
-	* boo (0.35)
+	* boo (0.36)
 	* laugh (0.24)
 	* riot (0.10)
-	* leave (0.10)
+	* leave (0.09)
 	* jeer (0.06)
 	* revolt (0.04)
 	* fight (0.02)
@@ -32804,8 +32709,8 @@
 
 1524. Nate proclaimed he was lucky that Sarah was his __________.
 
-	* wife (0.34)
-	* girlfriend (0.30)
+	* wife (0.35)
+	* girlfriend (0.29)
 	* friend (0.16)
 	* sister (0.06)
 	* girl (0.04)
@@ -32857,7 +32762,6 @@
 	* position (0.02)
 	* licence (0.01)
 	* leg (0.01)
-	* patience (0.01)
 	* rank (0.01)
 	* arm (0.01)
 	* mind (0.01)
@@ -32869,7 +32773,7 @@
 	* milk (0.09)
 	* alcohol (0.07)
 	* condoms (0.06)
-	* wine (0.05)
+	* wine (0.04)
 	* groceries (0.03)
 	* eggs (0.03)
 	* booze (0.03)
@@ -32906,7 +32810,7 @@
 
 1529. The other girls thought that Rebecca was __________.
 
-	* mean (0.11)
+	* mean (0.12)
 	* nice (0.10)
 	* pretty (0.09)
 	* rude (0.08)
@@ -32919,7 +32823,6 @@
 	* dumb (0.02)
 	* insane (0.02)
 	* slutty (0.02)
-	* gay (0.02)
 	* snobbish (0.02)
 	* fat (0.02)
 	* cute (0.02)
@@ -32935,6 +32838,7 @@
 	* b**** (0.01)
 	* younger (0.01)
 	* late (0.01)
+	* gay (0.01)
 	* crazy (0.01)
 	* flighty (0.01)
 	* great (0.01)
@@ -32959,13 +32863,12 @@
 
 	* turkey (0.44)
 	* ham (0.13)
-	* steak (0.11)
-	* roast (0.10)
+	* steak (0.12)
+	* roast (0.11)
 	* pumpkin (0.09)
 	* watermelon (0.03)
 	* pie (0.02)
 	* apple (0.01)
-	* fruit (0.01)
 	* drink (0.01)
 	* melon (0.01)
 	* snack (0.01)
@@ -32978,19 +32881,19 @@
 	* ham (0.70)
 	* turkey (0.19)
 	* chicken (0.02)
-	* salmon (0.02)
 	* bacon (0.01)
 	* salami (0.01)
 	* seabass (0.01)
 	* brisket (0.01)
 	* sausage (0.01)
 	* tuna (0.01)
+	* salmon (0.01)
 	* tongue (0.01)
 	* pork (0.01)
 
 1532. Terry thought the shirt was bland because it was __________.
 
-	* white (0.45)
+	* white (0.44)
 	* brown (0.10)
 	* plain (0.08)
 	* grey (0.07)
@@ -33013,10 +32916,9 @@
 
 1533. Chris had a thirst which Gatorade could not __________.
 
-	* quench (0.94)
+	* quench (0.95)
 	* fulfill (0.01)
 	* resist (0.01)
-	* help (0.01)
 	* fill (0.01)
 	* fix (0.01)
 	* meet (0.01)
@@ -33038,7 +32940,6 @@
 	* burrow (0.01)
 	* drown (0.01)
 	* erupt (0.01)
-	* come out (0.01)
 	* hide (0.01)
 	* slither (0.01)
 	* struggle (0.01)
@@ -33048,11 +32949,11 @@
 1535. Anthony was in a situation where he had no __________.
 
 	* choice (0.50)
-	* control (0.10)
+	* control (0.11)
 	* money (0.09)
 	* options (0.09)
-	* solution (0.03)
 	* help (0.02)
+	* solution (0.02)
 	* out (0.02)
 	* friends (0.02)
 	* hope (0.01)
@@ -35073,9 +34974,9 @@
 
 1636. The sight of the vomit caused Courtney to __________.
 
-	* gag (0.33)
-	* vomit (0.17)
-	* puke (0.12)
+	* gag (0.34)
+	* vomit (0.16)
+	* puke (0.13)
 	* retch (0.09)
 	* heave (0.06)
 	* faint (0.03)
@@ -35097,7 +34998,7 @@
 
 1637. While concentrating, the accountant always bit her __________.
 
-	* lip (0.71)
+	* lip (0.72)
 	* tongue (0.12)
 	* nails (0.10)
 	* pencil (0.03)
@@ -35108,13 +35009,12 @@
 
 1638. The harsh old principal was known for being __________.
 
-	* mean (0.33)
-	* strict (0.27)
+	* mean (0.34)
+	* strict (0.26)
 	* stern (0.10)
 	* rude (0.09)
 	* tough (0.04)
 	* cruel (0.03)
-	* harsh (0.02)
 	* grumpy (0.02)
 	* crabby (0.01)
 	* loud (0.01)
@@ -35123,6 +35023,7 @@
 	* rotten (0.01)
 	* rough (0.01)
 	* No Response (0.01)
+	* harsh (0.01)
 	* angry (0.01)
 	* douche (0.01)
 	* stubborn (0.01)
@@ -35131,11 +35032,11 @@
 
 1639. When the rain started, the hikers ran into a __________.
 
-	* cave (0.57)
-	* shelter (0.10)
-	* cabin (0.08)
+	* cave (0.58)
+	* shelter (0.11)
+	* cabin (0.07)
 	* tent (0.05)
-	* puddle (0.03)
+	* puddle (0.02)
 	* bear (0.02)
 	* problem (0.02)
 	* lodge (0.02)
@@ -35152,11 +35053,11 @@
 
 1640. The receptionist asked the patient for his __________.
 
-	* name (0.20)
+	* name (0.19)
 	* id (0.13)
-	* information (0.12)
-	* identification (0.11)
-	* insurance (0.10)
+	* information (0.13)
+	* identification (0.12)
+	* insurance (0.11)
 	* number (0.08)
 	* address (0.04)
 	* card (0.04)
@@ -35181,9 +35082,8 @@
 1641. It was tragic when whales were found on the __________.
 
 	* beach (0.84)
-	* shore (0.10)
+	* shore (0.11)
 	* barge (0.01)
-	* seaside (0.01)
 	* bottom (0.01)
 	* No Response (0.01)
 	* sand (0.01)
@@ -35212,7 +35112,6 @@
 	* gang (0.01)
 	* bus (0.01)
 	* group (0.01)
-	* shock (0.01)
 	* closet (0.01)
 	* No Response (0.01)
 	* bind (0.01)
@@ -35224,15 +35123,15 @@
 1643. The coach told Clara her form was __________.
 
 	* perfect (0.17)
-	* bad (0.14)
-	* good (0.12)
+	* bad (0.15)
+	* good (0.13)
 	* poor (0.09)
 	* great (0.08)
 	* incomplete (0.06)
-	* off (0.05)
-	* wrong (0.05)
 	* excellent (0.04)
+	* wrong (0.04)
 	* invalid (0.04)
+	* off (0.04)
 	* terrible (0.02)
 	* superb (0.01)
 	* illegitimate (0.01)
@@ -35253,8 +35152,8 @@
 
 1644. The intricate corn maze required the participants to __________.
 
-	* think (0.39)
-	* concentrate (0.13)
+	* think (0.40)
+	* concentrate (0.14)
 	* search (0.07)
 	* wander (0.06)
 	* cooperate (0.03)
@@ -35262,17 +35161,16 @@
 	* navigate (0.03)
 	* walk (0.03)
 	* move (0.02)
-	* crawl (0.02)
 	* panic (0.02)
 	* focus (0.02)
 	* maneuver (0.01)
 	* explore (0.01)
 	* get lost (0.01)
+	* crawl (0.01)
 	* hunt (0.01)
 	* memorize (0.01)
 	* zigzag (0.01)
 	* work (0.01)
-	* go around (0.01)
 	* pay attention (0.01)
 	* pause (0.01)
 	* No Response (0.01)
@@ -35288,18 +35186,16 @@
 	* drink (0.22)
 	* read (0.18)
 	* sleep (0.18)
-	* party (0.13)
-	* study (0.10)
+	* party (0.14)
+	* study (0.11)
 	* run (0.04)
 	* walk (0.02)
 	* sing (0.02)
-	* binge (0.01)
 	* date (0.01)
 	* nap (0.01)
 	* exercise (0.01)
 	* swim (0.01)
 	* race (0.01)
-	* draw (0.01)
 	* golf (0.01)
 	* No Response (0.01)
 	* eat (0.01)
@@ -35307,13 +35203,12 @@
 
 1646. The patient's condition stemmed from a mutation in a __________.
 
-	* gene (0.71)
-	* cell (0.16)
+	* gene (0.72)
+	* cell (0.17)
 	* chromosome (0.04)
 	* virus (0.02)
 	* artery (0.01)
 	* lung (0.01)
-	* medicine (0.01)
 	* No Response (0.01)
 	* leg (0.01)
 	* disease (0.01)
@@ -35321,24 +35216,23 @@
 
 1647. The cruise ship had a water slide on the __________.
 
-	* deck (0.78)
+	* deck (0.80)
 	* top (0.07)
 	* pool (0.04)
 	* side (0.04)
-	* boat (0.02)
 	* back (0.01)
 	* lido (0.01)
-	* roof top (0.01)
+	* boat (0.01)
 	* ship (0.01)
 	* No Response (0.01)
 	* bow (0.01)
 
 1648. The basketball team was excited because they won the __________.
 
-	* championship (0.44)
-	* game (0.29)
-	* tournament (0.13)
-	* trophy (0.05)
+	* championship (0.45)
+	* game (0.28)
+	* tournament (0.14)
+	* trophy (0.04)
 	* title (0.03)
 	* competition (0.01)
 	* pennant (0.01)
@@ -35351,7 +35245,7 @@
 1649. Mackenzie gushed that her boyfriend was her __________.
 
 	* soulmate (0.19)
-	* lover (0.15)
+	* lover (0.16)
 	* love (0.10)
 	* friend (0.08)
 	* favorite (0.06)
@@ -35359,7 +35253,6 @@
 	* first (0.04)
 	* best friend (0.04)
 	* man (0.03)
-	* mate (0.02)
 	* handsome (0.02)
 	* bestie (0.02)
 	* dream (0.02)
@@ -35373,7 +35266,7 @@
 	* partner (0.01)
 	* perfect (0.01)
 	* savior (0.01)
-	* brother (0.01)
+	* mate (0.01)
 	* No Response (0.01)
 	* date (0.01)
 	* sweet (0.01)
@@ -35388,10 +35281,10 @@
 
 	* rock (0.23)
 	* loud (0.17)
-	* good (0.13)
+	* good (0.14)
 	* country (0.06)
 	* his (0.06)
-	* new (0.04)
+	* new (0.03)
 	* acoustic (0.03)
 	* cool (0.02)
 	* heavy (0.02)
@@ -35399,7 +35292,6 @@
 	* live (0.02)
 	* folk (0.02)
 	* jazz (0.02)
-	* nice (0.02)
 	* metal (0.02)
 	* intricate (0.01)
 	* classical (0.01)
@@ -35409,6 +35301,7 @@
 	* slow (0.01)
 	* pleasing (0.01)
 	* No Response (0.01)
+	* nice (0.01)
 	* alternative (0.01)
 	* technical (0.01)
 	* rockn'roll (0.01)
@@ -35432,9 +35325,9 @@
 
 1653. His mother was furious when she found his __________.
 
-	* drugs (0.16)
+	* drugs (0.17)
+	* porn (0.12)
 	* stash (0.11)
-	* porn (0.11)
 	* grades (0.07)
 	* weed (0.06)
 	* condoms (0.05)
@@ -35456,7 +35349,6 @@
 	* diary (0.01)
 	* knife (0.01)
 	* beer (0.01)
-	* husband (0.01)
 	* report card (0.01)
 	* dope (0.01)
 	* cigar (0.01)
@@ -35472,16 +35364,15 @@
 
 1654. A hasty person, Andre was known for his brisk __________.
 
-	* walk (0.37)
+	* walk (0.38)
 	* pace (0.10)
 	* demeanor (0.07)
 	* manner (0.07)
-	* walking (0.07)
 	* decisions (0.07)
+	* walking (0.06)
 	* temper (0.04)
 	* stride (0.03)
 	* behavior (0.02)
-	* movements (0.02)
 	* attitude (0.02)
 	* tongue (0.02)
 	* dishwashing (0.01)
@@ -35493,6 +35384,7 @@
 	* wit (0.01)
 	* personality (0.01)
 	* No Response (0.01)
+	* movements (0.01)
 	* strut (0.01)
 	* actions (0.01)
 	* punishment (0.01)
@@ -35500,7 +35392,7 @@
 
 1655. An ulcer on the skin is a painful __________.
 
-	* sore (0.40)
+	* sore (0.41)
 	* condition (0.14)
 	* lesion (0.10)
 	* thing (0.08)
@@ -35514,7 +35406,6 @@
 	* issue (0.01)
 	* rash (0.01)
 	* patch (0.01)
-	* disease (0.01)
 	* abnormality (0.01)
 	* growth (0.01)
 	* No Response (0.01)
@@ -35528,9 +35419,8 @@
 1656. The competitive students were always afraid to __________.
 
 	* lose (0.65)
-	* fail (0.15)
+	* fail (0.16)
 	* cheat (0.05)
-	* stop (0.02)
 	* commit (0.02)
 	* pause (0.01)
 	* relax (0.01)
@@ -35541,13 +35431,14 @@
 	* cheer (0.01)
 	* miss (0.01)
 	* start (0.01)
+	* stop (0.01)
 	* test (0.01)
 	* help (0.01)
 	* rest (0.01)
 
 1657. The bear was peacefully sleeping until it __________.
 
-	* awoke (0.73)
+	* awoke (0.74)
 	* rained (0.05)
 	* fell (0.04)
 	* was startled (0.02)
@@ -35559,7 +35450,6 @@
 	* thundered (0.01)
 	* snored (0.01)
 	* hungered (0.01)
-	* was awaken (0.01)
 	* No Response (0.01)
 	* was awakened (0.01)
 	* died (0.01)
@@ -35567,14 +35457,13 @@
 
 1658. Shawn declined a second serving after eating his __________.
 
+	* fill (0.17)
 	* dessert (0.17)
-	* fill (0.16)
+	* dinner (0.15)
 	* first (0.14)
-	* dinner (0.14)
-	* meal (0.11)
+	* meal (0.12)
 	* pie (0.05)
 	* steak (0.03)
-	* pudding (0.02)
 	* potatoes (0.02)
 	* cake (0.02)
 	* share (0.02)
@@ -35587,15 +35476,16 @@
 	* third (0.01)
 	* No Response (0.01)
 	* cereal (0.01)
+	* pudding (0.01)
 	* soup (0.01)
 	* sandwich (0.01)
 	* lunch (0.01)
 
 1659. Frank read by the fireplace while his grandmother __________.
 
-	* knitted (0.39)
-	* slept (0.25)
-	* sewed (0.10)
+	* knitted (0.40)
+	* slept (0.23)
+	* sewed (0.11)
 	* napped (0.08)
 	* listened (0.04)
 	* cooked (0.03)
@@ -35613,12 +35503,11 @@
 
 	* bull (0.40)
 	* ox (0.27)
-	* bear (0.16)
+	* bear (0.17)
 	* horse (0.07)
 	* mule (0.04)
 	* bison (0.01)
 	* weightlifter (0.01)
-	* wind (0.01)
 	* No Response (0.01)
 	* lion (0.01)
 	* beast (0.01)
@@ -35626,15 +35515,14 @@
 
 1661. No one helped the amputee, all they did was __________.
 
-	* watch (0.43)
-	* stare (0.29)
-	* laugh (0.12)
+	* watch (0.44)
+	* stare (0.28)
+	* laugh (0.13)
 	* look (0.03)
 	* whine (0.01)
 	* ignore (0.01)
 	* gape (0.01)
 	* wait (0.01)
-	* run (0.01)
 	* gawk (0.01)
 	* leave (0.01)
 	* No Response (0.01)
@@ -35657,9 +35545,9 @@
 	* canoe (0.04)
 	* raft (0.03)
 	* boat (0.02)
-	* while (0.02)
 	* horse (0.01)
 	* log (0.01)
+	* while (0.01)
 	* No Response (0.01)
 	* small leap (0.01)
 	* skip (0.01)
@@ -35667,7 +35555,7 @@
 1663. Robert reached into the cabinet for a bottle of __________.
 
 	* wine (0.32)
-	* whisky (0.18)
+	* whisky (0.17)
 	* liquor (0.07)
 	* aspirin (0.06)
 	* medicine (0.06)
@@ -35693,17 +35581,16 @@
 
 1664. Jeff felt like he would never finish at that __________.
 
-	* pace (0.44)
+	* pace (0.45)
 	* rate (0.28)
-	* time (0.05)
 	* task (0.04)
 	* game (0.04)
+	* time (0.04)
 	* speed (0.02)
 	* job (0.02)
 	* race (0.02)
 	* test (0.02)
 	* end (0.01)
-	* level (0.01)
 	* project (0.01)
 	* school (0.01)
 	* marathon (0.01)
@@ -35714,13 +35601,13 @@
 
 1665. Thomas went to the tailor to fix the __________.
 
-	* suit (0.23)
+	* suit (0.22)
 	* hem (0.18)
-	* pants (0.12)
+	* pants (0.13)
 	* shirt (0.07)
 	* seam (0.07)
-	* jacket (0.06)
 	* rip (0.05)
+	* jacket (0.05)
 	* tear (0.04)
 	* zipper (0.03)
 	* coat (0.02)
@@ -35742,15 +35629,15 @@
 1666. With good oranges and lemons you can make delicious __________.
 
 	* juice (0.48)
-	* drinks (0.13)
+	* drinks (0.14)
 	* cake (0.05)
 	* punch (0.05)
 	* smoothies (0.03)
-	* pie (0.03)
 	* beverages (0.02)
 	* marmalade (0.02)
 	* lemonade (0.02)
 	* cakes (0.02)
+	* pie (0.02)
 	* ade (0.02)
 	* cocktails (0.02)
 	* tea (0.02)
@@ -35768,10 +35655,10 @@
 
 1667. After a bad day Hannah needs some good __________.
 
-	* rest (0.13)
-	* sleep (0.10)
+	* rest (0.14)
+	* sleep (0.11)
+	* food (0.11)
 	* wine (0.10)
-	* food (0.10)
 	* loving (0.05)
 	* news (0.05)
 	* music (0.04)
@@ -35786,14 +35673,12 @@
 	* drinks (0.02)
 	* vibes (0.02)
 	* love (0.01)
-	* times (0.01)
 	* entertainment (0.01)
 	* counseling (0.01)
 	* friends (0.01)
 	* cocktails (0.01)
 	* thoughts (0.01)
 	* therapy (0.01)
-	* bath (0.01)
 	* comedy (0.01)
 	* pot (0.01)
 	* No Response (0.01)
@@ -35805,13 +35690,12 @@
 1668. The nobleman called the suspicious man a __________.
 
 	* thief (0.20)
-	* liar (0.15)
-	* criminal (0.10)
+	* liar (0.16)
+	* criminal (0.11)
 	* crook (0.04)
 	* threat (0.03)
 	* creep (0.03)
 	* coward (0.03)
-	* fraud (0.03)
 	* scoundrel (0.03)
 	* suspect (0.03)
 	* traitor (0.03)
@@ -35821,6 +35705,7 @@
 	* pest (0.02)
 	* spy (0.02)
 	* loser (0.02)
+	* fraud (0.02)
 	* jerk (0.02)
 	* peon (0.01)
 	* bastard (0.01)
@@ -35830,7 +35715,6 @@
 	* sneak (0.01)
 	* danger (0.01)
 	* troll (0.01)
-	* killer (0.01)
 	* stranger (0.01)
 	* creeper (0.01)
 	* worry (0.01)
@@ -35842,9 +35726,9 @@
 
 1669. The fisherman was interested in buying a new __________.
 
-	* boat (0.48)
+	* boat (0.47)
 	* pole (0.17)
-	* rod (0.16)
+	* rod (0.17)
 	* lure (0.07)
 	* net (0.07)
 	* reel (0.02)
@@ -35857,7 +35741,7 @@
 
 	* hill (0.38)
 	* iceberg (0.21)
-	* glacier (0.13)
+	* glacier (0.14)
 	* mountain (0.07)
 	* ice (0.06)
 	* cliff (0.02)
@@ -35867,7 +35751,6 @@
 	* hillside (0.01)
 	* ledge (0.01)
 	* snowbank (0.01)
-	* sleet of ice (0.01)
 	* trail made of ice (0.01)
 	* No Response (0.01)
 	* ice bank (0.01)
@@ -35876,15 +35759,14 @@
 
 1671. The knight put his sword into the leather __________.
 
-	* sheath (0.53)
-	* holster (0.11)
+	* sheath (0.54)
+	* holster (0.12)
 	* scabbard (0.10)
-	* pouch (0.10)
+	* pouch (0.09)
 	* holder (0.05)
 	* sleeve (0.03)
 	* case (0.03)
 	* strap (0.01)
-	* cover (0.01)
 	* No Response (0.01)
 	* casing (0.01)
 	* hatchel (0.01)
@@ -35892,36 +35774,36 @@
 
 1672. The customer hastily bought a car that cost a __________.
 
-	* fortune (0.45)
-	* lot (0.28)
+	* fortune (0.46)
+	* lot (0.27)
 	* mint (0.06)
 	* bunch (0.04)
 	* bundle (0.03)
 	* little (0.03)
 	* ton (0.02)
 	* grand (0.02)
-	* million (0.02)
 	* dollar (0.01)
 	* large amount (0.01)
 	* lemon (0.01)
 	* more (0.01)
 	* minimal amount (0.01)
+	* million (0.01)
 	* No Response (0.01)
 	* lot more than it was worth (0.01)
 
 1673. Although he was hungry, Pablo couldn't decide where to __________.
 
 	* eat (0.83)
-	* go (0.10)
+	* go (0.09)
 	* dine (0.07)
 	* No Response (0.01)
 
 1674. The competition was close and hard to __________.
 
 	* win (0.17)
-	* judge (0.16)
-	* call (0.16)
-	* beat (0.10)
+	* judge (0.17)
+	* call (0.17)
+	* beat (0.09)
 	* predict (0.09)
 	* decide (0.06)
 	* follow (0.05)
@@ -35950,17 +35832,17 @@
 	* hens (0.17)
 	* henhouse (0.08)
 	* barn (0.05)
-	* house (0.02)
 	* nest (0.02)
 	* farm (0.02)
 	* cages (0.01)
+	* house (0.01)
 	* basket (0.01)
 	* No Response (0.01)
 	* garden (0.01)
 
 1676. Sam was late to his meeting because the directions were __________.
 
-	* wrong (0.36)
+	* wrong (0.37)
 	* bad (0.14)
 	* unclear (0.13)
 	* confusing (0.09)
@@ -35984,11 +35866,11 @@
 
 1677. The woman said she couldn't move in this __________.
 
-	* weather (0.14)
-	* heat (0.13)
-	* condition (0.11)
+	* weather (0.15)
+	* heat (0.14)
+	* condition (0.12)
 	* week (0.08)
-	* direction (0.07)
+	* direction (0.06)
 	* state (0.04)
 	* apartment (0.04)
 	* dress (0.03)
@@ -36005,7 +35887,6 @@
 	* storm (0.02)
 	* car (0.02)
 	* chair (0.02)
-	* thing (0.01)
 	* day (0.01)
 	* dump (0.01)
 	* environment (0.01)
@@ -36020,8 +35901,8 @@
 
 1678. The chef had already turned the bananas into __________.
 
-	* mush (0.27)
-	* bread (0.23)
+	* mush (0.26)
+	* bread (0.22)
 	* pudding (0.17)
 	* pie (0.09)
 	* puree (0.05)
@@ -36043,13 +35924,13 @@
 
 1679. The chef cut the large tuna in half with one swift __________.
 
-	* slice (0.24)
+	* slice (0.23)
 	* chop (0.19)
-	* cut (0.15)
-	* stroke (0.10)
-	* motion (0.10)
+	* cut (0.16)
+	* stroke (0.11)
+	* motion (0.11)
 	* swipe (0.06)
-	* move (0.04)
+	* move (0.03)
 	* blow (0.03)
 	* hack (0.02)
 	* whack (0.02)
@@ -36062,18 +35943,18 @@
 1680. Vince bought a new house that was really __________.
 
 	* nice (0.25)
-	* big (0.13)
+	* big (0.14)
 	* large (0.09)
-	* expensive (0.09)
+	* expensive (0.08)
 	* small (0.06)
 	* old (0.05)
 	* cheap (0.03)
-	* beautiful (0.03)
 	* luxurious (0.03)
 	* spacious (0.02)
 	* fancy (0.02)
 	* gorgeous (0.02)
 	* cute (0.02)
+	* beautiful (0.02)
 	* affordable (0.02)
 	* extravagant (0.01)
 	* charming (0.01)
@@ -36125,8 +36006,8 @@
 
 1682. Gabe didn't know which one of his desserts to __________.
 
-	* eat (0.53)
-	* try (0.11)
+	* eat (0.52)
+	* try (0.12)
 	* serve (0.06)
 	* choose (0.06)
 	* make (0.04)
@@ -36150,9 +36031,9 @@
 
 1683. Her favorite place to snorkel was the secret __________.
 
-	* cove (0.59)
+	* cove (0.60)
 	* cave (0.09)
-	* spot (0.08)
+	* spot (0.07)
 	* reef (0.06)
 	* grotto (0.03)
 	* lake (0.03)
@@ -36160,7 +36041,6 @@
 	* bay (0.02)
 	* lagoon (0.02)
 	* coast (0.01)
-	* sea (0.01)
 	* location (0.01)
 	* No Response (0.01)
 	* ocean (0.01)
@@ -36170,12 +36050,12 @@
 
 1684. Stacy had to pick a number between one and __________.
 
-	* ten (0.60)
+	* ten (0.61)
 	* fifty (0.10)
 	* twenty (0.06)
 	* one hundred (0.05)
-	* three (0.03)
 	* two (0.02)
+	* three (0.02)
 	* seven (0.02)
 	* sixty (0.01)
 	* five (0.01)
@@ -36194,17 +36074,17 @@
 1685. When the robber trapped Dorothy, she began to __________.
 
 	* cry (0.37)
-	* scream (0.35)
-	* panic (0.10)
+	* scream (0.36)
+	* panic (0.11)
 	* yell (0.03)
 	* fight (0.02)
 	* tremble (0.02)
-	* shake (0.02)
 	* wail (0.02)
 	* start (0.01)
 	* No Response (0.01)
 	* talk (0.01)
 	* hit him (0.01)
+	* shake (0.01)
 	* fret (0.01)
 	* seethe (0.01)
 	* beg (0.01)
@@ -38446,18 +38326,18 @@
 1786. The body builder's arm muscles were extremely __________.
 
 	* large (0.40)
-	* big (0.10)
+	* big (0.11)
 	* toned (0.04)
 	* bulky (0.04)
 	* strong (0.04)
 	* firm (0.03)
 	* sore (0.03)
 	* hard (0.03)
-	* veiny (0.03)
 	* buff (0.02)
 	* tired (0.02)
 	* defined (0.02)
 	* taut (0.02)
+	* veiny (0.02)
 	* huge (0.02)
 	* dense (0.01)
 	* bulked (0.01)
@@ -38480,7 +38360,7 @@
 
 1787. The water in the bag had begun to __________.
 
-	* leak (0.69)
+	* leak (0.68)
 	* drip (0.05)
 	* spill (0.03)
 	* warm (0.03)
@@ -38562,18 +38442,18 @@
 
 	* mouse (0.29)
 	* bug (0.22)
-	* roach (0.11)
+	* roach (0.12)
 	* rat (0.07)
 	* raccoon (0.06)
 	* spider (0.03)
 	* bacteria (0.02)
-	* fly (0.02)
 	* cockroach (0.02)
 	* mystery (0.02)
 	* worm (0.02)
 	* rodent (0.02)
 	* sandwich (0.02)
 	* skunk (0.01)
+	* fly (0.01)
 	* bat (0.01)
 	* place (0.01)
 	* kitten (0.01)
@@ -38586,9 +38466,9 @@
 
 1792. They knew she was a hiker because of her __________.
 
-	* boots (0.35)
-	* shoes (0.13)
-	* backpack (0.11)
+	* boots (0.36)
+	* backpack (0.12)
+	* shoes (0.12)
 	* gear (0.06)
 	* clothes (0.05)
 	* legs (0.04)
@@ -38617,7 +38497,7 @@
 
 1793. The tennis player won the match with a high __________.
 
-	* score (0.63)
+	* score (0.62)
 	* serve (0.15)
 	* lob (0.07)
 	* swing (0.04)
@@ -38635,8 +38515,8 @@
 
 1794. A selfish, stingy person, Devon never liked to __________.
 
-	* share (0.72)
-	* spend (0.10)
+	* share (0.73)
+	* spend (0.09)
 	* help (0.04)
 	* shop (0.03)
 	* give (0.03)
@@ -38651,7 +38531,7 @@
 
 1795. Henry hated the spring because the weather was always __________.
 
-	* rainy (0.37)
+	* rainy (0.38)
 	* warm (0.15)
 	* hot (0.10)
 	* wet (0.09)
@@ -38674,7 +38554,7 @@
 
 	* teeth (0.24)
 	* skin (0.18)
-	* features (0.11)
+	* features (0.12)
 	* looks (0.09)
 	* abs (0.07)
 	* hair (0.06)
@@ -38684,7 +38564,6 @@
 	* body (0.02)
 	* symmetry (0.02)
 	* face (0.02)
-	* hands (0.02)
 	* stance (0.01)
 	* attendance (0.01)
 	* balance (0.01)
@@ -38696,12 +38575,13 @@
 	* muscles (0.01)
 	* arms (0.01)
 	* figure (0.01)
+	* hands (0.01)
 	* shape (0.01)
 
 1797. The safest seats in a car are in the __________.
 
 	* back (0.76)
-	* rear (0.10)
+	* rear (0.11)
 	* front (0.08)
 	* middle (0.03)
 	* back seat (0.02)
@@ -38754,7 +38634,7 @@
 
 1799. At breakfast, her kids really love to drink __________.
 
-	* milk (0.57)
+	* milk (0.58)
 	* juice (0.32)
 	* cocoa (0.03)
 	* orange juice (0.02)
@@ -38767,7 +38647,7 @@
 1800. Gaby disliked spinach, a veggie she claimed she'd always __________.
 
 	* hated (0.70)
-	* loved (0.11)
+	* loved (0.12)
 	* liked (0.04)
 	* eaten (0.02)
 	* disliked (0.02)
@@ -38785,7 +38665,7 @@
 
 1801. Elle's grandmother applied her face powder using a __________.
 
-	* brush (0.66)
+	* brush (0.65)
 	* puff (0.13)
 	* sponge (0.07)
 	* pad (0.07)
@@ -38801,7 +38681,7 @@
 
 	* letter (0.42)
 	* mail (0.27)
-	* response (0.06)
+	* response (0.05)
 	* note (0.03)
 	* mailman (0.03)
 	* postman (0.02)
@@ -38833,7 +38713,7 @@
 1804. The family's couch and TV were both in the __________.
 
 	* room (0.36)
-	* den (0.34)
+	* den (0.35)
 	* living room (0.15)
 	* bedroom (0.03)
 	* kitchen (0.02)
@@ -38851,7 +38731,7 @@
 
 	* cement (0.46)
 	* mortar (0.38)
-	* glue (0.08)
+	* glue (0.07)
 	* paste (0.04)
 	* plaster (0.01)
 	* powder (0.01)
@@ -38892,15 +38772,14 @@
 	* emeralds (0.01)
 	* river rock (0.01)
 	* malachite (0.01)
-	* rhine (0.01)
 
 1807. Paige injured her back when she slipped outside on __________.
 
-	* ice (0.76)
+	* ice (0.77)
 	* concrete (0.04)
-	* snow (0.03)
 	* water (0.03)
 	* grease (0.03)
+	* snow (0.02)
 	* rocks (0.02)
 	* grass (0.02)
 	* ground (0.02)
@@ -38913,25 +38792,25 @@
 
 1808. The best friends enjoyed attending yoga class at the __________.
 
-	* gym (0.70)
+	* gym (0.71)
 	* ymca (0.07)
 	* school (0.06)
 	* studio (0.03)
 	* college (0.03)
 	* park (0.02)
 	* mall (0.02)
-	* club (0.02)
 	* evening (0.01)
 	* y (0.01)
 	* gymnasium (0.01)
 	* No Response (0.01)
 	* center (0.01)
+	* club (0.01)
 	* beach (0.01)
 
 1809. In the loud restaurant it was hard to __________.
 
 	* hear (0.84)
-	* talk (0.11)
+	* talk (0.12)
 	* relax (0.01)
 	* think (0.01)
 	* take (0.01)
@@ -38940,7 +38819,7 @@
 
 1810. Shawn hoped winning the lottery would make him __________.
 
-	* rich (0.72)
+	* rich (0.73)
 	* happy (0.17)
 	* wealthy (0.02)
 	* happier (0.02)
@@ -38949,14 +38828,13 @@
 	* beloved (0.01)
 	* famous (0.01)
 	* No Response (0.01)
-	* fun (0.01)
 
 1811. It is important to share toys, and not __________.
 
 	* hoard (0.21)
 	* germs (0.16)
-	* steal (0.10)
-	* fight (0.10)
+	* fight (0.11)
+	* steal (0.09)
 	* hog (0.04)
 	* be stingy (0.03)
 	* hide (0.03)
@@ -38992,8 +38870,8 @@
 
 	* lure (0.38)
 	* bait (0.28)
-	* hook (0.10)
 	* rod (0.10)
+	* hook (0.09)
 	* pole (0.07)
 	* line (0.03)
 	* gear (0.01)
@@ -39005,7 +38883,7 @@
 
 1813. These days milk is usually not sold from a __________.
 
-	* bottle (0.17)
+	* bottle (0.16)
 	* farm (0.16)
 	* truck (0.10)
 	* jar (0.07)
@@ -39062,7 +38940,7 @@
 
 1815. He has good intentions, but he can be a __________.
 
-	* jerk (0.26)
+	* jerk (0.25)
 	* pain (0.24)
 	* nuisance (0.04)
 	* pest (0.04)
@@ -39104,9 +38982,9 @@
 
 1816. The bird was so startled it fell from its __________.
 
-	* nest (0.61)
+	* nest (0.62)
 	* perch (0.26)
-	* branch (0.07)
+	* branch (0.06)
 	* tree (0.03)
 	* limb (0.02)
 	* No Response (0.01)
@@ -39114,7 +38992,7 @@
 
 1817. When he couldn't find his phone, Jim started to __________.
 
-	* panic (0.66)
+	* panic (0.65)
 	* worry (0.13)
 	* yell (0.06)
 	* cry (0.05)
@@ -39132,7 +39010,7 @@
 1818. During the championship game, the crowd was easy to __________.
 
 	* please (0.38)
-	* excite (0.11)
+	* excite (0.12)
 	* rile (0.10)
 	* hear (0.08)
 	* cheer (0.05)
@@ -39156,7 +39034,6 @@
 	* attention (0.01)
 	* manage (0.01)
 	* react (0.01)
-	* scare (0.01)
 
 1819. At one period, the flapper dress was in __________.
 
@@ -39188,10 +39065,10 @@
 
 1820. Brandon's shiny car was of the latest __________.
 
-	* model (0.70)
+	* model (0.71)
 	* style (0.07)
-	* year (0.04)
 	* design (0.04)
+	* year (0.03)
 	* trend (0.03)
 	* purchase (0.02)
 	* color (0.02)
@@ -39207,7 +39084,7 @@
 
 1821. On casual Fridays, the staff wears pants made of __________.
 
-	* denim (0.56)
+	* denim (0.57)
 	* cotton (0.19)
 	* jean (0.05)
 	* wool (0.03)
@@ -39226,13 +39103,12 @@
 	* denin (0.01)
 	* leather (0.01)
 	* paper (0.01)
-	* stripes (0.01)
 
 1822. After having a puppy they needed a new __________.
 
 	* rug (0.17)
-	* leash (0.13)
 	* carpet (0.13)
+	* leash (0.12)
 	* bed (0.08)
 	* couch (0.05)
 	* doghouse (0.04)
@@ -39264,7 +39140,7 @@
 
 1823. To finish seasoning the salmon, Marge needed __________.
 
-	* salt (0.31)
+	* salt (0.32)
 	* pepper (0.22)
 	* lemon (0.10)
 	* garlic (0.07)
@@ -39288,13 +39164,12 @@
 	* more (0.01)
 	* some thyme (0.01)
 	* thyme (0.01)
-	* limes (0.01)
 
 1824. Jacob's mother asked him for a glass of __________.
 
 	* water (0.65)
 	* milk (0.15)
-	* wine (0.15)
+	* wine (0.14)
 	* juice (0.02)
 	* lemonade (0.01)
 	* No Response (0.01)
@@ -39305,7 +39180,7 @@
 	* fight (0.68)
 	* challenge (0.15)
 	* argument (0.05)
-	* bet (0.03)
+	* bet (0.02)
 	* dare (0.02)
 	* debate (0.02)
 	* position (0.01)
@@ -39317,15 +39192,15 @@
 
 1826. The girls' mother hated it when they would __________.
 
-	* argye (0.30)
+	* argye (0.31)
 	* fight (0.26)
 	* lie (0.07)
 	* scream (0.06)
 	* cry (0.05)
-	* sing (0.04)
 	* bicker (0.03)
 	* whine (0.03)
 	* talk (0.03)
+	* sing (0.03)
 	* run (0.02)
 	* dance (0.02)
 	* gossip (0.01)
@@ -39382,7 +39257,7 @@
 
 1828. The place on the corner is his favorite __________.
 
-	* spot (0.18)
+	* spot (0.17)
 	* store (0.16)
 	* restaurant (0.10)
 	* bar (0.09)
@@ -39410,7 +39285,7 @@
 
 1829. Winston's prized chess set was missing a __________.
 
-	* piece (0.44)
+	* piece (0.43)
 	* pawn (0.24)
 	* knight (0.10)
 	* rook (0.09)
@@ -39423,7 +39298,7 @@
 
 	* lawn (0.43)
 	* porch (0.12)
-	* patio (0.11)
+	* patio (0.12)
 	* grass (0.10)
 	* deck (0.05)
 	* beach (0.04)
@@ -39445,7 +39320,7 @@
 1831. Nate behaves differently to his boss than to his __________.
 
 	* friends (0.26)
-	* wife (0.21)
+	* wife (0.20)
 	* coworkers (0.17)
 	* mother (0.06)
 	* family (0.06)
@@ -39472,10 +39347,10 @@
 	* river (0.08)
 	* forest (0.08)
 	* woods (0.05)
-	* trees (0.04)
 	* island (0.04)
 	* shore (0.04)
 	* stream (0.03)
+	* trees (0.03)
 	* beach (0.03)
 	* sunset (0.02)
 	* scenery (0.02)
@@ -39518,7 +39393,6 @@
 	* ignite (0.01)
 	* No Response (0.01)
 	* see (0.01)
-	* flick (0.01)
 
 1834. When the market crashed, many stores' profits went __________.
 
@@ -39534,7 +39408,7 @@
 
 1835. The rampaging giant squashed their car like a __________.
 
-	* bug (0.76)
+	* bug (0.77)
 	* toy (0.04)
 	* grape (0.04)
 	* ant (0.04)
@@ -39547,7 +39421,6 @@
 	* No Response (0.01)
 	* tomato (0.01)
 	* mouse (0.01)
-	* pea (0.01)
 
 1836. He said the dog wasn't a person, but rather a __________.
 
@@ -39555,7 +39428,7 @@
 	* animal (0.15)
 	* friend (0.10)
 	* dog (0.07)
-	* thing (0.05)
+	* thing (0.04)
 	* creature (0.03)
 	* beast (0.03)
 	* canine (0.03)
@@ -39574,10 +39447,10 @@
 
 1837. Rick will probably feel cold if his head is __________.
 
-	* uncovered (0.34)
+	* uncovered (0.35)
 	* exposed (0.17)
 	* bare (0.12)
-	* wet (0.10)
+	* wet (0.11)
 	* shaved (0.05)
 	* bald (0.04)
 	* warm (0.03)
@@ -39591,14 +39464,13 @@
 	* outside (0.01)
 	* out (0.01)
 	* felt (0.01)
-	* tilted (0.01)
 	* frozen (0.01)
 	* hot (0.01)
 
 1838. Jody dumped the icing on the cake in one __________.
 
-	* motion (0.11)
-	* lump (0.11)
+	* motion (0.12)
+	* lump (0.12)
 	* glob (0.10)
 	* scoop (0.09)
 	* swoop (0.08)
@@ -39619,7 +39491,6 @@
 	* try (0.01)
 	* glop (0.01)
 	* squirt (0.01)
-	* throw (0.01)
 	* squeeze (0.01)
 	* instance (0.01)
 	* nice (0.01)
@@ -39627,9 +39498,9 @@
 
 1839. To keep her hands warm Katy wore a fur __________.
 
-	* muff (0.34)
+	* muff (0.35)
 	* coat (0.23)
-	* glove (0.14)
+	* glove (0.13)
 	* mitten (0.09)
 	* stole (0.05)
 	* muffler (0.04)
@@ -39660,7 +39531,6 @@
 	* humor (0.01)
 	* jokes (0.01)
 	* stature (0.01)
-	* sense of humor (0.01)
 	* legs (0.01)
 	* attitude (0.01)
 	* balls (0.01)
@@ -39683,7 +39553,7 @@
 
 1841. The sailors couldn't wait to get back to __________.
 
-	* shore (0.53)
+	* shore (0.54)
 	* sea (0.12)
 	* land (0.10)
 	* port (0.10)
@@ -39699,8 +39569,8 @@
 
 1842. Martha went to the craft store to buy colored __________.
 
-	* pencils (0.31)
-	* yarn (0.30)
+	* pencils (0.32)
+	* yarn (0.31)
 	* paper (0.10)
 	* pens (0.04)
 	* beads (0.04)
@@ -39724,7 +39594,7 @@
 1843. To honor her deceased uncle, the niece sang a __________.
 
 	* song (0.81)
-	* hymn (0.10)
+	* hymn (0.11)
 	* ballad (0.02)
 	* tribute (0.02)
 	* requiem (0.01)
@@ -39735,8 +39605,8 @@
 
 1844. The competitive club at school excluded the __________.
 
-	* girls (0.19)
-	* nerds (0.10)
+	* girls (0.18)
+	* nerds (0.11)
 	* losers (0.08)
 	* boy (0.07)
 	* poor (0.05)
@@ -39791,10 +39661,10 @@
 
 1846. Laura jumped up and shouted after burning her __________.
 
-	* hand (0.55)
+	* hand (0.56)
 	* finger (0.24)
 	* bra (0.07)
-	* tongue (0.04)
+	* tongue (0.03)
 	* thumb (0.03)
 	* foot (0.02)
 	* head (0.01)
@@ -39806,7 +39676,7 @@
 
 1847. After removing the lid, the foul odor began to __________.
 
-	* spread (0.27)
+	* spread (0.26)
 	* waft (0.08)
 	* permeate (0.08)
 	* emerge (0.06)
@@ -39853,7 +39723,6 @@
 	* leopard (0.01)
 	* eagle (0.01)
 	* chipmunk (0.01)
-	* dog (0.01)
 	* rabbit (0.01)
 	* elk (0.01)
 	* bug (0.01)
@@ -39868,8 +39737,8 @@
 1849. Excited for his birthday presents, the boy could barely __________.
 
 	* wait (0.48)
-	* sleep (0.13)
 	* speak (0.13)
+	* sleep (0.12)
 	* sit (0.10)
 	* breathe (0.07)
 	* talk (0.05)
@@ -39890,7 +39759,6 @@
 	* bird (0.02)
 	* fox (0.01)
 	* zombie (0.01)
-	* cat (0.01)
 	* trespasser (0.01)
 	* skunk (0.01)
 	* chipmunk (0.01)
@@ -39909,12 +39777,12 @@
 	* food (0.03)
 	* movie (0.03)
 	* pizza (0.03)
-	* meal (0.02)
 	* beer (0.02)
 	* bike (0.02)
 	* table (0.01)
 	* weed (0.01)
 	* present (0.01)
+	* meal (0.01)
 	* ring (0.01)
 	* tent (0.01)
 	* boat (0.01)
@@ -39953,8 +39821,8 @@
 
 1853. Months before the gala, Avery bought an expensive __________.
 
-	* dress (0.51)
-	* gown (0.11)
+	* dress (0.52)
+	* gown (0.12)
 	* suit (0.10)
 	* watch (0.07)
 	* painting (0.03)
@@ -39966,7 +39834,6 @@
 	* player (0.01)
 	* dinner (0.01)
 	* present (0.01)
-	* shoes (0.01)
 	* gift (0.01)
 	* coat (0.01)
 	* purse (0.01)
@@ -39985,7 +39852,6 @@
 	* adrenaline (0.02)
 	* joy (0.01)
 	* passion (0.01)
-	* him (0.01)
 	* anxiety (0.01)
 	* alarm (0.01)
 	* panic (0.01)
@@ -40030,7 +39896,6 @@
 	* match (0.03)
 	* debate (0.02)
 	* contest (0.01)
-	* competition (0.01)
 	* dance off (0.01)
 	* game (0.01)
 
@@ -40044,7 +39909,7 @@
 
 1858. When John went to the salon, he bought some __________.
 
-	* shampoo (0.57)
+	* shampoo (0.58)
 	* gel (0.09)
 	* products (0.06)
 	* conditioner (0.06)
@@ -40057,7 +39922,6 @@
 	* pomade (0.01)
 	* soap (0.01)
 	* mousse (0.01)
-	* chips (0.01)
 	* hairspray (0.01)
 	* bullets (0.01)
 	* tickets (0.01)
@@ -40074,7 +39938,6 @@
 	* sea (0.03)
 	* city (0.02)
 	* pier (0.02)
-	* mall (0.02)
 	* harbor (0.01)
 	* dunes (0.01)
 	* shoreline (0.01)
@@ -40082,6 +39945,7 @@
 	* boardwalk (0.01)
 	* highway (0.01)
 	* park (0.01)
+	* mall (0.01)
 	* cliffs (0.01)
 	* inlet (0.01)
 	* restaurant (0.01)
@@ -40104,7 +39968,6 @@
 	* bubble (0.01)
 	* spill (0.01)
 	* appear (0.01)
-	* come out (0.01)
 	* drain (0.01)
 	* spread (0.01)
 	* pulse out (0.01)
@@ -40114,7 +39977,7 @@
 
 1861. The man was in pain because his arm was __________.
 
-	* broken (0.61)
+	* broken (0.62)
 	* cut (0.08)
 	* hurt (0.07)
 	* injured (0.05)
@@ -40128,7 +39991,6 @@
 	* pinched (0.01)
 	* crushed (0.01)
 	* bleeding (0.01)
-	* amputated (0.01)
 	* gone (0.01)
 	* dislocated (0.01)
 	* caught (0.01)
@@ -40151,7 +40013,7 @@
 	* wife (0.15)
 	* mother (0.09)
 	* mom (0.08)
-	* parents (0.04)
+	* parents (0.03)
 	* girlfriend (0.03)
 	* enemies (0.03)
 	* best (0.02)
@@ -40176,7 +40038,7 @@
 
 1864. The energetic little puppy loves to play __________.
 
-	* fetch (0.51)
+	* fetch (0.52)
 	* ball (0.15)
 	* catch (0.14)
 	* games (0.03)
@@ -40186,7 +40048,6 @@
 	* chase (0.02)
 	* daily (0.01)
 	* pizza (0.01)
-	* hide and seek (0.01)
 	* constantly (0.01)
 	* tag (0.01)
 	* around (0.01)
@@ -40194,8 +40055,7 @@
 
 1865. After receiving a treat, the dog's tail began to __________.
 
-	* wag (0.97)
-	* heal (0.01)
+	* wag (0.98)
 	* curl (0.01)
 	* lower (0.01)
 
@@ -40222,7 +40082,6 @@
 	* foolish (0.01)
 	* bossy (0.01)
 	* boss (0.01)
-	* today (0.01)
 	* maam (0.01)
 	* darling (0.01)
 	* girl (0.01)
@@ -40263,7 +40122,6 @@
 	* eat (0.01)
 	* motivate (0.01)
 	* move (0.01)
-	* accept it (0.01)
 	* process (0.01)
 	* focus (0.01)
 	* admit (0.01)
@@ -40291,21 +40149,19 @@
 	* nightfall (0.01)
 	* storms (0.01)
 	* school (0.01)
-	* meal (0.01)
 	* noon (0.01)
 	* class (0.01)
 	* rain (0.01)
 
 1869. Once the cake was unattended, the dog took a __________.
 
-	* bite (0.91)
+	* bite (0.92)
 	* lick (0.08)
-	* jump (0.01)
 
 1870. You should always read it over before signing a __________.
 
 	* contract (0.80)
-	* lease (0.10)
+	* lease (0.11)
 	* document (0.08)
 	* hymn (0.01)
 	* form (0.01)
@@ -40315,7 +40171,7 @@
 	* knife (0.41)
 	* spoon (0.16)
 	* spatula (0.10)
-	* recipe (0.08)
+	* recipe (0.07)
 	* apron (0.05)
 	* hat (0.04)
 	* whisk (0.03)
@@ -40336,14 +40192,13 @@
 
 1872. With the female deer was her mate, a large __________.
 
-	* buck (0.71)
+	* buck (0.72)
 	* stag (0.13)
 	* deer (0.05)
 	* elk (0.02)
 	* doe (0.02)
 	* stud (0.01)
 	* male (0.01)
-	* dog (0.01)
 	* moose (0.01)
 	* creature (0.01)
 	* lion (0.01)
@@ -40352,7 +40207,7 @@
 1873. When the babysitter arrived, the children all __________.
 
 	* cheered (0.18)
-	* ran (0.11)
+	* ran (0.12)
 	* hid (0.10)
 	* cried (0.09)
 	* screamed (0.09)
@@ -40364,7 +40219,6 @@
 	* fled (0.02)
 	* scattered (0.02)
 	* gathered (0.02)
-	* slept (0.02)
 	* celebrated (0.02)
 	* sang (0.02)
 	* behaved (0.02)
@@ -40377,6 +40231,7 @@
 	* squealed with delight (0.01)
 	* asleep (0.01)
 	* ran to her (0.01)
+	* slept (0.01)
 	* played (0.01)
 	* exclaimed (0.01)
 	* sat (0.01)
@@ -40414,7 +40269,6 @@
 	* settled (0.01)
 	* patient (0.01)
 	* kind (0.01)
-	* fine (0.01)
 	* right (0.01)
 	* cooperating (0.01)
 	* smiling (0.01)
@@ -40449,16 +40303,15 @@
 
 1877. Before going to bed, Kat always washes her __________.
 
-	* face (0.58)
+	* face (0.59)
 	* hands (0.22)
 	* hair (0.16)
 	* dishes (0.02)
 	* dildo (0.01)
-	* feet (0.01)
 
 1878. Jake hated the game and he said it wasn't __________.
 
-	* fair (0.45)
+	* fair (0.44)
 	* fun (0.40)
 	* playing (0.09)
 	* dumb (0.01)
@@ -40471,9 +40324,9 @@
 
 1879. The train arrived at ten o'clock on the __________.
 
-	* dot (0.86)
+	* dot (0.87)
 	* nose (0.07)
-	* morning (0.03)
+	* morning (0.02)
 	* hour (0.02)
 	* spot (0.02)
 	* morrow (0.01)
@@ -40483,8 +40336,8 @@
 	* sail (0.43)
 	* cruise (0.22)
 	* boat (0.10)
-	* swim (0.05)
 	* float (0.04)
+	* swim (0.04)
 	* sleep (0.03)
 	* fly (0.03)
 	* row (0.02)
@@ -40508,11 +40361,11 @@
 	* joust (0.12)
 	* battle (0.02)
 	* serve (0.02)
-	* kill (0.02)
 	* protect (0.02)
 	* roam (0.02)
 	* pray (0.01)
 	* charge (0.01)
+	* kill (0.01)
 	* sing (0.01)
 	* joist (0.01)
 	* tithe (0.01)
@@ -40526,10 +40379,10 @@
 
 1882. The newest game console was something Mark __________.
 
-	* wanted (0.75)
+	* wanted (0.76)
 	* loved (0.07)
 	* desired (0.05)
-	* liked (0.03)
+	* liked (0.02)
 	* coveted (0.02)
 	* five (0.01)
 	* payne (0.01)
@@ -40544,7 +40397,7 @@
 1883. Garrett met his soon-to-be wife at the __________.
 
 	* bar (0.20)
-	* party (0.11)
+	* party (0.12)
 	* mall (0.09)
 	* store (0.07)
 	* fair (0.06)
@@ -40569,7 +40422,6 @@
 	* bowling alley (0.01)
 	* disco (0.01)
 	* ball (0.01)
-	* restaurant (0.01)
 	* supermarket (0.01)
 	* school (0.01)
 	* altar (0.01)
@@ -40592,7 +40444,7 @@
 
 	* safe (0.50)
 	* vault (0.26)
-	* drawer (0.14)
+	* drawer (0.13)
 	* register (0.07)
 	* till (0.03)
 	* door (0.01)
@@ -46101,14 +45953,13 @@
 
 2136. The figure skater was spinning like a __________.
 
-	* top (0.85)
+	* top (0.86)
 	* ballerina (0.03)
 	* wheel (0.02)
 	* dreidel (0.02)
 	* blender (0.01)
 	* ribbon (0.01)
 	* tornado (0.01)
-	* doll (0.01)
 	* star (0.01)
 	* flower (0.01)
 	* ball (0.01)
@@ -46117,7 +45968,7 @@
 
 2137. Before bedtime, the elderly man had to take a __________.
 
-	* pill (0.53)
+	* pill (0.54)
 	* bath (0.17)
 	* shower (0.10)
 	* medication (0.03)
@@ -46126,7 +45977,6 @@
 	* crap (0.02)
 	* pee (0.02)
 	* wizz (0.01)
-	* piss (0.01)
 	* suppository (0.01)
 	* pain pill (0.01)
 	* drink (0.01)
@@ -46137,7 +45987,7 @@
 
 2138. His nephew wanted a dog but not a __________.
 
-	* cat (0.70)
+	* cat (0.69)
 	* puppy (0.15)
 	* poodle (0.03)
 	* beagle (0.02)
@@ -46154,7 +46004,7 @@
 2139. On the short boat ride, Mariel lost her __________.
 
 	* hat (0.20)
-	* glasses (0.11)
+	* glasses (0.12)
 	* ring (0.10)
 	* lunch (0.08)
 	* phone (0.07)
@@ -46170,7 +46020,6 @@
 	* keys (0.02)
 	* watch (0.02)
 	* bag (0.01)
-	* braid (0.01)
 	* stomach (0.01)
 	* bracelet (0.01)
 	* coat (0.01)
@@ -46203,7 +46052,6 @@
 	* shit (0.01)
 	* charge (0.01)
 	* lurking (0.01)
-	* roar (0.01)
 	* growling (0.01)
 	* print (0.01)
 	* cross (0.01)
@@ -46213,7 +46061,7 @@
 
 2141. The farmer discovered that the chickens escaped from the __________.
 
-	* coop (0.65)
+	* coop (0.64)
 	* pen (0.23)
 	* barn (0.03)
 	* house (0.02)
@@ -46227,7 +46075,7 @@
 
 2142. In her free time, Meredith really liked to __________.
 
-	* read (0.50)
+	* read (0.49)
 	* sing (0.12)
 	* sew (0.07)
 	* draw (0.06)
@@ -46254,7 +46102,7 @@
 	* problem (0.13)
 	* habit (0.12)
 	* crime (0.08)
-	* mistake (0.06)
+	* mistake (0.05)
 	* taboo (0.03)
 	* disaster (0.03)
 	* fault (0.02)
@@ -46293,12 +46141,12 @@
 
 2144. The pen didn't work because it was missing its __________.
 
-	* ink (0.56)
+	* ink (0.57)
 	* tip (0.22)
 	* nib (0.07)
 	* cap (0.05)
-	* top (0.03)
 	* point (0.03)
+	* top (0.02)
 	* latch (0.01)
 	* ball (0.01)
 	* door (0.01)
@@ -46308,7 +46156,7 @@
 2145. Natalie had to stay at home because she was just a __________.
 
 	* child (0.30)
-	* baby (0.14)
+	* baby (0.13)
 	* kid (0.13)
 	* girl (0.07)
 	* mom (0.04)
@@ -46346,7 +46194,7 @@
 2146. The ice was too cold to even __________.
 
 	* touch (0.47)
-	* eat (0.10)
+	* eat (0.11)
 	* break (0.08)
 	* use (0.08)
 	* skate (0.05)
@@ -46355,7 +46203,6 @@
 	* hold (0.02)
 	* crack (0.02)
 	* chew (0.02)
-	* swim (0.01)
 	* carry (0.01)
 	* think (0.01)
 	* drink (0.01)
@@ -46369,7 +46216,7 @@
 
 2147. Alexander cried when his brother called him __________.
 
-	* names (0.29)
+	* names (0.28)
 	* stupid (0.20)
 	* dumb (0.06)
 	* ugly (0.06)
@@ -46403,10 +46250,10 @@
 
 	* shoes (0.29)
 	* robe (0.14)
-	* coat (0.10)
+	* coat (0.11)
 	* hat (0.08)
-	* slippers (0.07)
 	* clothes (0.06)
+	* slippers (0.06)
 	* dress (0.06)
 	* shirt (0.05)
 	* sweater (0.04)
@@ -46425,7 +46272,7 @@
 2149. Tim hated going to work because his boss was __________.
 
 	* mean (0.56)
-	* rude (0.10)
+	* rude (0.11)
 	* a jerk (0.03)
 	* evil (0.03)
 	* stupid (0.03)
@@ -46453,7 +46300,7 @@
 2150. The football practice was canceled due to extreme __________.
 
 	* weather (0.53)
-	* heat (0.33)
+	* heat (0.34)
 	* rain (0.06)
 	* temperatures (0.02)
 	* winds (0.01)
@@ -46498,7 +46345,6 @@
 	* backpack (0.01)
 	* books (0.01)
 	* match (0.01)
-	* self (0.01)
 	* spirit (0.01)
 	* subject (0.01)
 	* hobbies (0.01)
@@ -46516,7 +46362,7 @@
 2153. The toddler needed his mother to be __________.
 
 	* there (0.27)
-	* nice (0.08)
+	* nice (0.07)
 	* home (0.06)
 	* near (0.05)
 	* happy (0.04)
@@ -46553,9 +46399,9 @@
 
 2154. The sandwich left under Henry's bed started to __________.
 
-	* mold (0.34)
+	* mold (0.35)
 	* rot (0.28)
-	* smell (0.21)
+	* smell (0.20)
 	* stink (0.07)
 	* spoil (0.05)
 	* decay (0.02)
@@ -46567,7 +46413,7 @@
 2155. The exhausted hunters returned with a fat __________.
 
 	* deer (0.40)
-	* pig (0.11)
+	* pig (0.12)
 	* boar (0.06)
 	* buck (0.05)
 	* hog (0.04)
@@ -46581,7 +46427,6 @@
 	* hen (0.02)
 	* prize (0.02)
 	* bird (0.01)
-	* check (0.01)
 	* possum (0.01)
 	* calf (0.01)
 	* bounty (0.01)
@@ -46599,8 +46444,8 @@
 	* unsure (0.28)
 	* uneasy (0.13)
 	* confused (0.08)
-	* bad (0.05)
 	* nervous (0.04)
+	* bad (0.04)
 	* wrong (0.03)
 	* apprehensive (0.03)
 	* uncertain (0.03)
@@ -46633,8 +46478,8 @@
 
 	* game (0.13)
 	* party (0.12)
+	* trip (0.12)
 	* break (0.12)
-	* trip (0.11)
 	* class (0.10)
 	* summer (0.04)
 	* exam (0.03)
@@ -46686,7 +46531,7 @@
 
 	* thief (0.17)
 	* pedophile (0.16)
-	* criminal (0.11)
+	* criminal (0.12)
 	* homosexual (0.08)
 	* pervert (0.04)
 	* murderer (0.03)
@@ -46694,7 +46539,6 @@
 	* gay (0.03)
 	* communist (0.02)
 	* felon (0.02)
-	* leper (0.02)
 	* traitor (0.02)
 	* republican (0.02)
 	* queer (0.02)
@@ -46718,6 +46562,7 @@
 	* molester (0.01)
 	* mugger (0.01)
 	* witch (0.01)
+	* leper (0.01)
 	* loser (0.01)
 	* voyeur (0.01)
 	* fake (0.01)
@@ -46728,20 +46573,20 @@
 
 	* pucker (0.38)
 	* wince (0.15)
-	* cringe (0.11)
+	* cringe (0.12)
 	* gag (0.09)
 	* sick (0.05)
 	* frown (0.03)
 	* squirm (0.02)
 	* vomit (0.02)
 	* squint (0.02)
-	* cry (0.02)
 	* grimace (0.02)
 	* shiver (0.02)
 	* tired (0.01)
 	* cough (0.01)
 	* spit (0.01)
 	* gasp (0.01)
+	* cry (0.01)
 	* bitter (0.01)
 	* jerk (0.01)
 	* shudder (0.01)
@@ -46751,7 +46596,7 @@
 
 	* beach (0.31)
 	* lake (0.23)
-	* river (0.10)
+	* river (0.11)
 	* ocean (0.08)
 	* sea (0.08)
 	* shore (0.08)
@@ -46770,10 +46615,10 @@
 	* home (0.15)
 	* healthy (0.09)
 	* grounded (0.05)
-	* sober (0.05)
 	* calm (0.05)
 	* awake (0.04)
 	* alert (0.04)
+	* sober (0.04)
 	* active (0.03)
 	* away (0.02)
 	* straight (0.02)
@@ -46805,10 +46650,10 @@
 
 	* army (0.29)
 	* gang (0.21)
+	* circus (0.11)
 	* cult (0.10)
-	* circus (0.10)
 	* military (0.06)
-	* club (0.05)
+	* club (0.04)
 	* band (0.04)
 	* team (0.04)
 	* choir (0.02)
@@ -46825,7 +46670,7 @@
 
 2164. Alexander placed the car key in the __________.
 
-	* ignition (0.51)
+	* ignition (0.52)
 	* lock (0.10)
 	* bowl (0.09)
 	* drawer (0.04)
@@ -46836,7 +46681,6 @@
 	* oven (0.01)
 	* garage (0.01)
 	* console (0.01)
-	* fridge (0.01)
 	* bag (0.01)
 	* ashtray (0.01)
 	* dish (0.01)
@@ -46878,9 +46722,9 @@
 
 2166. The queen wasn't demanding so she was easy to __________.
 
-	* please (0.75)
+	* please (0.76)
 	* like (0.06)
-	* manipulate (0.04)
+	* manipulate (0.03)
 	* work with (0.02)
 	* convince (0.02)
 	* obey (0.01)
@@ -46898,13 +46742,12 @@
 
 2167. Finn returned the lost wallet because he wasn't a __________.
 
-	* thief (0.78)
-	* crook (0.10)
+	* thief (0.79)
+	* crook (0.11)
 	* jerk (0.04)
 	* liar (0.02)
 	* dick (0.01)
 	* schmuck (0.01)
-	* cheater (0.01)
 	* selfish person (0.01)
 	* gucci (0.01)
 	* criminal (0.01)
@@ -46930,7 +46773,6 @@
 	* panache (0.01)
 	* charisma (0.01)
 	* skill (0.01)
-	* effort (0.01)
 	* noise (0.01)
 	* knowledge (0.01)
 	* enthuasiam (0.01)
@@ -46963,7 +46805,6 @@
 	* picture (0.02)
 	* makeup (0.02)
 	* colors (0.01)
-	* tie (0.01)
 	* color (0.01)
 	* image (0.01)
 	* drawing (0.01)
@@ -46977,9 +46818,9 @@
 
 	* dress (0.20)
 	* hairdo (0.13)
+	* outfit (0.11)
 	* haircut (0.10)
-	* outfit (0.10)
-	* look (0.07)
+	* look (0.06)
 	* car (0.05)
 	* hair (0.04)
 	* job (0.04)
@@ -47004,8 +46845,8 @@
 
 2171. While fishing, Ryan dropped the worm which began to __________.
 
-	* wiggle (0.31)
-	* squirm (0.27)
+	* wiggle (0.32)
+	* squirm (0.26)
 	* wriggle (0.24)
 	* escape (0.04)
 	* sink (0.03)
@@ -47055,7 +46896,6 @@
 	* arm (0.01)
 	* cramps (0.01)
 	* growth (0.01)
-	* sinuses (0.01)
 	* sore (0.01)
 	* mole (0.01)
 	* cancer (0.01)
@@ -47103,7 +46943,7 @@
 2175. After a tiring school day, the child needed a __________.
 
 	* nap (0.74)
-	* break (0.11)
+	* break (0.12)
 	* rest (0.08)
 	* snack (0.02)
 	* hug (0.02)
@@ -47131,7 +46971,6 @@
 	* dispute (0.01)
 	* crisis (0.01)
 	* catastrophe (0.01)
-	* bailout (0.01)
 	* failure (0.01)
 	* protest (0.01)
 	* mob (0.01)
@@ -47141,10 +46980,10 @@
 
 2177. After spotting the birds, the boy had a mischevious __________.
 
-	* grin (0.33)
-	* idea (0.24)
+	* grin (0.34)
+	* idea (0.23)
 	* thought (0.13)
-	* look (0.11)
+	* look (0.12)
 	* plan (0.10)
 	* smile (0.04)
 	* streak (0.02)
@@ -47155,16 +46994,16 @@
 2178. The trainer was worried about his runner's __________.
 
 	* health (0.12)
-	* knee (0.11)
-	* time (0.10)
+	* knee (0.12)
+	* time (0.11)
 	* feet (0.10)
 	* stamina (0.07)
 	* leg (0.05)
 	* speed (0.04)
-	* ability (0.03)
 	* legs (0.03)
 	* condition (0.03)
 	* stride (0.03)
+	* ability (0.02)
 	* ankles (0.02)
 	* injury (0.02)
 	* shins (0.02)
@@ -47191,11 +47030,11 @@
 
 2179. Many women are very conscious of their __________.
 
-	* weight (0.31)
+	* weight (0.32)
 	* looks (0.28)
 	* bodies (0.10)
-	* hair (0.08)
 	* figure (0.08)
+	* hair (0.07)
 	* appearance (0.07)
 	* breasts (0.03)
 	* teeth (0.01)
@@ -47209,10 +47048,10 @@
 2180. The absolute worst emotion of them all is __________.
 
 	* anger (0.23)
-	* hate (0.14)
+	* hate (0.13)
 	* jealousy (0.12)
 	* sadness (0.12)
-	* fear (0.10)
+	* fear (0.11)
 	* envy (0.06)
 	* hatred (0.04)
 	* depression (0.04)
@@ -47247,7 +47086,7 @@
 
 2182. The large pothole in the rode made the driver __________.
 
-	* swerve (0.58)
+	* swerve (0.59)
 	* nervous (0.10)
 	* mad (0.03)
 	* cautious (0.03)
@@ -47282,7 +47121,6 @@
 	* winner (0.04)
 	* charmer (0.03)
 	* douche (0.03)
-	* cute (0.03)
 	* gentleman (0.03)
 	* sweetie (0.02)
 	* ass (0.02)
@@ -47290,6 +47128,7 @@
 	* leader (0.02)
 	* asshole (0.02)
 	* fox (0.02)
+	* cute (0.02)
 	* babe (0.02)
 	* person (0.02)
 	* b**** (0.01)
@@ -47313,14 +47152,13 @@
 
 2184. The teacher yelled at Max for calling Cooper a __________.
 
-	* jerk (0.11)
-	* name (0.11)
+	* jerk (0.12)
+	* name (0.12)
 	* dummy (0.08)
 	* baby (0.07)
 	* nerd (0.06)
 	* pig (0.05)
 	* dunce (0.03)
-	* moron (0.03)
 	* liar (0.03)
 	* idiot (0.03)
 	* punk (0.03)
@@ -47328,6 +47166,7 @@
 	* loser (0.02)
 	* butthead (0.02)
 	* fool (0.02)
+	* moron (0.02)
 	* brat (0.02)
 	* bunghole (0.01)
 	* dork (0.01)
@@ -47361,7 +47200,7 @@
 
 2185. Observers cried when they heared the mourning __________.
 
-	* song (0.11)
+	* song (0.12)
 	* widow (0.09)
 	* bell (0.08)
 	* family (0.08)
@@ -47381,7 +47220,6 @@
 	* ceremony (0.01)
 	* noise (0.01)
 	* gorilla (0.01)
-	* people (0.01)
 	* speech (0.01)
 	* dirge (0.01)
 	* crying (0.01)
@@ -47401,7 +47239,7 @@
 
 2186. The employee always forgot to wear her __________.
 
-	* badge (0.32)
+	* badge (0.33)
 	* uniform (0.15)
 	* nametag (0.12)
 	* hat (0.05)
@@ -47427,7 +47265,6 @@
 	* sweater (0.01)
 	* identification (0.01)
 	* earmuffs (0.01)
-	* wig (0.01)
 
 2187. The starving boy never got to eat his __________.
 
@@ -47447,19 +47284,17 @@
 	* meat (0.01)
 	* spinach (0.01)
 	* cake (0.01)
-	* donut (0.01)
 	* fill (0.01)
 
 2188. The tourists got lost because they couldn't follow the __________.
 
-	* map (0.55)
+	* map (0.56)
 	* directions (0.28)
 	* signs (0.08)
 	* trail (0.03)
 	* guide (0.03)
 	* path (0.02)
 	* maze (0.01)
-	* gps (0.01)
 
 2189. Jay had surgery to repair a hole in his __________.
 
@@ -47487,9 +47322,9 @@
 
 2190. The old barge could be seen moving through the __________.
 
-	* water (0.42)
+	* water (0.41)
 	* river (0.22)
-	* canal (0.10)
+	* canal (0.11)
 	* ocean (0.05)
 	* harbor (0.02)
 	* dam (0.02)
@@ -47513,7 +47348,7 @@
 
 	* void (0.49)
 	* invalid (0.24)
-	* null (0.14)
+	* null (0.13)
 	* unlawful (0.02)
 	* nullified (0.02)
 	* unfit (0.01)
@@ -47529,8 +47364,8 @@
 
 2192. The woman wasn't sure when the baby was __________.
 
-	* due (0.52)
-	* born (0.21)
+	* due (0.53)
+	* born (0.20)
 	* hungry (0.09)
 	* sleeping (0.04)
 	* awake (0.03)
@@ -47548,7 +47383,7 @@
 
 2193. During this season the adult deer usually __________.
 
-	* mate (0.55)
+	* mate (0.56)
 	* hide (0.10)
 	* molt (0.04)
 	* rut (0.04)
@@ -47571,11 +47406,10 @@
 	* pranced (0.01)
 	* died (0.01)
 	* retreats (0.01)
-	* die (0.01)
 
 2194. The child was very excited to get a pet __________.
 
-	* dog (0.21)
+	* dog (0.20)
 	* hamster (0.14)
 	* rabbit (0.14)
 	* cat (0.10)
@@ -47600,8 +47434,8 @@
 
 2195. The rock band celebrated after their first __________.
 
-	* concert (0.35)
-	* gig (0.29)
+	* concert (0.36)
+	* gig (0.28)
 	* album (0.10)
 	* show (0.09)
 	* hit (0.06)
@@ -47615,7 +47449,7 @@
 
 2196. To tend to the wound he applied a gauze __________.
 
-	* bandage (0.50)
+	* bandage (0.51)
 	* pad (0.15)
 	* wrap (0.07)
 	* patch (0.05)
@@ -47633,7 +47467,6 @@
 	* material (0.01)
 	* layer (0.01)
 	* bandaid (0.01)
-	* napkin (0.01)
 
 2197. Karen lost lots of money after losing a foolish __________.
 
@@ -47673,11 +47506,11 @@
 2199. The elite country club was luxurious and __________.
 
 	* expensive (0.26)
-	* posh (0.11)
-	* exclusive (0.10)
+	* posh (0.12)
+	* exclusive (0.11)
 	* elegant (0.04)
-	* fancy (0.04)
 	* spacious (0.04)
+	* fancy (0.03)
 	* opulent (0.03)
 	* comfortable (0.02)
 	* nice (0.02)
@@ -47714,7 +47547,7 @@
 
 2200. Jerry wanted to weave yarn so he needed a __________.
 
-	* loom (0.55)
+	* loom (0.56)
 	* needle (0.16)
 	* hook (0.04)
 	* spool (0.02)
@@ -47739,17 +47572,16 @@
 	* tool (0.01)
 	* wheel (0.01)
 	* winder (0.01)
-	* quilt (0.01)
 
 2201. The two young brothers' least favorite drink was __________.
 
 	* milk (0.38)
-	* water (0.10)
+	* water (0.11)
 	* tea (0.09)
 	* coffee (0.09)
 	* lemonade (0.06)
-	* beer (0.05)
 	* juice (0.05)
+	* beer (0.04)
 	* pop (0.02)
 	* soda (0.02)
 	* coke (0.02)
@@ -47770,12 +47602,12 @@
 
 2202. The scuba divers really enjoyed exploring the __________.
 
-	* reef (0.31)
+	* reef (0.32)
 	* ocean (0.27)
 	* cave (0.12)
 	* sea (0.10)
-	* water (0.05)
 	* depths (0.05)
+	* water (0.04)
 	* shipwreck (0.03)
 	* cove (0.02)
 	* coral (0.02)
@@ -47816,7 +47648,6 @@
 	* love (0.01)
 	* hurtful (0.01)
 	* true (0.01)
-	* normal (0.01)
 
 2204. The wolves approached the campsite in a __________.
 
@@ -47840,18 +47671,17 @@
 	* woods (0.01)
 	* slouch (0.01)
 	* fire (0.01)
-	* daze (0.01)
 	* cautious manner (0.01)
 
 2205. The captivated children watched the steam engine __________.
 
 	* move (0.19)
 	* chug (0.13)
-	* run (0.10)
+	* run (0.11)
 	* start (0.07)
 	* pass (0.07)
 	* roll (0.06)
-	* go (0.06)
+	* go (0.05)
 	* puff (0.05)
 	* work (0.04)
 	* blow (0.03)
@@ -47876,7 +47706,7 @@
 
 2206. The designer didn't think the model's pants matched the __________.
 
-	* shirt (0.39)
+	* shirt (0.38)
 	* top (0.25)
 	* blouse (0.12)
 	* shoes (0.05)
@@ -47898,10 +47728,10 @@
 
 2207. For his grandfather's funeral, Oscar composed a __________.
 
-	* song (0.53)
+	* song (0.54)
 	* eulogy (0.17)
 	* poem (0.13)
-	* sonnet (0.05)
+	* sonnet (0.04)
 	* speech (0.04)
 	* symphony (0.02)
 	* dirge (0.02)
@@ -47912,9 +47742,9 @@
 
 2208. The teacher was concerned when the star student didn't __________.
 
-	* show (0.24)
+	* show (0.23)
 	* pass (0.15)
-	* arrive (0.11)
+	* arrive (0.12)
 	* attend (0.06)
 	* appear (0.06)
 	* succeed (0.05)
@@ -47975,7 +47805,7 @@
 
 2210. Ashley righteously declared that stealing was a __________.
 
-	* sin (0.50)
+	* sin (0.51)
 	* crime (0.38)
 	* wrong (0.03)
 	* right (0.03)
@@ -47996,7 +47826,7 @@
 
 2212. Ben cleaned out his blocked sinuses with a saline _________.
 
-	* solution (0.56)
+	* solution (0.57)
 	* spray (0.24)
 	* rinse (0.08)
 	* wash (0.05)
@@ -48005,12 +47835,11 @@
 	* brush (0.01)
 	* cleanse (0.01)
 	* injection (0.01)
-	* water (0.01)
 
 2213. Paul mispronounced the actor's name and laughed off his __________.
 
 	* mistake (0.62)
-	* error (0.11)
+	* error (0.12)
 	* ass (0.05)
 	* head (0.04)
 	* embarrassment (0.04)
@@ -48044,7 +47873,7 @@
 
 	* professor (0.30)
 	* dean (0.22)
-	* president (0.14)
+	* president (0.13)
 	* teacher (0.06)
 	* speaker (0.05)
 	* celebrity (0.04)
@@ -48102,12 +47931,12 @@
 
 2218. Sharon majored in Education to learn how to __________.
 
-	* teach (0.94)
-	* read (0.02)
+	* teach (0.95)
 	* sow (0.01)
 	* spell (0.01)
 	* No Response (0.01)
 	* learn (0.01)
+	* read (0.01)
 
 2219. Mitch didn't think he looked formal enough without a __________.
 
@@ -48133,7 +47962,7 @@
 2221. Young children playing with small toys may potentially __________.
 
 	* choke (0.69)
-	* die (0.05)
+	* die (0.04)
 	* harm (0.03)
 	* learn (0.03)
 	* fall (0.02)
@@ -48158,7 +47987,7 @@
 2222. The tiny black thing on her cheek was a lash __________.
 
 	* mark (0.22)
-	* hair (0.19)
+	* hair (0.18)
 	* fallen (0.06)
 	* speck (0.04)
 	* extension (0.04)
@@ -48201,8 +48030,8 @@
 
 	* nerves  (0.42)
 	* lung (0.17)
-	* brain (0.05)
 	* artery (0.04)
+	* brain (0.04)
 	* kidney (0.03)
 	* organ (0.03)
 	* vein (0.03)
@@ -48230,9 +48059,9 @@
 
 2224. They discussed whether or not the word was a __________.
 
-	* noun (0.26)
+	* noun (0.25)
 	* verb (0.19)
-	* curse (0.10)
+	* curse (0.11)
 	* synonym (0.08)
 	* right (0.03)
 	* mistake (0.02)
@@ -48272,8 +48101,8 @@
 
 2226. The man had extreme pain in his joints from __________.
 
-	* arthritis (0.53)
-	* running (0.22)
+	* arthritis (0.54)
+	* running (0.21)
 	* working (0.04)
 	* exercising (0.03)
 	* surgery (0.02)
@@ -48337,13 +48166,13 @@
 	* reveal (0.02)
 	* harm (0.02)
 	* become (0.02)
-	* bring (0.02)
 	* suggest (0.01)
 	* solve (0.01)
 	* fix (0.01)
 	* happen (0.01)
 	* illicit (0.01)
 	* achieve (0.01)
+	* bring (0.01)
 	* tolerate (0.01)
 	* lead (0.01)
 	* improve (0.01)
@@ -48354,7 +48183,7 @@
 	* courage (0.10)
 	* honesty (0.08)
 	* determination (0.07)
-	* strength (0.07)
+	* strength (0.06)
 	* kindness (0.06)
 	* patience (0.04)
 	* fortitude (0.03)
@@ -48401,13 +48230,13 @@
 2230. Zeke's closest friends threw him a giant birthday __________.
 
 	* party (0.88)
-	* bash (0.11)
+	* bash (0.12)
 	* celebration (0.01)
 
 2231. The roommates ended their friendship after a silly __________.
 
-	* argument (0.44)
-	* fight (0.37)
+	* argument (0.43)
+	* fight (0.38)
 	* spat (0.05)
 	* quarrel (0.04)
 	* disagreement (0.03)
@@ -48421,17 +48250,17 @@
 
 2232. Jared burned his tongue while drinking the hot __________.
 
-	* coffee (0.46)
+	* coffee (0.45)
 	* tea (0.20)
 	* cocoa (0.16)
-	* chocolate (0.11)
+	* chocolate (0.12)
 	* soup (0.05)
 	* cider (0.01)
 	* beverage (0.01)
 
 2233. Lyndon hoped there wouldn't be too much garbage to __________.
 
-	* clean (0.14)
+	* clean (0.13)
 	* collect (0.12)
 	* haul (0.10)
 	* carry (0.09)
@@ -51852,7 +51681,7 @@
 2386. The newly purchased marker had a fine black __________.
 
 	* tip (0.62)
-	* point (0.16)
+	* point (0.15)
 	* line (0.08)
 	* ink (0.06)
 	* case (0.02)
@@ -51866,7 +51695,7 @@
 2387. Out of habit, the family always ate dinner at __________.
 
 	* six (0.43)
-	* home (0.17)
+	* home (0.16)
 	* seven (0.12)
 	* five (0.06)
 	* night (0.05)
@@ -51889,7 +51718,7 @@
 	* hamper (0.18)
 	* basket (0.15)
 	* bag (0.15)
-	* drawer (0.07)
+	* drawer (0.06)
 	* dryer (0.06)
 	* washer (0.04)
 	* heap (0.03)
@@ -51913,7 +51742,6 @@
 	* carton (0.02)
 	* bucket (0.01)
 	* glass (0.01)
-	* fridge (0.01)
 	* bag (0.01)
 	* refrigerator (0.01)
 	* quantity (0.01)
@@ -51962,11 +51790,11 @@
 	* valve (0.28)
 	* supply (0.09)
 	* line (0.04)
-	* pipe (0.03)
 	* pump (0.02)
 	* today (0.02)
 	* faucet (0.02)
 	* hose (0.02)
+	* pipe (0.02)
 	* off (0.02)
 	* flow (0.01)
 	* source (0.01)
@@ -51981,9 +51809,9 @@
 2393. Before going out on the lake, Mike checked the boat's __________.
 
 	* engine (0.19)
-	* motor (0.18)
+	* motor (0.17)
 	* gas (0.12)
-	* hull (0.11)
+	* hull (0.12)
 	* bottom (0.06)
 	* fuel (0.06)
 	* sail (0.05)
@@ -52012,7 +51840,7 @@
 
 2395. The fisherman trapped hundreds of sharks in their __________.
 
-	* nets (0.81)
+	* nets (0.82)
 	* cages (0.05)
 	* habitat (0.04)
 	* tanks (0.03)
@@ -52020,7 +51848,6 @@
 	* location (0.01)
 	* cove (0.01)
 	* way (0.01)
-	* area (0.01)
 	* ocean (0.01)
 	* hideout (0.01)
 	* sleep (0.01)
@@ -52028,9 +51855,9 @@
 2396. While trying to lift the box, Jeffrey pulled his __________.
 
 	* back (0.39)
-	* muscle (0.31)
-	* groin (0.11)
-	* hamstring (0.07)
+	* muscle (0.32)
+	* groin (0.12)
+	* hamstring (0.06)
 	* shoulder (0.03)
 	* tendon (0.02)
 	* wrist (0.02)
@@ -52060,7 +51887,6 @@
 	* performer (0.01)
 	* traveler (0.01)
 	* teacher (0.01)
-	* dad (0.01)
 	* adventurer (0.01)
 	* scout (0.01)
 	* mediator (0.01)
@@ -52083,7 +51909,7 @@
 
 2398. To hold all her coins Trixie had a small __________.
 
-	* purse (0.49)
+	* purse (0.48)
 	* pouch (0.18)
 	* bank (0.07)
 	* box (0.06)
@@ -52099,10 +51925,10 @@
 
 2399. The landscaper went to the branch and started to __________.
 
-	* cut (0.35)
-	* saw (0.30)
-	* trim (0.11)
-	* work (0.05)
+	* cut (0.36)
+	* saw (0.31)
+	* trim (0.12)
+	* work (0.04)
 	* chop (0.04)
 	* prune (0.03)
 	* pull (0.03)
@@ -52120,8 +51946,8 @@
 	* duel (0.43)
 	* match (0.22)
 	* fight (0.13)
-	* game (0.09)
 	* race (0.08)
+	* game (0.08)
 	* contest (0.02)
 	* rematch (0.01)
 	* test (0.01)
@@ -52134,17 +51960,17 @@
 	* nine (0.14)
 	* six (0.13)
 	* seven (0.13)
-	* two (0.10)
+	* two (0.11)
 	* three (0.09)
 	* four (0.09)
 	* five (0.06)
 	* a strike (0.03)
-	* one (0.02)
 	* nex (0.01)
 	* less (0.01)
 	* eleven (0.01)
 	* none (0.01)
 	* more (0.01)
+	* one (0.01)
 	* 2 (0.01)
 
 2402. His aunt said they would help because he was __________.
@@ -52155,7 +51981,7 @@
 	* tired (0.06)
 	* sick (0.06)
 	* hurt (0.04)
-	* poor (0.04)
+	* poor (0.03)
 	* disabled (0.03)
 	* broke (0.03)
 	* injured (0.02)
@@ -52205,7 +52031,7 @@
 
 2403. His aunt would not come because his house is __________.
 
-	* messy (0.31)
+	* messy (0.32)
 	* dirty (0.27)
 	* far (0.09)
 	* haunted (0.05)
@@ -52218,7 +52044,6 @@
 	* bad (0.01)
 	* full of cats (0.01)
 	* far away (0.01)
-	* lonely (0.01)
 	* musty (0.01)
 	* No Response (0.01)
 	* condemned (0.01)
@@ -52230,9 +52055,9 @@
 
 2404. A huge crowd gathered to buy the designer's newest __________.
 
-	* dress (0.19)
+	* dress (0.18)
 	* line (0.13)
-	* clothes (0.10)
+	* clothes (0.11)
 	* fashions (0.07)
 	* creation (0.06)
 	* clothing (0.05)
@@ -52268,7 +52093,7 @@
 	* taunting (0.20)
 	* taunts (0.18)
 	* insults (0.10)
-	* words (0.06)
+	* words (0.05)
 	* bullying (0.04)
 	* banter (0.02)
 	* joking (0.02)
@@ -52293,7 +52118,7 @@
 
 2406. Sometimes the baker whipped up a last minute __________.
 
-	* cake (0.29)
+	* cake (0.28)
 	* batch (0.16)
 	* dessert (0.15)
 	* treat (0.09)
@@ -52315,7 +52140,7 @@
 
 2407. Joe used extra scrap wood to fashion a makeshift __________.
 
-	* table (0.15)
+	* table (0.14)
 	* raft (0.09)
 	* shed (0.06)
 	* bench (0.05)
@@ -52366,10 +52191,10 @@
 
 2408. The city was badly destroyed after the __________.
 
-	* fire (0.33)
-	* hurricane (0.15)
+	* fire (0.34)
 	* storm (0.15)
-	* tornado (0.11)
+	* hurricane (0.14)
+	* tornado (0.12)
 	* earthquake (0.09)
 	* flood (0.08)
 	* war (0.02)
@@ -52383,9 +52208,9 @@
 
 2409. Steph could cross the border because her citizenship was __________.
 
-	* dual (0.37)
+	* dual (0.38)
 	* valid (0.24)
-	* legal (0.08)
+	* legal (0.07)
 	* revoked (0.03)
 	* verified (0.03)
 	* certified (0.02)
@@ -52426,7 +52251,6 @@
 	* skill (0.02)
 	* finesse (0.02)
 	* emotion (0.02)
-	* confidence (0.02)
 	* excitement (0.02)
 	* tone (0.02)
 	* pep (0.02)
@@ -52444,6 +52268,7 @@
 	* character (0.01)
 	* gusto (0.01)
 	* experience (0.01)
+	* confidence (0.01)
 	* wit (0.01)
 	* vigor (0.01)
 	* vitality (0.01)
@@ -52457,7 +52282,7 @@
 2411. The man said that charisma was his best __________.
 
 	* asset (0.25)
-	* quality (0.20)
+	* quality (0.19)
 	* trait (0.15)
 	* attribute (0.15)
 	* feature (0.14)
@@ -52498,8 +52323,8 @@
 
 2414. Due to injuries, many war veterans had lost a __________.
 
-	* limb (0.56)
-	* leg (0.27)
+	* limb (0.57)
+	* leg (0.26)
 	* lot (0.04)
 	* limbs (0.04)
 	* job (0.04)
@@ -52533,14 +52358,14 @@
 
 2416. When placed in water, buoyant objects rise to the __________.
 
-	* top (0.52)
-	* surface (0.46)
+	* top (0.53)
+	* surface (0.45)
 	* No Response (0.01)
 	* weight (0.01)
 
 2417. In order to work, the machine needed a copper __________.
 
-	* wire (0.31)
+	* wire (0.32)
 	* pipe (0.15)
 	* fitting (0.07)
 	* coil (0.06)
@@ -52549,7 +52374,6 @@
 	* part (0.03)
 	* gear (0.02)
 	* line (0.02)
-	* coin (0.02)
 	* washer (0.02)
 	* valve (0.02)
 	* plate (0.02)
@@ -52570,6 +52394,7 @@
 	* ring (0.01)
 	* plug (0.01)
 	* fixing (0.01)
+	* coin (0.01)
 	* stopper (0.01)
 	* tubing (0.01)
 
@@ -52581,11 +52406,11 @@
 	* leave (0.05)
 	* steal (0.04)
 	* break (0.03)
-	* go (0.02)
 	* cry (0.02)
 	* tell their mother (0.01)
 	* tattle (0.01)
 	* laugh (0.01)
+	* go (0.01)
 	* scream (0.01)
 	* do that again (0.01)
 	* come (0.01)
@@ -52628,8 +52453,8 @@
 2421. The old computer had a lot of __________.
 
 	* problems (0.21)
-	* viruses (0.18)
-	* dust (0.11)
+	* viruses (0.17)
+	* dust (0.12)
 	* memory (0.09)
 	* files (0.05)
 	* issues (0.05)
@@ -52671,7 +52496,7 @@
 
 2423. Charlotte spent too much money on fancy, fruit-scented __________.
 
-	* perfume (0.30)
+	* perfume (0.29)
 	* candles (0.21)
 	* lotion (0.15)
 	* candle (0.06)
@@ -52726,9 +52551,9 @@
 
 2425. The explorer was terrified to encounter a wild __________.
 
-	* boar (0.34)
+	* boar (0.35)
 	* bear (0.26)
-	* animal (0.21)
+	* animal (0.20)
 	* beast (0.06)
 	* animals (0.03)
 	* cougar (0.02)
@@ -52743,9 +52568,9 @@
 
 2426. The couple worked well together and made a perfect __________.
 
-	* team (0.32)
+	* team (0.33)
 	* pair (0.29)
-	* match (0.22)
+	* match (0.21)
 	* couple (0.05)
 	* fit (0.03)
 	* union (0.02)
@@ -52760,10 +52585,10 @@
 
 2427. In hyena packs the females select a male __________.
 
-	* mate (0.61)
+	* mate (0.62)
 	* leader (0.14)
 	* partner (0.08)
-	* hyena (0.04)
+	* hyena (0.03)
 	* alpha (0.02)
 	* companion (0.02)
 	* immediately (0.02)
@@ -52804,7 +52629,6 @@
 	* beverage (0.02)
 	* pastry (0.01)
 	* burger (0.01)
-	* offer (0.01)
 	* No Response (0.01)
 	* brew (0.01)
 	* dinner (0.01)
@@ -52815,8 +52639,8 @@
 
 2430. The chef is always excited to buy a new __________.
 
-	* knife (0.26)
-	* pan (0.11)
+	* knife (0.25)
+	* pan (0.12)
 	* appliance (0.10)
 	* ingredient (0.06)
 	* pot (0.05)
@@ -52847,7 +52671,7 @@
 
 2431. Mary found her sleep-deprived friend difficult to __________.
 
-	* understand (0.19)
+	* understand (0.18)
 	* handle (0.17)
 	* tolerate (0.09)
 	* wake (0.05)
@@ -52888,7 +52712,7 @@
 2432. Jesse was recognized for always wearing a __________.
 
 	* hat (0.35)
-	* tie (0.11)
+	* tie (0.12)
 	* scarf (0.06)
 	* smile (0.04)
 	* suit (0.04)
@@ -52971,10 +52795,10 @@
 2435. The cookie container only had enough space for __________.
 
 	* one (0.19)
+	* twelve (0.11)
+	* ten (0.11)
 	* cookies (0.10)
-	* twelve (0.10)
-	* ten (0.10)
-	* two (0.09)
+	* two (0.08)
 	* three (0.05)
 	* twenty (0.05)
 	* crumbs (0.05)
@@ -55138,8 +54962,8 @@
 
 2536. The picky child refused to eat the sandwich's __________.
 
-	* crust (0.73)
-	* bread (0.08)
+	* crust (0.74)
+	* bread (0.07)
 	* lettuce (0.06)
 	* meat (0.04)
 	* pickles (0.03)
@@ -55161,8 +54985,8 @@
 	* pride (0.06)
 	* enthusiasm (0.05)
 	* smile (0.05)
-	* feelings (0.03)
 	* pleasure (0.02)
+	* feelings (0.02)
 	* elation (0.02)
 	* disdain (0.01)
 	* surprise (0.01)
@@ -55184,9 +55008,9 @@
 	* treat (0.04)
 	* riot (0.03)
 	* thrill (0.03)
-	* blast (0.03)
 	* lark (0.02)
 	* letdown (0.02)
+	* blast (0.02)
 	* disappointment (0.02)
 	* dud (0.02)
 	* performance (0.02)
@@ -55230,7 +55054,6 @@
 	* robbers (0.01)
 	* pickpockets (0.01)
 	* poach (0.01)
-	* thief (0.01)
 	* loot (0.01)
 	* accomplish (0.01)
 	* dismiss (0.01)
@@ -55254,17 +55077,17 @@
 
 2541. With medicine, it's important to consume the right __________.
 
-	* amount (0.35)
-	* dose (0.33)
-	* dosage (0.27)
+	* amount (0.36)
+	* dose (0.34)
+	* dosage (0.26)
 	* foods (0.03)
 	* ones (0.01)
 	* food (0.01)
 
 2542. After Chris dropped bread in the water, it became __________.
 
-	* soggy (0.77)
-	* soft (0.05)
+	* soggy (0.78)
+	* soft (0.04)
 	* mushy (0.04)
 	* wet (0.03)
 	* mush (0.02)
@@ -55291,7 +55114,7 @@
 	* bird (0.21)
 	* fly (0.16)
 	* spider (0.12)
-	* bug (0.10)
+	* bug (0.11)
 	* roach (0.07)
 	* plant (0.05)
 	* rat (0.05)
@@ -55302,14 +55125,13 @@
 	* insect (0.02)
 	* beetle (0.02)
 	* mosquito (0.01)
-	* frog (0.01)
 	* cat (0.01)
 	* locust (0.01)
 	* snail (0.01)
 
 2545. At noon, the grandfather clock began to loudly __________.
 
-	* chime (0.75)
+	* chime (0.76)
 	* tick (0.04)
 	* ring (0.04)
 	* ding (0.04)
@@ -55317,7 +55139,6 @@
 	* snore (0.02)
 	* play (0.01)
 	* peal (0.01)
-	* coo (0.01)
 	* make noise (0.01)
 	* sound (0.01)
 	* loudly (0.01)
@@ -55328,14 +55149,13 @@
 
 2546. The angry citizens had formed quite a large __________.
 
-	* mob (0.56)
+	* mob (0.57)
 	* group (0.17)
 	* crowd (0.15)
 	* protest (0.04)
 	* posse (0.03)
 	* riot (0.01)
 	* audience (0.01)
-	* number (0.01)
 	* union (0.01)
 	* demonstration (0.01)
 
@@ -55376,7 +55196,7 @@
 2549. The door was really heavy, and wouldn't __________.
 
 	* budge (0.65)
-	* open (0.22)
+	* open (0.21)
 	* close (0.08)
 	* shut (0.04)
 	* move (0.01)
@@ -55384,10 +55204,10 @@
 
 2550. Through the thin walls, Hank heard his mother loudly __________.
 
-	* scream (0.23)
+	* scream (0.22)
 	* snore (0.16)
+	* moan (0.12)
 	* yell (0.12)
-	* moan (0.11)
 	* crying (0.07)
 	* talking (0.05)
 	* cough (0.05)
@@ -55407,7 +55227,7 @@
 
 2551. Even though it was wet they tried lighting the __________.
 
-	* fire (0.30)
+	* fire (0.31)
 	* wood (0.19)
 	* match (0.15)
 	* candle (0.12)
@@ -55425,9 +55245,9 @@
 
 2552. At the birthday party, everyone was filled with __________.
 
-	* joy (0.36)
+	* joy (0.37)
 	* cake (0.22)
-	* happiness (0.14)
+	* happiness (0.13)
 	* excitement (0.12)
 	* glee (0.10)
 	* candy (0.02)
@@ -55438,7 +55258,7 @@
 
 2553. Kids don't like that particular fruit because it's __________.
 
-	* sour (0.45)
+	* sour (0.44)
 	* bitter (0.23)
 	* tart (0.09)
 	* sticky (0.02)
@@ -55475,7 +55295,6 @@
 	* kleenex (0.05)
 	* blob (0.03)
 	* towel (0.01)
-	* floor (0.01)
 	* napkin (0.01)
 	* wad (0.01)
 	* grass (0.01)
@@ -55492,7 +55311,7 @@
 
 2555. When the famous climber fell, she cracked one __________.
 
-	* rib (0.72)
+	* rib (0.73)
 	* bone (0.11)
 	* leg (0.04)
 	* femur (0.02)
@@ -55523,13 +55342,12 @@
 2557. To establish a hierarchy, the rooster began to __________.
 
 	* crow (0.64)
-	* fight (0.10)
+	* fight (0.11)
 	* strut (0.10)
 	* peck (0.06)
 	* yell (0.02)
 	* croon (0.01)
 	* chirp (0.01)
-	* fly (0.01)
 	* sing (0.01)
 	* make noise (0.01)
 	* vote (0.01)
@@ -55550,7 +55368,6 @@
 	* aplenty (0.01)
 	* smoothies (0.01)
 	* display (0.01)
-	* mango (0.01)
 	* tart (0.01)
 	* contest (0.01)
 	* available (0.01)
@@ -55585,7 +55402,7 @@
 	* moat (0.39)
 	* walls (0.25)
 	* barrier (0.13)
-	* guards (0.08)
+	* guards (0.07)
 	* gates (0.03)
 	* knights (0.02)
 	* barricade (0.02)
@@ -55600,7 +55417,7 @@
 
 2561. They wouldn't cross because the river was too __________.
 
-	* deep (0.43)
+	* deep (0.42)
 	* high (0.14)
 	* wide (0.14)
 	* fast (0.06)
@@ -55672,7 +55489,6 @@
 	* people (0.02)
 	* customers (0.02)
 	* boss (0.01)
-	* heat (0.01)
 	* theater (0.01)
 	* bar (0.01)
 	* host (0.01)
@@ -55705,7 +55521,6 @@
 	* horn (0.01)
 	* spanking (0.01)
 	* hiss (0.01)
-	* whip (0.01)
 	* slap (0.01)
 	* ruler (0.01)
 	* rod (0.01)
@@ -55726,7 +55541,7 @@
 	* write (0.30)
 	* finish (0.21)
 	* scribble (0.12)
-	* leave (0.10)
+	* leave (0.11)
 	* jot (0.04)
 	* sign (0.03)
 	* transcribe (0.02)
@@ -55736,7 +55551,6 @@
 	* rush (0.01)
 	* spell (0.01)
 	* paraphrase (0.01)
-	* submit (0.01)
 	* notate (0.01)
 	* study (0.01)
 	* print (0.01)
@@ -55751,7 +55565,7 @@
 
 2567. The boxer knew that tonight he had to __________.
 
-	* win (0.85)
+	* win (0.86)
 	* fight (0.12)
 	* succeed (0.01)
 	* lose (0.01)
@@ -55774,7 +55588,6 @@
 	* fabric (0.02)
 	* material (0.01)
 	* fringe (0.01)
-	* sequince (0.01)
 	* silk (0.01)
 	* flower (0.01)
 	* brocade (0.01)
@@ -55821,7 +55634,6 @@
 	* concern (0.01)
 	* roadblock (0.01)
 	* furor (0.01)
-	* traffic (0.01)
 	* catastrophe (0.01)
 	* fuss (0.01)
 	* emergency (0.01)
@@ -55844,7 +55656,6 @@
 	* cameras (0.02)
 	* scrutiny (0.02)
 	* lifestyle (0.02)
-	* pay (0.02)
 	* rules (0.02)
 	* travel (0.02)
 	* promoters (0.01)
@@ -55867,6 +55678,7 @@
 	* field (0.01)
 	* tension (0.01)
 	* environment (0.01)
+	* pay (0.01)
 	* culture (0.01)
 	* scene (0.01)
 	* mood (0.01)
@@ -55876,7 +55688,7 @@
 
 2572. The receptionist handed Kim some papers and a __________.
 
-	* pen (0.90)
+	* pen (0.89)
 	* file (0.03)
 	* clipboard (0.02)
 	* pouch (0.01)
@@ -55888,21 +55700,21 @@
 
 2573. To cool down the room, Sami turned on the __________.
 
-	* fan (0.77)
+	* fan (0.78)
 	* air (0.13)
-	* air conditioner (0.08)
+	* air conditioner (0.07)
 	* conditioner (0.01)
 	* freezer (0.01)
 
 2574. Bobby was building a robot using a modeling __________.
 
-	* kit (0.33)
+	* kit (0.34)
 	* clay (0.20)
 	* program (0.10)
-	* tool (0.04)
 	* set (0.04)
 	* design (0.03)
 	* plan (0.03)
+	* tool (0.03)
 	* device (0.02)
 	* guide (0.02)
 	* glue (0.02)
@@ -55928,9 +55740,9 @@
 2575. The pencil stayed put due to the desk's small __________.
 
 	* size (0.16)
-	* groove (0.10)
-	* space (0.07)
+	* groove (0.11)
 	* surface (0.06)
+	* space (0.06)
 	* holder (0.06)
 	* area (0.04)
 	* frame (0.04)
@@ -55969,14 +55781,13 @@
 
 2576. The retired coach was visited by students he had __________.
 
-	* taught (0.36)
-	* coached (0.34)
+	* taught (0.37)
+	* coached (0.35)
 	* mentored (0.10)
 	* trained (0.07)
 	* helped (0.05)
 	* known (0.02)
 	* before (0.02)
-	* handled (0.01)
 	* lead (0.01)
 	* inspired (0.01)
 	* had (0.01)
@@ -55984,7 +55795,7 @@
 
 2577. The girl had her hair lengthened by receiving a __________.
 
-	* weave (0.33)
+	* weave (0.34)
 	* wig (0.22)
 	* extension (0.16)
 	* treatment (0.06)
@@ -55997,7 +55808,6 @@
 	* style (0.01)
 	* implant (0.01)
 	* donation (0.01)
-	* trophy (0.01)
 	* procedure (0.01)
 	* cut (0.01)
 	* straightening (0.01)
@@ -56009,12 +55819,11 @@
 2578. Aidan was shocked that the sturdy building __________.
 
 	* collapsed (0.46)
-	* fell (0.32)
+	* fell (0.33)
 	* crumbled (0.07)
 	* shook (0.06)
 	* stood (0.03)
 	* lasted (0.01)
-	* was a success (0.01)
 	* rocked (0.01)
 	* shifted (0.01)
 	* vibration (0.01)
@@ -56023,9 +55832,9 @@
 
 2579. If corn isn't ready it will be hard to __________.
 
-	* eat (0.44)
+	* eat (0.43)
 	* chew (0.20)
-	* shuck (0.10)
+	* shuck (0.11)
 	* pick (0.08)
 	* harvest (0.05)
 	* find (0.03)
@@ -56039,14 +55848,13 @@
 
 2580. Whenever she's stressed, Kim imagines sitting on a __________.
 
-	* beach (0.54)
+	* beach (0.55)
 	* cloud (0.10)
 	* boat (0.05)
 	* throne (0.03)
 	* horse (0.03)
 	* dock (0.02)
 	* hammock (0.02)
-	* couch (0.02)
 	* log (0.02)
 	* mountain (0.02)
 	* island (0.02)
@@ -56057,6 +55865,7 @@
 	* iceberg (0.01)
 	* lake (0.01)
 	* hill (0.01)
+	* couch (0.01)
 	* chair (0.01)
 	* plane (0.01)
 	* mountaintop (0.01)
@@ -56079,24 +55888,22 @@
 	* magic (0.01)
 	* sex (0.01)
 	* happiness (0.01)
-	* a pastor (0.01)
 	* children (0.01)
 	* peter (0.01)
 	* music (0.01)
 
 2582. Work started in ten minutes, so Jim had to __________.
 
-	* hurry (0.79)
+	* hurry (0.80)
 	* rush (0.10)
 	* leave (0.05)
 	* run (0.04)
 	* go (0.01)
-	* stop eating (0.01)
 	* arrive (0.01)
 
 2583. When Lila doesn't want to dress she wears her __________.
 
-	* pajamas (0.27)
+	* pajamas (0.26)
 	* robe (0.19)
 	* sweats (0.16)
 	* jeans (0.09)
@@ -56117,7 +55924,7 @@
 
 2584. The curious child wanted to touch the tree __________.
 
-	* trunk (0.37)
+	* trunk (0.38)
 	* bark (0.24)
 	* sap (0.07)
 	* branch (0.07)
@@ -56128,7 +55935,6 @@
 	* stump (0.02)
 	* frog (0.02)
 	* tonight (0.01)
-	* of apple (0.01)
 	* limbs (0.01)
 	* gently (0.01)
 	* stand (0.01)
@@ -56136,7 +55942,7 @@
 2585. Rachel missed her appointment after writing down the wrong __________.
 
 	* address (0.36)
-	* time (0.33)
+	* time (0.34)
 	* date (0.21)
 	* directions (0.05)
 	* info (0.01)
@@ -62664,7 +62470,7 @@
 
 2886. It was hard to watch the poor animal __________.
 
-	* suffer (0.80)
+	* suffer (0.81)
 	* die (0.10)
 	* struggle (0.04)
 	* crawl (0.01)
@@ -62692,7 +62498,6 @@
 	* boxer (0.02)
 	* pitbull (0.02)
 	* doberman (0.02)
-	* puppy (0.02)
 	* peekapoo (0.01)
 	* black lab (0.01)
 	* german shepard (0.01)
@@ -62705,12 +62510,13 @@
 	* chow (0.01)
 	* corgi (0.01)
 	* hound (0.01)
+	* puppy (0.01)
 	* bulldog (0.01)
 	* dachshund (0.01)
 
 2888. Gary was unhappy when his jacket wouldn't __________.
 
-	* zip (0.50)
+	* zip (0.49)
 	* fit (0.40)
 	* close (0.03)
 	* zipper (0.02)
@@ -62722,9 +62528,9 @@
 
 2889. Brie cut the steak to see if it was __________.
 
-	* done (0.73)
-	* cooked (0.10)
-	* rare (0.10)
+	* done (0.74)
+	* rare (0.11)
+	* cooked (0.09)
 	* raw (0.02)
 	* tender (0.02)
 	* ready (0.01)
@@ -62737,8 +62543,8 @@
 
 2891. The athlete often got into fights with his __________.
 
-	* coach (0.37)
-	* teammates (0.27)
+	* coach (0.38)
+	* teammates (0.26)
 	* team (0.08)
 	* friends (0.05)
 	* trainer (0.05)
@@ -62762,7 +62568,7 @@
 	* dinner (0.37)
 	* lunch (0.17)
 	* fill (0.17)
-	* meal (0.10)
+	* meal (0.11)
 	* plate (0.04)
 	* share (0.03)
 	* eaten (0.02)
@@ -62777,7 +62583,7 @@
 
 2893. Her ignorance and incompetence causes me to __________.
 
-	* scream (0.10)
+	* scream (0.11)
 	* worry (0.10)
 	* cringe (0.09)
 	* suffer (0.06)
@@ -62817,14 +62623,13 @@
 	* argue (0.01)
 	* wretch (0.01)
 	* think (0.01)
-	* get angry (0.01)
 	* twitch (0.01)
 	* doubt (0.01)
 	* get upset (0.01)
 
 2894. Tom's fall resulted in a broken arm and cracked __________.
 
-	* rib (0.77)
+	* rib (0.78)
 	* wrist (0.04)
 	* femur (0.03)
 	* skull (0.03)
@@ -62837,7 +62642,6 @@
 	* tibia (0.01)
 	* tooth (0.01)
 	* head (0.01)
-	* bone (0.01)
 	* tibala (0.01)
 
 2895. The fence wouldn't close because it had a broken __________.
@@ -62845,9 +62649,9 @@
 	* latch (0.65)
 	* gate (0.12)
 	* hinge (0.10)
-	* lock (0.03)
 	* post (0.02)
 	* clasp (0.02)
+	* lock (0.02)
 	* link (0.02)
 	* door (0.02)
 	* handle (0.01)
@@ -62886,13 +62690,12 @@
 	* fit (0.01)
 	* home (0.01)
 	* purpose (0.01)
-	* true love (0.01)
 	* success (0.01)
 
 2898. Tom carefully searched for a bolt of the right __________.
 
-	* size (0.55)
-	* fabric (0.10)
+	* size (0.56)
+	* fabric (0.11)
 	* length (0.06)
 	* cloth (0.05)
 	* diameter (0.03)
@@ -62900,12 +62703,12 @@
 	* caliber (0.02)
 	* color (0.02)
 	* material (0.02)
-	* door (0.02)
 	* light (0.01)
 	* thickness (0.01)
 	* wattage (0.01)
 	* width (0.01)
 	* screw (0.01)
+	* door (0.01)
 	* fit (0.01)
 	* nut (0.01)
 	* section (0.01)
@@ -62927,9 +62730,9 @@
 
 2900. The struggling business had a great deal of __________.
 
-	* debt (0.57)
-	* losses (0.06)
+	* debt (0.58)
 	* problems (0.05)
+	* losses (0.05)
 	* issues (0.04)
 	* overhead (0.03)
 	* heart (0.02)
@@ -62956,9 +62759,9 @@
 
 2901. Jessica went to the treadmill and started to slowly __________.
 
-	* walk (0.59)
+	* walk (0.60)
 	* jog (0.16)
-	* run (0.16)
+	* run (0.15)
 	* exercise (0.03)
 	* train (0.02)
 	* workout (0.02)
@@ -62967,17 +62770,16 @@
 
 2902. They would bury their dog in a grave they __________.
 
-	* dug (0.92)
+	* dug (0.93)
 	* made (0.05)
 	* pond (0.01)
 	* loved (0.01)
-	* prepared (0.01)
 
 2903. The employee quit after claiming the job was too __________.
 
 	* hard (0.53)
 	* stressful (0.12)
-	* difficult (0.10)
+	* difficult (0.11)
 	* demanding (0.04)
 	* tough (0.04)
 	* dangerous (0.03)
@@ -63006,9 +62808,9 @@
 
 2905. The fireplace was adorned with the head of a __________.
 
-	* deer (0.48)
+	* deer (0.47)
 	* moose (0.17)
-	* lion (0.11)
+	* lion (0.12)
 	* bear (0.05)
 	* stag (0.03)
 	* gargoyle (0.02)
@@ -63034,9 +62836,9 @@
 	* bug (0.07)
 	* toy (0.07)
 	* bird (0.05)
-	* dog (0.03)
 	* rodent (0.02)
 	* insect (0.02)
+	* dog (0.02)
 	* kitten (0.02)
 	* yarn (0.01)
 	* puppy (0.01)
@@ -63072,10 +62874,10 @@
 
 2908. He went outside and returned with a juicy __________.
 
-	* apple (0.28)
+	* apple (0.27)
 	* peach (0.17)
+	* orange (0.12)
 	* steak (0.12)
-	* orange (0.11)
 	* pear (0.08)
 	* burger (0.06)
 	* fruit (0.04)
@@ -63092,7 +62894,7 @@
 
 2909. The heavy box finally moved after one last ____.
 
-	* push (0.50)
+	* push (0.51)
 	* shove (0.27)
 	* heave (0.05)
 	* tug (0.04)
@@ -63103,7 +62905,6 @@
 	* pull (0.01)
 	* punch (0.01)
 	* short (0.01)
-	* lift (0.01)
 	* time (0.01)
 	* stop (0.01)
 	* move (0.01)
@@ -63112,7 +62913,7 @@
 
 	* back (0.23)
 	* chest (0.20)
-	* side (0.10)
+	* side (0.11)
 	* stomach (0.10)
 	* leg (0.06)
 	* abdomen (0.06)
@@ -63145,7 +62946,6 @@
 	* wipe (0.02)
 	* flourish (0.01)
 	* washcloth (0.01)
-	* paper towel (0.01)
 
 2912. Michael took a large pill to help treat his __________.
 
@@ -63177,14 +62977,13 @@
 	* ailment (0.01)
 	* diarrhea (0.01)
 	* cough (0.01)
-	* stomach pain (0.01)
 	* paranoia (0.01)
 	* migraine (0.01)
 	* impotency (0.01)
 
 2913. Some Mediterranean desserts include a sweet __________.
 
-	* sauce (0.10)
+	* sauce (0.11)
 	* fruit (0.08)
 	* cake (0.06)
 	* taste (0.05)
@@ -63201,7 +63000,6 @@
 	* date (0.02)
 	* baklava (0.02)
 	* fig (0.02)
-	* potato (0.02)
 	* tea (0.01)
 	* sorbet (0.01)
 	* pickle (0.01)
@@ -63225,6 +63023,7 @@
 	* raisin (0.01)
 	* mango (0.01)
 	* buns (0.01)
+	* potato (0.01)
 	* finish (0.01)
 	* chocolate (0.01)
 	* syrup (0.01)
@@ -63260,7 +63059,6 @@
 	* pier (0.01)
 	* cabin (0.01)
 	* ranch (0.01)
-	* camp site (0.01)
 	* zoo (0.01)
 	* theater (0.01)
 	* lake (0.01)
@@ -63268,8 +63066,8 @@
 2915. When Tony's hair is really long, it covers his __________.
 
 	* face (0.24)
-	* eyes (0.20)
 	* ears (0.19)
+	* eyes (0.19)
 	* shoulders (0.13)
 	* neck (0.09)
 	* back (0.09)
@@ -63281,7 +63079,7 @@
 2916. The home designer carefully chose which decor to __________.
 
 	* use (0.69)
-	* buy (0.06)
+	* buy (0.05)
 	* implement (0.03)
 	* purchase (0.03)
 	* hang (0.02)
@@ -63314,8 +63112,8 @@
 	* best (0.04)
 	* easy (0.04)
 	* popular (0.03)
-	* reasonable (0.03)
 	* helpful (0.02)
+	* reasonable (0.02)
 	* appropriate (0.02)
 	* agreeable (0.01)
 	* perfect (0.01)
@@ -63340,18 +63138,18 @@
 
 2918. Natalie covered her head to avoid getting her hair __________.
 
-	* wet (0.80)
+	* wet (0.81)
 	* messy (0.06)
 	* dirty (0.04)
 	* tangled (0.04)
 	* caught (0.03)
-	* cut (0.02)
 	* messed (0.01)
+	* cut (0.01)
 	* burned (0.01)
 
 2919. When abroad, Wade observed the locals worshipping their __________.
 
-	* gods (0.60)
+	* gods (0.61)
 	* idols (0.15)
 	* statues (0.09)
 	* deities (0.04)
@@ -63363,12 +63161,11 @@
 	* culture (0.01)
 	* mosque (0.01)
 	* names (0.01)
-	* phones (0.01)
 
 2920. The urban teachers taught children not to join a __________.
 
-	* gang (0.78)
-	* cult (0.17)
+	* gang (0.79)
+	* cult (0.16)
 	* club (0.02)
 	* fight (0.01)
 	* union (0.01)
@@ -63376,7 +63173,7 @@
 
 2921. Many people don't recycle even though they __________.
 
-	* should (0.78)
+	* should (0.79)
 	* can (0.07)
 	* could (0.06)
 	* try (0.01)
@@ -63387,7 +63184,6 @@
 	* clean (0.01)
 	* reuse (0.01)
 	* cue (0.01)
-	* have too many garbage (0.01)
 	* claim (0.01)
 
 2922. While walking on the beach, Darcy heard a __________.
@@ -63420,7 +63216,6 @@
 	* ship (0.01)
 	* cow (0.01)
 	* dog (0.01)
-	* loud noise (0.01)
 	* moan (0.01)
 	* wail (0.01)
 	* squawk (0.01)
@@ -63428,7 +63223,7 @@
 
 2923. The queen rewarded Andrew for being a chivalrous __________.
 
-	* knight (0.55)
+	* knight (0.56)
 	* man (0.11)
 	* gentleman (0.10)
 	* hero (0.05)
@@ -63457,7 +63252,7 @@
 	* b**** (0.20)
 	* whore (0.15)
 	* slut (0.13)
-	* pig (0.10)
+	* pig (0.09)
 	* slob (0.06)
 	* name (0.05)
 	* hag (0.03)
@@ -63486,7 +63281,7 @@
 
 2926. Before battle, the knight needed to get a new __________.
 
-	* sword (0.66)
+	* sword (0.65)
 	* horse (0.14)
 	* shield (0.07)
 	* helmet (0.04)
@@ -63501,7 +63296,7 @@
 2927. The exasperated mom told her kids to __________.
 
 	* stop (0.21)
-	* hush (0.11)
+	* hush (0.12)
 	* behave (0.10)
 	* sleep (0.09)
 	* leave (0.09)
@@ -63523,14 +63318,13 @@
 	* flee (0.01)
 	* scram (0.01)
 	* fight (0.01)
-	* go to sleep (0.01)
 	* run (0.01)
 
 2928. The hurricane that hit the harbor destroyed the man's __________.
 
-	* boat (0.50)
+	* boat (0.51)
 	* home (0.23)
-	* house (0.18)
+	* house (0.17)
 	* yacht (0.03)
 	* dock (0.02)
 	* tent (0.01)
@@ -63554,7 +63348,7 @@
 	* milk (0.32)
 	* steak (0.16)
 	* meat (0.14)
-	* beef (0.10)
+	* beef (0.11)
 	* pets (0.03)
 	* burgers (0.03)
 	* noise (0.02)
@@ -63597,13 +63391,12 @@
 	* wind turbine (0.01)
 	* No Response (0.01)
 	* damn (0.01)
-	* noise (0.01)
 
 2932. In hardship, the pious nun gained strength from her __________.
 
 	* faith (0.48)
 	* prayers (0.12)
-	* god (0.07)
+	* god (0.06)
 	* religion (0.05)
 	* beliefs (0.05)
 	* friends (0.04)
@@ -63629,7 +63422,7 @@
 2933. To get chewing gum off the floor she needs to __________.
 
 	* scrape (0.43)
-	* scrub (0.32)
+	* scrub (0.33)
 	* clean (0.09)
 	* mop (0.03)
 	* kneel (0.02)
@@ -63641,7 +63434,6 @@
 	* scrap (0.01)
 	* bend (0.01)
 	* work (0.01)
-	* wipe it out (0.01)
 	* pray (0.01)
 	* work hard (0.01)
 
@@ -63649,9 +63441,9 @@
 
 	* blue (0.28)
 	* red (0.22)
-	* pink (0.11)
+	* pink (0.12)
+	* purple (0.11)
 	* green (0.11)
-	* purple (0.10)
 	* yellow (0.05)
 	* black (0.03)
 	* white (0.03)
@@ -63678,7 +63470,6 @@
 	* numb (0.01)
 	* freeze (0.01)
 	* shatter (0.01)
-	* fell off (0.01)
 
 2936. Cory's physics lab is interested in studying __________.
 
@@ -65024,13 +64815,13 @@
 	* rip (0.69)
 	* sound (0.14)
 	* noise (0.06)
-	* gasp (0.02)
 	* laugh (0.01)
 	* No Response (0.01)
 	* split (0.01)
 	* cry (0.01)
 	* scream (0.01)
 	* crack (0.01)
+	* gasp (0.01)
 	* bang (0.01)
 	* ripping (0.01)
 	* wail (0.01)
@@ -65077,7 +64868,6 @@
 	* cake (0.01)
 	* napkins (0.01)
 	* pants (0.01)
-	* theme (0.01)
 	* tile (0.01)
 	* image (0.01)
 	* sweater (0.01)
@@ -65087,7 +64877,7 @@
 2989. Nathan grabbed the bottle of milk and began to __________.
 
 	* drink (0.62)
-	* chug (0.18)
+	* chug (0.17)
 	* pour (0.13)
 	* shake (0.02)
 	* No Response (0.01)
@@ -65112,7 +64902,7 @@
 
 2991. Tucker has no filter, and says whatever enters his __________.
 
-	* mind (0.89)
+	* mind (0.88)
 	* head (0.07)
 	* No Response (0.01)
 	* brain (0.01)
@@ -65123,7 +64913,7 @@
 2992. During the summer, the children enjoyed swimming in the __________.
 
 	* pool (0.64)
-	* lake (0.28)
+	* lake (0.27)
 	* pond (0.02)
 	* creek (0.02)
 	* No Response (0.01)
@@ -65134,7 +64924,7 @@
 
 2993. They were worried because the timing had to be __________.
 
-	* perfect (0.68)
+	* perfect (0.67)
 	* right (0.20)
 	* exact (0.04)
 	* precise (0.03)
@@ -65146,7 +64936,7 @@
 
 2994. The blanket looked like something a child had __________.
 
-	* made (0.45)
+	* made (0.44)
 	* used (0.20)
 	* loved (0.09)
 	* torn (0.03)
@@ -65176,8 +64966,8 @@
 
 	* merge (0.28)
 	* pass (0.22)
-	* race (0.19)
 	* turn (0.19)
+	* race (0.18)
 	* stop (0.02)
 	* swerve (0.02)
 	* No Response (0.01)
@@ -65192,7 +64982,7 @@
 
 2996. The men of the family went out to hunt __________.
 
-	* deer (0.64)
+	* deer (0.63)
 	* elk (0.07)
 	* ducks (0.05)
 	* bears (0.03)
@@ -65231,14 +65021,13 @@
 	* unsure (0.01)
 	* gloomy (0.01)
 	* wrong (0.01)
-	* unclear (0.01)
 	* glum (0.01)
 	* great (0.01)
 
 2998. In the morning, Kathy hoped that the birds wouldn't __________.
 
-	* chirp (0.40)
-	* sing (0.34)
+	* chirp (0.39)
+	* sing (0.35)
 	* leave (0.04)
 	* die (0.03)
 	* poop (0.03)
@@ -65261,7 +65050,7 @@
 2999. Holly put her most expensive jewelry in the __________.
 
 	* safe (0.69)
-	* box (0.10)
+	* box (0.09)
 	* closet (0.04)
 	* chest (0.04)
 	* drawer (0.03)
@@ -65278,7 +65067,7 @@
 
 3000. Julie really enjoyed when she had enough time to __________.
 
-	* read (0.30)
+	* read (0.29)
 	* relax (0.26)
 	* sleep (0.09)
 	* eat (0.04)
@@ -65324,7 +65113,6 @@
 	* finger (0.01)
 	* care (0.01)
 	* move (0.01)
-	* swoop (0.01)
 	* rouch (0.01)
 
 3002. Molly thought the table surface was too __________.
@@ -65347,7 +65135,6 @@
 	* sharp (0.01)
 	* textured (0.01)
 	* scratched (0.01)
-	* hot (0.01)
 	* greasy (0.01)
 	* wet (0.01)
 	* bare (0.01)
@@ -65382,7 +65169,7 @@
 
 	* environment (0.22)
 	* lab (0.20)
-	* needle (0.20)
+	* needle (0.19)
 	* room (0.04)
 	* instrument (0.03)
 	* laboratory (0.03)
@@ -65446,7 +65233,7 @@
 
 3007. The hungry horses were happy when the farmer brought __________.
 
-	* hay (0.45)
+	* hay (0.44)
 	* food (0.13)
 	* carrots (0.13)
 	* oats (0.09)
@@ -65462,9 +65249,9 @@
 3008. Phil called a landscaper, because they needed someone to __________.
 
 	* mow (0.44)
-	* help (0.10)
+	* help (0.11)
 	* work (0.08)
-	* trim (0.08)
+	* trim (0.07)
 	* garden (0.05)
 	* landscape (0.04)
 	* plant (0.02)
@@ -65487,9 +65274,9 @@
 
 3009. After driving over the dirt, the truck left a __________.
 
-	* track (0.30)
+	* track (0.31)
 	* rut (0.17)
-	* mark (0.16)
+	* mark (0.15)
 	* trail (0.09)
 	* imprint (0.06)
 	* print (0.04)
@@ -65510,7 +65297,7 @@
 
 3010. In the pottery class, Maddie made a new __________.
 
-	* vase (0.42)
+	* vase (0.41)
 	* pot (0.20)
 	* bowl (0.17)
 	* ashtray (0.05)
@@ -65528,9 +65315,9 @@
 3011. Grayson found what he thought to be a wolf __________.
 
 	* cub (0.21)
-	* track (0.11)
+	* track (0.12)
 	* pup (0.10)
-	* print (0.09)
+	* print (0.08)
 	* tooth (0.07)
 	* den (0.06)
 	* pack (0.03)
@@ -65562,10 +65349,10 @@
 
 3012. The fighter's worst injury that night was a broken __________.
 
-	* nose (0.37)
+	* nose (0.38)
 	* jaw (0.13)
-	* hand (0.10)
 	* finger (0.09)
+	* hand (0.09)
 	* leg (0.07)
 	* wrist (0.07)
 	* arm (0.05)
@@ -65634,8 +65421,8 @@
 3015. Diana held the keepsake from her grandmother very __________.
 
 	* close (0.40)
-	* dear (0.23)
-	* tightly (0.11)
+	* dear (0.22)
+	* tightly (0.12)
 	* carefully (0.06)
 	* near (0.03)
 	* sacred (0.03)
@@ -65654,7 +65441,7 @@
 
 3016. Sharing combs with infected people gave Lorie __________.
 
-	* lice (0.90)
+	* lice (0.89)
 	* the flu (0.02)
 	* worries (0.01)
 	* No Response (0.01)
@@ -65668,7 +65455,7 @@
 
 3017. The woman told her daughter to respect the __________.
 
-	* law (0.18)
+	* law (0.17)
 	* rules (0.10)
 	* elderly (0.09)
 	* elders (0.09)
@@ -65704,17 +65491,17 @@
 
 3018. To cool himself off, Doug sat near the __________.
 
-	* fan (0.50)
+	* fan (0.51)
 	* window (0.09)
 	* water (0.09)
 	* pool (0.06)
 	* fountain (0.04)
 	* air conditioner (0.03)
-	* shade (0.03)
 	* tree (0.03)
 	* sprinkler (0.03)
 	* vent (0.03)
 	* river (0.02)
+	* shade (0.02)
 	* No Response (0.01)
 	* lake (0.01)
 	* door (0.01)
@@ -65755,8 +65542,8 @@
 
 3021. He ate every part of the fruit except the __________.
 
-	* core (0.32)
-	* seeds (0.27)
+	* core (0.33)
+	* seeds (0.26)
 	* pit (0.22)
 	* rind (0.10)
 	* skin (0.03)
@@ -65777,8 +65564,8 @@
 3023. The townspeople were careless and often polluted the __________.
 
 	* river (0.42)
-	* water (0.20)
-	* lake (0.11)
+	* water (0.19)
+	* lake (0.12)
 	* air (0.07)
 	* stream (0.06)
 	* streets (0.05)
@@ -65795,7 +65582,7 @@
 
 	* sheets (0.22)
 	* blankets (0.14)
-	* sofa (0.10)
+	* sofa (0.11)
 	* decor (0.10)
 	* comforter (0.08)
 	* couch (0.08)
@@ -65814,7 +65601,7 @@
 
 3025. At the store, the cook purchased a container of __________.
 
-	* rice (0.09)
+	* rice (0.08)
 	* spice (0.08)
 	* lard (0.08)
 	* butter (0.06)
@@ -65861,8 +65648,8 @@
 
 3026. The children spent hours at the beach making a __________.
 
-	* castle (0.63)
-	* sandcastle (0.33)
+	* castle (0.62)
+	* sandcastle (0.34)
 	* No Response (0.01)
 	* fuss (0.01)
 	* holes (0.01)
@@ -65891,7 +65678,7 @@
 	* cat (0.15)
 	* plants (0.08)
 	* pets (0.08)
-	* kids (0.07)
+	* kids (0.06)
 	* house (0.04)
 	* children (0.03)
 	* daughter (0.03)
@@ -65915,8 +65702,8 @@
 	* family (0.10)
 	* baby (0.10)
 	* kids (0.06)
-	* son (0.04)
 	* babies (0.03)
+	* son (0.03)
 	* soon (0.02)
 	* daughter (0.02)
 	* set (0.01)
@@ -65931,21 +65718,21 @@
 
 3030. The chef sprayed the cooking spray onto the __________.
 
-	* pan (0.91)
+	* pan (0.92)
 	* griddle (0.02)
-	* skillet (0.02)
 	* No Response (0.01)
 	* grill (0.01)
 	* food (0.01)
 	* floor (0.01)
 	* tray (0.01)
+	* skillet (0.01)
 
 3031. Isabella's new, trendy jacket was made of __________.
 
 	* leather (0.48)
-	* wool (0.11)
-	* silk (0.10)
-	* denim (0.09)
+	* wool (0.12)
+	* silk (0.11)
+	* denim (0.08)
 	* fur (0.06)
 	* fleece (0.02)
 	* tweed (0.02)
@@ -65963,9 +65750,9 @@
 
 3032. Eliana screamed loudly when she saw the __________.
 
-	* spider (0.21)
-	* snake (0.11)
-	* bug (0.10)
+	* spider (0.20)
+	* snake (0.12)
+	* bug (0.11)
 	* mouse (0.09)
 	* ghost (0.06)
 	* monster (0.04)
@@ -66007,9 +65794,9 @@
 	* expensive (0.07)
 	* hard (0.06)
 	* challenging (0.05)
-	* prestigious (0.04)
 	* advanced (0.04)
 	* new (0.04)
+	* prestigious (0.03)
 	* accelerated (0.03)
 	* free (0.03)
 	* rigorous (0.03)
@@ -66053,7 +65840,7 @@
 3034. The woman was very ill and needed constant __________.
 
 	* care (0.64)
-	* attention (0.20)
+	* attention (0.19)
 	* help (0.06)
 	* treatment (0.02)
 	* No Response (0.01)

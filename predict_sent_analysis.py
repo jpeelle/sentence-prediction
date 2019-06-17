@@ -172,11 +172,11 @@ def output_csv(data_dict, filename='output.tsv', separator='\t'):
 
 def output_answer_dict(ans_dict, filename):
     with open(filename, 'w') as file:
-        header = '\t'.join(['Answer', 'Question_1, Freq_1', 'Question_2, Freq_2', '...'])
+        header = '\t'.join(['Answer', 'Number_of_Questions', 'Question_1', 'Freq_1', 'Question_2' 'Freq_2', '...'])
         file.write(header + '\n')
         for k, v in ans_dict.items():
             v_list = [n[0]+'\t'+str(n[1]) for n in v]
-            line = '\t'.join([k]+v_list)
+            line = '\t'.join([k]+[str(len(v_list))]+v_list)
             file.write(line + '\n')
 
 # # Relies on a Python Library (pyenchant) to determine if a word is real or not

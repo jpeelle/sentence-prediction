@@ -148,8 +148,21 @@ def output_markdown(data_dict, filename='output.md'):
 def output_csv(data_dict, filename='output.tsv', separator='\t'):
     print('Writing tsv file, {}'.format(filename))
     with open(filename, 'w') as file:
-        #header = separator.join(['Question','Number_of_Unique_Responses', 'Response_Entropy', 'Answer_1','Percent_of_Responses_1', 'Answer_2','Percent_of_Responses_2', '...'])
-        header = separator.join(['Question','Number_of_Unique_Responses', 'Response_Entropy', 'Answer_1', 'Answer_2', '...', 'Percent_of_Responses_1', 'Percent_of_Responses_2', '...'])
+        max_resp = 0
+        for k, v in data_dict.items():
+            num_answers = len(v)
+            if num_answers > max_resp:
+                max_resp = num_answers
+        #num_ans_resp = []
+        num_ans = []
+        num_resp = []
+        for i in range(max_resp):
+            #num_ans_resp.append('Answer_' + str(i + 1))
+            #num_ans_resp.append('Percent_of_Responses_' + str(i + 1))
+            num_ans.append('Answer_' + str(i + 1))
+            num_resp.append('Percent_of_Responses_' + str(i + 1))
+        #header = separator.join(['Question','Number_of_Unique_Responses', 'Response_Entropy', 'Highest_Response_Percent'] + num_ans_resp)
+        header = separator.join(['Question','Number_of_Unique_Responses', 'Response_Entropy', 'Highest_Response_Percent'] + num_ans + num_resp)
         file.write(header + '\n')
         for k, v in data_dict.items():
             entropy = 0
@@ -157,17 +170,21 @@ def output_csv(data_dict, filename='output.tsv', separator='\t'):
             num_answers = str(len(v))
             answers = []
             values = []
+            highest_percent = 0
             for key, val in v.items():
                 p = val[0]
                 entropy += p*log2(p)
+                if p > highest_percent:
+                    highest_percent = p
                 #answers.append('{}\t{}'.format(key, val[0]))
                 answers.append(str(key))
                 values.append(str(val[0]))
             entropy *= -1
             entropy_str = str(round(entropy, 2))
+            highest_percent_str = str(highest_percent)
             answer_str = separator.join(answers)
             value_str = separator.join(values)
-            line = separator.join((question, num_answers, entropy_str, answer_str, value_str))
+            line = separator.join((question, num_answers, entropy_str, highest_percent_str, answer_str, value_str))
             file.write(line + '\n')
 
 def output_answer_dict(ans_dict, filename):

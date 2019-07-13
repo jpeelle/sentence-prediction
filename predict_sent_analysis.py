@@ -189,7 +189,15 @@ def output_csv(data_dict, filename='output.tsv', separator='\t'):
 
 def output_answer_dict(ans_dict, filename):
     with open(filename, 'w') as file:
-        header = '\t'.join(['Answer', 'Number_of_Questions', 'Question_1', 'Freq_1', 'Question_2' 'Freq_2', '...'])
+        max_qs = 0
+        for k, v in ans_dict.items():
+            if len(v) > max_qs:
+                max_qs = len(v)
+        num_q = []
+        for i in range(max_qs):
+            num_q.append('Question_' + str(i + 1))
+            num_q.append('Freq_' + str(i + 1))
+        header = '\t'.join(['Answer', 'Number_of_Questions'] + num_q)
         file.write(header + '\n')
         for k, v in ans_dict.items():
             v_list = [n[0]+'\t'+str(n[1]) for n in v]

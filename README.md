@@ -65,8 +65,10 @@ To anonymize Mechanical Turk data, run: `$python3 anonymizer.py data_file_1 data
 The data provided in the `example` folder comprise 3085 sentences, for which we collected at least 100 responses online using Amazon Mechanical Turk. This could be run with a command such as
 
 `
-../predict_sent_analysis.py anonymized_fill-in-1x35.csv anonymized_fill-in-61x50.csv -r replacements.csv -m output.md -t output.tsv -c censors.csv -e excluded_workers.txt
+python3 ../predict_sent_analysis.py anonymized_fill-in-1x35.csv anonymized_fill-in-1x50.csv anonymized_fill-in-61x50.csv -r replacements.csv -m output.md -t output.tsv -c censors.csv -e excluded_workers.txt 
 `
+
+**NOTE: For the example to work correctly, the three input files must be entered in the order above (otherwise, numbering of sentences for `replacements.csv` will not work).**
 
 
 ## Paper

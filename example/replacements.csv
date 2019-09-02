@@ -2391,7 +2391,6 @@ Question 3001,rouch,touch,typo,JP
 Question 3002,shiney,shiny,typo,MH
 Question 3003,wake,awake,typo,MH
 Question 3003,awaken,awake,tense,MH
-Question 3003,frolic,frolick,typo,MH
 Question 3003,frolick,frolic,typo,JP
 Question 3004,knige,knife,typo,MH
 Question 3004,envioronment,environment,typo,MH
@@ -2480,7 +2479,7 @@ Question 3067,terror,terrorize,tense,MH
 Question 3067,pilage,pillage,typo,MH
 Question 3069,quieten,quiet,typo,MH
 Question 3069,shutup,shut up,typo,MH
-Question 3071,baloons,balloons,typo,JP
+Question 3021,baloons,balloons,typo,JP
 Question 3072,jokes,joke,plural,MH
 Question 3072,tones,tone,plural,MH
 Question 3073,obo,oboe,typo,JP
@@ -3314,3 +3313,23 @@ Question 998,dyke,dike,typo,MH
 Question 998,levies,levee,plural,MH
 Question 998,walls,wall,plural,MH
 Question 998,levees,levee,plural,MH
+Question 3061,concideration,consideration,typo,JP
+Question 3043,glich,glitch,typo,JP
+Question 3062,messsage,message,typo,JP
+Question 3065,knifes,knives,typo,JP
+Question 3064,lepoard,leopard,typo,JP
+Question 3043,studder,stutter,typo,JP
+Question 3071,quivver,quiver,typo,JP
+Question 3066,dof,dog,typo,JP
+Question 3066,swins,swings,typo,JP
+Question 3066,pidgeons,pigeons,typo,JP
+Question 3050,weidth,width,typo,JP
+Question 3079,shir,shirt,typo,JP
+Question 2996,sinhg,sing,typo,JP
+Question 3033,contruction,construction,typo,JP
+Question 3048,nobel,noble,typo,JP
+Question 3029,oneday,one day,typo,JP
+Question 2034,utencils,utensils,typo,JP
+Question 3004,utencil,utensil,typo,JP
+Question 2951,fuscia,fuchsia,typo,JP
+Question 2934,fuschia,fuchsia,typo,JP

@@ -73,4 +73,6 @@ python3 ../predict_sent_analysis.py anonymized_fill-in-1x35.csv anonymized_fill-
 
 ## Paper
 
-A paper describing the procedure and example set of norms will be listed here when it is available.
+If you use these norms, please cite:
+
+Peelle JE, Miller RL, Rogers CS, Spehar B, Sommers MS, Van Engen KJ (2020) Completion norms for 3085 English sentence contexts. Behav Res Methods 52:1795-1799. https://doi.org/10.3758/s13428-020-01351-1

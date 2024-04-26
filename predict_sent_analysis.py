@@ -182,6 +182,11 @@ def output_csv(data_dict, filename='output.tsv', separator='\t'):
             entropy *= -1
             entropy_str = str(round(entropy, 2))
             highest_percent_str = str(highest_percent)
+            if len(answers) < max_resp:
+                diff = max_resp - len(answers)
+                for i in range(diff):
+                    answers.append("")
+                    values.append("")
             answer_str = separator.join(answers)
             value_str = separator.join(values)
             line = separator.join((question, num_answers, entropy_str, highest_percent_str, answer_str, value_str))
